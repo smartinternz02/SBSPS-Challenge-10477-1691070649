@@ -63,7 +63,7 @@ pip install flask
 
 ## Usage
 
-1. Open and run the Jupyter Notebook `campus_placement_analysis.ipynb` to follow the project workflow.
+1. Open and run the Jupyter Notebook `My Campus Placement Trend.ipynb` to follow the project workflow.
 
 2. Execute notebook cells sequentially to perform data analysis, visualization, and interpretation.
 
