@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login Page</title>
+<style> 
+ 
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image:url("{{url_for("static",filename="mark3.jpeg")}}");
+background-repeat:no-repeat; 
+background-size:cover;
+background-position:center;
+border-radius:20px;
+}
+
+#login-form {
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 0 10px #888888;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  animation-name: slideIn;
+  animation-duration: 0.5s;
+}
+
+label { 
+  foent-size:17px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: black;
+  animation-name: colorChange;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+label:first-child {
+  animation-delay: 0.5s;
+}
+
+label:last-child {
+  animation-delay: 1s;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+  width: 80%;
+  padding: 8px 15px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  color: black;
+  animation-name: fadeIn;
+  animation-duration: 0.5s;
+}
+
+input[type="submit"] {
+  background-color: grey;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  width:100px;
+}
+
+input[type="submit"]:hover {
+  background-color: #1C7293;
+  
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes colorChange {
+  from {
+    color: #1F2D3D;
+  }
+  to {
+    color:white;
+    font-weight:70px;
+   
+  }
+}
+#n{ 
+color:blue;
+}
+#p{ 
+color:green;
+} 
+
+button{
+position:relative;
+left:1200px;
+top:30px;
+width:100px;
+font-weight:10px;
+color:white;
+border-radius:10px;
+border:2px solid black;
+background-color:black;
+}  
+
+button:hover{ 
+background-color:black;
+}
+button:active{ 
+background-color:grey;
+}
+  
+
+
+</style> </head>
+ <body>   
+
+<a href="{{url_for("hel")}}"> <button> Back </button> </a>
+<div id="container"> 
+  <div id="login-form">
+    <form action="{{url_for("hello")}}">
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username"><br> 
+
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password">
+
+    <center>   <input type="submit" value="Login"> </center> 
+    </form>
+  </div>
+</div>
+
+
+
+ 
+<script> 
+document.getElementById("login-form").addEventListener("submit", function(event) {
+  // prevent the form from submitting normally
+  event.preventDefault();
+
+  // get the values of the username and password inputs
+  var username = document.getElementById("username").value;
+  var password = document.getElementById("password").value;
+
+  // check if the username and password are correct
+  if (username === "sahibsaifi12291" && password === "s*123") {
+    // redirect to the success page
+    window.location.href = "{{url_for("hello")}}";
+  } else {
+    // display an error message
+    alert("Invalid username or password!");
+  }
+});
+
+
+</script> 
+
+
+/
+
+  </body>
+</html>

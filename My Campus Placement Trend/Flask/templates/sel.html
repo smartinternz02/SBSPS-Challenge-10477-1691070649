@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Campus Placement Notice</title> 
+<style>  
+.animated-text {
+ margin-top:0px;
+  font-size: 6rem;
+  background: linear-gradient(-45deg, #f8b500, #f953c6, #18bfff, #9e22e3, #f8b500, #f953c6, #18bfff, #9e22e3);
+  background-size: 400%;
+  animation: gradient 15s ease infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+
+@keyframes gradient {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 400%;
+  }
+}
+
+
+
+
+
+
+body{ 
+background-image:url("{{url_for('static',filename="win.jpg")}}"); 
+background-repeat:no-repeat; 
+background-size:cover;
+overflow:hidden;
+} 
+h1{
+font-weight:bold;
+}
+p{
+color:white;
+font-size:15px;
+font-weight:bold;
+} 
+.centerBike{ 
+position:absolute; 
+top:50%;
+left:70%; 
+margin-top:26px;
+margin-left:-12px;
+} 
+.center{ 
+position:absolute;
+top:20%;
+left:84%;
+margin-top:-50px;
+margin-left:-50px;
+}
+#loop{
+height:100px;
+width:100px;
+border:#bb5f27 solid 4px;
+border-radius:200px;
+}
+#loop:before{ 
+background:linear-gradient(to left, rgba(187,95,39,0) 0%, rgba(187,95,39,1) 30%,rgba(187,95,39,1) 70%,rgba(187,95,39,0) 100%);
+content: "";
+display:block;
+height:4px; 
+left:-100px;
+position:relative;
+top:100px; 
+width:300px; 
+} 
+#bike-wrapper {
+height:108px; 
+width:108px; 
+animation:drive 3s linear infinite;
+} 
+#bike{ 
+height:24px; 
+width:25px; 
+background-image:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/133687/motorbike.png");
+}
+@keyframes drive{ 
+0%{
+margin-left:-364px; 
+opacity:0; 
+} 
+33.33%{ 
+transform:rotate(0deg);
+margin-left:-50px; 
+opacity:1;
+} 
+66.66%{ 
+transform:rotate(-360deg);
+margin-left:-50px; 
+opacity:1;
+ }
+100%{ 
+margin-left:264px; 
+transform:rotate(-360deg);
+opacity:0;
+} 
+}   
+
+
+p{
+font-weight:bold;
+font-size:20px;
+color:black;
+}
+#b {
+background-color:green;
+color:white; 
+position:relative;
+left:1250px; 
+width:80px; 
+border-radius:20px; 
+}
+
+</style>
+</head>   
+
+<a href="{{url_for("hello")}}"> <button id="b"> Back </button> </a>
+<body> <center> <div> 
+	<h1 class="animated-text">Congratulations!</h1>
+	
+	<p>We are pleased to inform you that you have been selected for the campus placement program at our university.</p>
+	<p>The placement program will be held on <strong>[DATE]</strong> at the university auditorium. We request you to arrive at the venue on time and bring all the necessary documents for the interview process.</p>
+	<p>We hope that you will make the most of this opportunity and wish you all the best for your future endeavors.</p>
+	<p>For more information and interview details, please visit our website.</p>
+ </div> </center> 
+<div id="loop" class="center"> </div> 
+<div id="bike-wrapper" class="center">
+<div id="bike" class="centerBike"> </div>
+
+
+</div>
+
+</body>
+</html>

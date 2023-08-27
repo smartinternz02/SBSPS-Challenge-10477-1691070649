@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  .gallery img:hover {
+    transform: scale(1.2);
+  }
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .gallery img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  } 
+
+button{
+position:relative;
+left:1200px;
+top:30px;
+width:100px;
+font-weight:10px;
+color:white;
+border-radius:10px;
+border:2px solid black;
+background-color:black;
+}  
+
+button:hover{ 
+background-color:black;
+}
+button:active{ 
+background-color:grey;
+}
+
+</style>
+</head>
+<body>   
+
+<a href="{{url_for("hel")}}"> <button> Back </button> </a>
+
+<center>   <h2 style="color: #f386a1; font-size: 36px; text-transform: uppercase; letter-spacing: 2px;">Build Your Resume with Campus Placement</h2> <center> 
+
+
+<div class="gallery">
+ <a href="{{url_for("static",filename="res1.jpg")}}"> <img src="{{url_for("static",filename="res1.jpg")}}"  alt="Image 1"> </a>
+<a href="{{url_for("static",filename="resume.jpeg")}}"><img src="{{url_for("static",filename="resume.jpeg")}}" alt="Image 1"></a>
+  <a href="{{url_for("static",filename="res2.jpg")}}"> <img src="{{url_for("static",filename="res2.jpg")}}"  alt="Image 2"> </a> 
+ 
+  <a href="{{url_for("static",filename="resume3.jpg")}}><img src="{{url_for("static",filename="resume3.jpg")}}" alt="Image 2"></a>
+ <a href="{{url_for("static",filename="res3.jpg")}}"> <img src="{{url_for("static",filename="res3.jpg")}}" alt="Image 3"> </a>
+  <a href="{{url_for("static",filename="res4.jpg")}}"><img src="{{url_for("static",filename="res4.jpg")}}" alt="Image 4"> </a>
+ 
+ <a href="{{url_for("static",filename="re5.jpg")}}"> <img src="{{url_for("static",filename="re5.jpg")}}" alt="Image 3"> </a>
+  <a href="{{url_for("static",filename="res8.png")}}"><img src="{{url_for("static",filename="res8.png")}}"  alt="Image 1"></a>
+  <a href="{{url_for("static",filename="res6.jpg")}}"><img src="{{url_for("static",filename="res6.jpg")}}" alt="Image 2"></a>
+  <a href="{{url_for("static",filename="res7.jpg")}}"><img src="{{url_for("static",filename="res7.jpg")}}"  alt="Image 3"></a>
+  <a href="{{url_for("static",filename="resume2.webp")}}"><img src="{{url_for("static",filename="resume2.webp")}}"alt="Image 3"></a>
+ 
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="background-color: #F7B32B; width: 250px; height: 200px; padding: 20px; margin: 20px;">
+    <h3 style="color: #fff;">Education</h3>
+    <p style="color: #fff;">Bachelors in Computer Science<br>University of XYZ<br>Graduated May 2020</p>
+
+  </div>
+  <div style="background-color: #4A4E69; width: 250px; height: 200px; padding: 20px; margin: 20px;">
+    <h3 style="color: #fff;">Experience</h3>
+    <p style="color: #fff;">Software Engineer<br>ABC Company<br>June 2020 - Present</p>
+    </div> 
+  <div style="background-color: #3E1F47; width: 250px; height: 200px; padding: 20px; margin: 20px;">
+    <h3 style="color: #fff;">Skills</h3>
+    <p style="color: #fff;">Java, Python, HTML/CSS, JavaScript, SQL</p>
+  </div>
+  <div style="background-color: #E23E57; width: 250px; height: 200px; padding: 20px; margin: 20px;">
+    <h3 style="color: #fff;">Projects</h3>
+    <p style="color: #fff;">Online Shopping Website<br>Built using Django and React<br>Deployed on AWS</p>
+   
+  </div>
+</div>
+
+
+
+ 
+
+	
+
+
+</body>
+</html> 

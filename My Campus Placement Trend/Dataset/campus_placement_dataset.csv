@@ -1,0 +1,1651 @@
+Student_ID,Gender,Age,Education,CGPA,Internships,Year,Hostel,Projects,Letter_of_Recommendation,Specialization,On/Off Campus,Package(LPA),HistoryOfBacklogs,Placement_Status
+20001,Male,26,Bachelor,9.14,0,2018,Opted,0,Yes,Electrical,On Campus,815358,0,Placed
+20002,Female,24,Master,8.49,3,2022,Opted,2,No,Electrical,On Campus,782456,2,Placed
+20003,Male,27,Bachelor,8.57,0,2019,Not Opted,4,No,Computer Science,Off Campus,270246,2,Placed
+20004,Male,24,Master,7.31,3,2020,Opted,5,Yes,Computer Science,On Campus,0,4,Not Placed
+20005,Male,24,Master,9.6,2,2019,Opted,5,Yes,Information Technology,On Campus,0,3,Not Placed
+20006,Female,24,Master,8.47,0,2019,Not Opted,0,No,Computer Science,Off Campus,0,4,Not Placed
+20007,Male,24,Master,8.64,2,2020,Not Opted,5,No,Mechanical,On Campus,0,4,Not Placed
+20008,Male,26,Master,9.31,3,2023,Opted,5,Yes,Computer Science,Off Campus,0,3,Not Placed
+20009,Male,27,Bachelor,6.37,2,2020,Opted,0,No,Information Technology,On Campus,599325,2,Placed
+20010,Female,27,Bachelor,9.04,0,2019,Opted,5,Yes,Computer Science,On Campus,0,3,Not Placed
+20011,Male,27,Bachelor,5.98,0,2020,Opted,2,Yes,Computer Science,Off Campus,521901,0,Placed
+20012,Male,24,Master,6.73,2,2023,Not Opted,1,No,Electrical,Off Campus,0,4,Not Placed
+20013,Male,26,Bachelor,6.68,1,2018,Opted,4,No,Electrical,Off Campus,0,4,Not Placed
+20014,Male,25,Bachelor,9.89,3,2020,Opted,2,No,Computer Science,Off Campus,0,3,Not Placed
+20015,Female,27,Bachelor,9.28,3,2020,Not Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20016,Male,21,Bachelor,,2,2019,Opted,1,Yes,Computer Science,On Campus,362187,2,Placed
+20017,Female,21,Bachelor,8.64,1,2018,Opted,4,No,Electronics,On Campus,0,4,Not Placed
+20018,Female,26,Master,7.81,0,2021,Not Opted,2,No,Electrical,Off Campus,0,3,Not Placed
+20019,Female,27,Bachelor,9.74,4,2021,Not Opted,5,No,Computer Science,On Campus,824078,2,Placed
+20020,Male,24,Master,7.48,4,2022,Opted,1,Yes,Information Technology,On Campus,244258,2,Placed
+20021,Female,25,Master,6.9,2,2020,Not Opted,4,No,Electronics,On Campus,0,4,Not Placed
+20022,Male,24,Master,,1,2020,Not Opted,3,No,Mechanical,Off Campus,0,3,Not Placed
+20023,Female,27,Master,8.93,1,2018,Opted,0,Yes,Mechanical,Off Campus,0,4,Not Placed
+20024,Female,24,Master,8.67,3,2023,Not Opted,5,Yes,Information Technology,On Campus,558720,0,Placed
+20025,Female,24,Bachelor,6.92,0,2021,Opted,1,Yes,Computer Science,On Campus,829769,0,Placed
+20026,Female,27,Bachelor,,1,2022,Opted,0,Yes,Computer Science,Off Campus,363118,2,Placed
+20027,Female,21,Bachelor,9.19,4,2018,Opted,3,Yes,Electronics,Off Campus,0,4,Not Placed
+20028,Female,24,Master,5.06,0,2020,Opted,2,No,Civil,Off Campus,971888,0,Placed
+20029,Female,26,Bachelor,8.52,0,2021,Not Opted,2,Yes,Information Technology,Off Campus,670471,1,Placed
+20030,Female,26,Bachelor,9.85,2,2022,Opted,4,Yes,Information Technology,On Campus,205397,0,Placed
+20031,Male,28,Master,7.19,1,2019,Opted,1,Yes,Information Technology,Off Campus,0,4,Not Placed
+20032,Male,24,Master,6.17,2,2021,Opted,1,Yes,Information Technology,On Campus,0,4,Not Placed
+20033,Female,27,Master,8.52,1,2022,Opted,4,Yes,Computer Science,Off Campus,676552,0,Placed
+20034,Female,24,Master,9.09,3,2018,Not Opted,0,Yes,Electrical,On Campus,0,4,Not Placed
+20035,Female,27,Bachelor,7.73,2,2019,Not Opted,2,Yes,Computer Science,On Campus,0,4,Not Placed
+20036,Male,24,Master,9.84,2,2022,Not Opted,2,Yes,Computer Science,Off Campus,656435,1,Placed
+20037,Female,28,Master,5.26,4,2022,Opted,1,No,Electrical,On Campus,696574,2,Placed
+20038,Male,23,Bachelor,7.52,2,2020,Not Opted,1,No,Computer Science,On Campus,0,4,Not Placed
+20039,Male,21,Bachelor,8.59,1,2023,Not Opted,4,No,Computer Science,On Campus,0,3,Not Placed
+20040,Male,28,Master,9.31,4,2021,Opted,3,Yes,Computer Science,Off Campus,738359,2,Placed
+20041,Male,23,Bachelor,5.9,2,2020,Not Opted,0,Yes,Mechanical,Off Campus,572384,2,Placed
+20042,Male,24,Master,9.0,2,2019,Opted,5,Yes,Electronics,Off Campus,0,3,Not Placed
+20043,Female,24,Master,7.76,3,2023,Not Opted,3,No,Computer Science,On Campus,856023,0,Placed
+20044,Female,23,Bachelor,6.98,2,2022,Not Opted,3,Yes,Electrical,On Campus,262408,1,Placed
+20045,Female,22,Bachelor,5.66,0,2020,Not Opted,1,Yes,Computer Science,On Campus,0,4,Not Placed
+20046,Female,24,Master,9.33,4,2023,Not Opted,1,Yes,Electrical,On Campus,805559,0,Placed
+20047,Female,26,Master,5.79,0,2021,Opted,1,No,Electronics,Off Campus,0,3,Not Placed
+20048,Male,24,Master,6.55,4,2019,Opted,3,No,Mechanical,On Campus,288114,1,Placed
+20049,Female,22,Bachelor,6.45,3,2018,Not Opted,0,Yes,Information Technology,On Campus,908481,1,Placed
+20050,Female,26,Master,9.36,2,2020,Opted,1,No,Civil,On Campus,721358,1,Placed
+20051,Male,24,Master,8.36,2,2019,Not Opted,2,Yes,Civil,Off Campus,0,3,Not Placed
+20052,Female,24,Master,8.98,2,2018,Not Opted,0,Yes,Mechanical,On Campus,439139,0,Placed
+20053,Male,24,Master,6.25,4,2020,Not Opted,2,No,Electrical,Off Campus,0,4,Not Placed
+20054,Female,28,Master,8.12,2,2019,Not Opted,0,No,Information Technology,Off Campus,839963,1,Placed
+20055,Male,27,Bachelor,7.86,0,2019,Not Opted,1,No,Information Technology,On Campus,522726,1,Placed
+20056,Female,27,Master,9.16,2,2023,Not Opted,5,No,Computer Science,On Campus,322603,0,Placed
+20057,Female,24,Master,9.53,3,2020,Opted,4,Yes,Computer Science,On Campus,614921,1,Placed
+20058,Male,30,Master,5.06,0,2019,Opted,1,Yes,Electronics,On Campus,793669,1,Placed
+20059,Male,30,Master,8.37,2,2022,Not Opted,3,No,Electrical,Off Campus,0,3,Not Placed
+20060,Male,23,Bachelor,5.26,2,2020,Opted,5,No,Mechanical,Off Campus,592949,2,Placed
+20061,Male,22,Bachelor,7.74,1,2019,Not Opted,3,Yes,Computer Science,Off Campus,375725,0,Placed
+20062,Male,21,Bachelor,6.44,4,2023,Opted,0,Yes,Computer Science,Off Campus,810505,0,Placed
+20063,Male,27,Master,6.53,0,2018,Opted,3,Yes,Electronics,Off Campus,978873,0,Placed
+20064,Male,27,Master,6.76,1,2018,Opted,5,Yes,Information Technology,Off Campus,0,3,Not Placed
+20065,Male,22,Bachelor,8.11,3,2022,Not Opted,5,No,Computer Science,Off Campus,0,3,Not Placed
+20066,Female,27,Bachelor,6.67,4,2020,Opted,1,No,Civil,Off Campus,0,4,Not Placed
+20067,Female,27,Bachelor,8.66,0,2023,Not Opted,2,No,Electronics,Off Campus,0,3,Not Placed
+20068,Male,24,Master,7.02,2,2019,Not Opted,1,Yes,Information Technology,Off Campus,503682,0,Placed
+20069,Female,29,Master,5.34,0,2019,Not Opted,0,Yes,Electronics,On Campus,0,4,Not Placed
+20070,Female,27,Bachelor,8.92,2,2018,Opted,3,No,Electronics,On Campus,411470,2,Placed
+20071,Female,23,Bachelor,6.43,4,2023,Opted,2,No,Electronics,On Campus,634448,1,Placed
+20072,Female,27,Bachelor,7.16,2,2022,Opted,4,No,Electronics,Off Campus,320026,1,Placed
+20073,Male,27,Master,8.43,3,2018,Not Opted,5,Yes,Computer Science,On Campus,0,4,Not Placed
+20074,Female,28,Master,6.66,2,2018,Not Opted,2,No,Electrical,Off Campus,253106,2,Placed
+20075,Male,26,Master,5.28,3,2022,Opted,2,Yes,Computer Science,Off Campus,281227,1,Placed
+20076,Female,27,Bachelor,6.87,4,2020,Not Opted,1,No,Computer Science,On Campus,0,4,Not Placed
+20077,Female,25,Bachelor,9.72,4,2019,Opted,4,No,Mechanical,Off Campus,0,3,Not Placed
+20078,Female,24,Master,8.21,0,2020,Opted,5,No,Electrical,On Campus,766423,0,Placed
+20079,Male,23,Bachelor,8.36,3,2023,Opted,0,Yes,Electronics,Off Campus,886426,2,Placed
+20080,Female,24,Master,8.16,3,2021,Opted,0,Yes,Electronics,Off Campus,843887,1,Placed
+20081,Male,27,Bachelor,5.99,1,2021,Not Opted,2,Yes,Mechanical,On Campus,954077,0,Placed
+20082,Female,22,Bachelor,7.09,1,2021,Opted,2,Yes,Mechanical,On Campus,0,4,Not Placed
+20083,Male,23,Bachelor,8.75,1,2022,Opted,3,Yes,Information Technology,On Campus,968378,1,Placed
+20084,Female,27,Bachelor,,2,2018,Opted,4,Yes,Information Technology,On Campus,338213,0,Placed
+20085,Male,28,Master,6.39,1,2020,Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+20086,Male,24,Bachelor,6.38,3,2019,Opted,2,Yes,Information Technology,On Campus,911083,2,Placed
+20087,Female,24,Master,7.16,2,2021,Opted,3,No,Information Technology,Off Campus,0,4,Not Placed
+20088,Male,25,Master,9.9,4,2020,Opted,4,Yes,Electrical,Off Campus,693466,1,Placed
+20089,Female,26,Master,5.34,0,2021,Not Opted,5,No,Electrical,Off Campus,0,3,Not Placed
+20090,Female,25,Bachelor,7.59,1,2021,Not Opted,0,No,Civil,Off Campus,279711,2,Placed
+20091,Female,27,Master,5.9,4,2019,Not Opted,3,Yes,Electronics,On Campus,341123,2,Placed
+20092,Female,24,Master,,3,2023,Not Opted,4,No,Electrical,Off Campus,0,3,Not Placed
+20093,Female,27,Master,,0,2023,Opted,3,Yes,Information Technology,Off Campus,979572,1,Placed
+20094,Female,27,Bachelor,,4,2023,Not Opted,2,Yes,Computer Science,On Campus,465593,2,Placed
+20095,Female,27,Bachelor,8.69,0,2022,Not Opted,1,Yes,Computer Science,Off Campus,0,4,Not Placed
+20096,Female,24,Master,8.52,1,2018,Not Opted,0,Yes,Electronics,On Campus,884550,0,Placed
+20097,Female,27,Bachelor,7.11,3,2022,Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20098,Female,25,Master,6.73,0,2020,Not Opted,2,Yes,Electronics,On Campus,297069,2,Placed
+20099,Female,24,Master,6.99,4,2022,Not Opted,4,No,Electrical,Off Campus,881501,0,Placed
+20100,Male,23,Bachelor,6.32,1,2020,Opted,3,No,Computer Science,On Campus,0,3,Not Placed
+20101,Male,24,Master,6.03,1,2020,Not Opted,0,No,Computer Science,Off Campus,748196,0,Placed
+20102,Female,22,Bachelor,7.42,4,2018,Opted,2,Yes,Information Technology,Off Campus,566991,0,Placed
+20103,Female,22,Bachelor,6.34,4,2019,Not Opted,4,No,Information Technology,Off Campus,978628,0,Placed
+20104,Female,24,Master,6.44,0,2018,Opted,0,Yes,Electronics,On Campus,217412,2,Placed
+20105,Female,25,Bachelor,8.28,2,2023,Not Opted,3,No,Electronics,On Campus,572174,1,Placed
+20106,Female,24,Bachelor,9.84,1,2023,Not Opted,2,Yes,Electrical,On Campus,467800,2,Placed
+20107,Female,30,Master,8.02,0,2022,Not Opted,5,Yes,Electronics,Off Campus,340039,1,Placed
+20108,Female,24,Master,5.38,4,2020,Opted,2,Yes,Electrical,Off Campus,0,3,Not Placed
+20109,Female,23,Bachelor,5.38,0,2021,Not Opted,2,Yes,Civil,On Campus,0,3,Not Placed
+20110,Male,27,Bachelor,,4,2021,Opted,0,No,Computer Science,Off Campus,0,3,Not Placed
+20111,Female,27,Master,6.49,3,2020,Opted,0,No,Electronics,On Campus,0,3,Not Placed
+20112,Male,24,Bachelor,5.46,4,2018,Opted,0,Yes,Information Technology,On Campus,0,3,Not Placed
+20113,Female,25,Bachelor,8.0,4,2019,Opted,0,No,Computer Science,Off Campus,0,4,Not Placed
+20114,Female,25,Bachelor,8.12,4,2018,Not Opted,4,Yes,Computer Science,Off Campus,350595,2,Placed
+20115,Male,26,Bachelor,8.24,2,2020,Not Opted,1,Yes,Electrical,On Campus,772735,1,Placed
+20116,Female,27,Bachelor,6.34,4,2020,Not Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+20117,Male,22,Bachelor,5.08,1,2019,Opted,2,Yes,Computer Science,On Campus,0,4,Not Placed
+20118,Female,25,Bachelor,9.83,1,2022,Not Opted,4,Yes,Civil,On Campus,0,4,Not Placed
+20119,Female,24,Master,6.25,0,2022,Opted,3,Yes,Electronics,Off Campus,0,4,Not Placed
+20120,Male,24,Master,8.38,2,2019,Opted,5,Yes,Electronics,On Campus,590909,2,Placed
+20121,Female,30,Master,8.53,0,2022,Opted,0,Yes,Electronics,Off Campus,0,3,Not Placed
+20122,Male,26,Master,8.05,1,2021,Not Opted,3,No,Civil,On Campus,0,4,Not Placed
+20123,Female,28,Master,6.56,1,2022,Not Opted,5,No,Electrical,Off Campus,0,4,Not Placed
+20124,Male,21,Bachelor,6.36,3,2022,Opted,3,No,Computer Science,Off Campus,0,3,Not Placed
+20125,Male,27,Bachelor,7.99,4,2022,Not Opted,2,Yes,Mechanical,On Campus,925166,2,Placed
+20126,Female,27,Bachelor,9.33,1,2021,Not Opted,0,Yes,Electronics,Off Campus,0,4,Not Placed
+20127,Female,27,Bachelor,9.73,0,2022,Opted,3,Yes,Information Technology,Off Campus,654325,1,Placed
+20128,Male,24,Master,5.53,0,2023,Opted,2,Yes,Information Technology,On Campus,290027,0,Placed
+20129,Female,22,Bachelor,5.77,4,2021,Not Opted,0,Yes,Information Technology,Off Campus,250528,0,Placed
+20130,Female,23,Bachelor,9.72,4,2019,Opted,1,Yes,Mechanical,On Campus,498374,0,Placed
+20131,Female,24,Master,,3,2018,Opted,2,No,Information Technology,Off Campus,248242,2,Placed
+20132,Male,27,Bachelor,9.41,2,2019,Not Opted,4,Yes,Civil,On Campus,0,4,Not Placed
+20133,Male,27,Bachelor,6.01,0,2018,Not Opted,0,No,Mechanical,On Campus,314688,0,Placed
+20134,Male,24,Master,7.94,4,2019,Opted,3,Yes,Electrical,On Campus,691582,0,Placed
+20135,Male,27,Bachelor,8.51,0,2023,Not Opted,5,No,Electrical,On Campus,0,3,Not Placed
+20136,Male,27,Bachelor,8.4,4,2018,Opted,3,Yes,Information Technology,Off Campus,0,4,Not Placed
+20137,Male,27,Bachelor,7.04,1,2018,Opted,4,No,Computer Science,On Campus,0,4,Not Placed
+20138,Male,26,Bachelor,5.08,0,2020,Not Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+20139,Male,26,Bachelor,7.91,1,2018,Opted,3,Yes,Electronics,On Campus,0,4,Not Placed
+20140,Male,24,Master,6.27,0,2018,Opted,5,Yes,Information Technology,Off Campus,230750,1,Placed
+20141,Female,30,Master,7.25,2,2020,Opted,0,No,Computer Science,On Campus,782476,2,Placed
+20142,Male,30,Master,,3,2022,Not Opted,2,Yes,Computer Science,Off Campus,0,3,Not Placed
+20143,Female,24,Master,7.0,1,2022,Not Opted,4,Yes,Mechanical,Off Campus,818519,0,Placed
+20144,Female,27,Master,9.2,4,2020,Not Opted,4,Yes,Information Technology,On Campus,0,4,Not Placed
+20145,Female,25,Master,5.94,2,2021,Opted,4,No,Mechanical,On Campus,903446,1,Placed
+20146,Male,26,Bachelor,8.36,0,2018,Opted,5,Yes,Information Technology,On Campus,791058,1,Placed
+20147,Male,24,Master,9.89,1,2018,Not Opted,1,No,Electrical,Off Campus,431360,2,Placed
+20148,Male,25,Master,5.51,0,2020,Not Opted,5,No,Computer Science,Off Campus,425440,1,Placed
+20149,Male,27,Bachelor,5.04,0,2020,Not Opted,0,Yes,Electrical,Off Campus,0,4,Not Placed
+20150,Female,24,Bachelor,7.17,0,2021,Opted,0,No,Electrical,Off Campus,0,4,Not Placed
+20151,Male,29,Master,5.46,3,2023,Not Opted,0,Yes,Computer Science,On Campus,890080,1,Placed
+20152,Male,26,Bachelor,8.74,3,2022,Opted,0,Yes,Electrical,On Campus,0,4,Not Placed
+20153,Male,24,Master,9.57,4,2019,Not Opted,0,No,Electrical,On Campus,0,4,Not Placed
+20154,Male,21,Bachelor,7.17,1,2023,Opted,3,No,Electronics,On Campus,405156,0,Placed
+20155,Male,25,Master,6.29,2,2022,Opted,4,No,Electronics,Off Campus,0,3,Not Placed
+20156,Female,27,Bachelor,,2,2018,Not Opted,5,No,Information Technology,Off Campus,0,4,Not Placed
+20157,Male,26,Bachelor,8.62,2,2023,Opted,3,No,Electrical,On Campus,0,4,Not Placed
+20158,Female,30,Master,5.05,0,2020,Not Opted,5,Yes,Civil,Off Campus,817846,2,Placed
+20159,Male,27,Master,7.95,3,2021,Opted,1,No,Mechanical,On Campus,0,3,Not Placed
+20160,Female,25,Master,8.07,1,2022,Opted,2,Yes,Civil,Off Campus,0,3,Not Placed
+20161,Male,30,Master,8.19,0,2021,Not Opted,4,Yes,Information Technology,Off Campus,0,3,Not Placed
+20162,Male,26,Master,6.21,3,2022,Opted,1,No,Electronics,Off Campus,248838,1,Placed
+20163,Female,25,Bachelor,8.57,3,2023,Not Opted,3,No,Electrical,Off Campus,733022,0,Placed
+20164,Female,29,Master,5.46,1,2018,Not Opted,2,No,Computer Science,Off Campus,831475,0,Placed
+20165,Female,26,Master,6.0,1,2019,Not Opted,1,No,Electronics,Off Campus,299329,2,Placed
+20166,Male,27,Bachelor,9.39,1,2021,Opted,5,No,Electrical,On Campus,0,3,Not Placed
+20167,Female,22,Bachelor,8.69,0,2021,Opted,2,Yes,Computer Science,Off Campus,0,3,Not Placed
+20168,Male,29,Master,5.07,4,2019,Opted,5,Yes,Computer Science,On Campus,0,4,Not Placed
+20169,Male,25,Bachelor,,1,2021,Not Opted,1,Yes,Electronics,On Campus,320424,1,Placed
+20170,Female,27,Bachelor,6.07,4,2021,Not Opted,3,No,Computer Science,On Campus,520217,1,Placed
+20171,Female,30,Master,6.35,0,2022,Opted,5,No,Computer Science,On Campus,928285,2,Placed
+20172,Male,21,Bachelor,6.24,4,2022,Opted,2,Yes,Information Technology,On Campus,444042,0,Placed
+20173,Male,27,Bachelor,5.31,2,2019,Not Opted,1,No,Computer Science,On Campus,0,3,Not Placed
+20174,Female,25,Master,7.29,4,2018,Opted,5,No,Mechanical,Off Campus,425683,2,Placed
+20175,Female,30,Master,8.66,1,2023,Not Opted,3,No,Information Technology,Off Campus,415547,1,Placed
+20176,Female,22,Bachelor,8.03,0,2023,Opted,4,Yes,Electrical,Off Campus,443603,1,Placed
+20177,Male,26,Bachelor,8.36,1,2021,Not Opted,3,No,Mechanical,On Campus,905662,1,Placed
+20178,Male,24,Master,5.41,2,2018,Opted,3,Yes,Electrical,On Campus,0,3,Not Placed
+20179,Male,23,Bachelor,9.76,1,2019,Opted,4,No,Information Technology,On Campus,0,3,Not Placed
+20180,Male,25,Bachelor,9.19,1,2019,Not Opted,3,No,Electronics,Off Campus,0,3,Not Placed
+20181,Male,24,Bachelor,9.03,1,2022,Not Opted,4,Yes,Information Technology,Off Campus,0,4,Not Placed
+20182,Male,24,Master,9.11,3,2021,Not Opted,4,No,Information Technology,Off Campus,272663,0,Placed
+20183,Female,27,Bachelor,9.66,2,2020,Opted,5,No,Electronics,On Campus,301216,1,Placed
+20184,Male,25,Bachelor,7.72,1,2019,Not Opted,5,No,Electronics,On Campus,974888,1,Placed
+20185,Male,28,Master,6.0,1,2021,Not Opted,4,Yes,Electronics,On Campus,0,4,Not Placed
+20186,Male,24,Bachelor,8.08,1,2018,Opted,1,No,Civil,Off Campus,671358,1,Placed
+20187,Female,21,Bachelor,8.71,0,2022,Not Opted,2,No,Electronics,On Campus,494887,1,Placed
+20188,Male,27,Master,8.69,3,2023,Not Opted,1,No,Electronics,On Campus,0,3,Not Placed
+20189,Male,28,Master,7.61,0,2018,Not Opted,4,No,Mechanical,On Campus,0,3,Not Placed
+20190,Female,24,Master,5.34,3,2019,Opted,2,No,Computer Science,On Campus,684100,0,Placed
+20191,Male,26,Master,6.86,1,2019,Opted,5,Yes,Information Technology,Off Campus,734396,1,Placed
+20192,Male,22,Bachelor,9.6,2,2018,Opted,2,Yes,Electronics,Off Campus,404706,2,Placed
+20193,Male,27,Bachelor,7.92,4,2019,Not Opted,4,No,Electrical,On Campus,760468,1,Placed
+20194,Male,28,Master,7.69,4,2021,Opted,5,No,Computer Science,On Campus,481027,1,Placed
+20195,Male,26,Master,6.34,1,2019,Not Opted,2,Yes,Information Technology,Off Campus,768688,0,Placed
+20196,Female,26,Bachelor,6.84,0,2022,Not Opted,2,No,Information Technology,Off Campus,377071,2,Placed
+20197,Female,25,Master,9.48,2,2021,Not Opted,1,No,Electrical,On Campus,772239,1,Placed
+20198,Female,27,Bachelor,8.33,3,2020,Opted,2,No,Electronics,Off Campus,600376,2,Placed
+20199,Male,24,Master,8.94,1,2019,Opted,4,No,Mechanical,Off Campus,0,3,Not Placed
+20200,Male,27,Bachelor,7.27,2,2019,Not Opted,0,No,Electronics,On Campus,0,3,Not Placed
+20201,Male,24,Master,8.15,2,2022,Not Opted,0,No,Electronics,Off Campus,577250,2,Placed
+20202,Female,24,Master,6.24,3,2022,Opted,0,No,Information Technology,Off Campus,883717,1,Placed
+20203,Male,23,Bachelor,8.53,2,2023,Opted,4,No,Information Technology,Off Campus,888916,2,Placed
+20204,Male,24,Master,7.14,0,2018,Opted,0,Yes,Information Technology,Off Campus,524078,2,Placed
+20205,Female,24,Bachelor,7.21,0,2018,Not Opted,1,Yes,Electrical,On Campus,0,3,Not Placed
+20206,Male,21,Bachelor,8.25,0,2018,Opted,4,No,Computer Science,Off Campus,298171,2,Placed
+20207,Female,22,Bachelor,9.68,2,2022,Opted,5,No,Electrical,Off Campus,0,4,Not Placed
+20208,Female,27,Bachelor,5.32,0,2018,Opted,4,No,Electrical,On Campus,0,4,Not Placed
+20209,Female,27,Bachelor,9.12,3,2018,Not Opted,4,No,Information Technology,Off Campus,0,3,Not Placed
+20210,Male,24,Master,,2,2020,Opted,2,Yes,Civil,On Campus,470896,1,Placed
+20211,Male,25,Master,7.22,4,2018,Not Opted,2,Yes,Electrical,On Campus,841627,1,Placed
+20212,Male,27,Bachelor,5.11,2,2019,Not Opted,2,Yes,Computer Science,Off Campus,0,3,Not Placed
+20213,Male,29,Master,6.51,3,2023,Not Opted,3,Yes,Information Technology,Off Campus,244864,1,Placed
+20214,Male,27,Bachelor,7.51,4,2022,Opted,1,No,Electrical,Off Campus,905051,0,Placed
+20215,Male,24,Master,5.28,2,2021,Opted,4,No,Information Technology,Off Campus,0,4,Not Placed
+20216,Male,24,Master,7.46,0,2023,Opted,4,No,Computer Science,Off Campus,286675,0,Placed
+20217,Female,29,Master,,1,2020,Not Opted,2,Yes,Electrical,On Campus,484487,0,Placed
+20218,Male,28,Master,5.53,1,2022,Opted,4,No,Mechanical,Off Campus,424320,0,Placed
+20219,Female,27,Bachelor,8.82,0,2022,Not Opted,5,No,Information Technology,On Campus,0,3,Not Placed
+20220,Male,27,Bachelor,7.05,1,2019,Opted,4,Yes,Mechanical,Off Campus,391026,0,Placed
+20221,Male,27,Master,8.28,1,2023,Opted,0,Yes,Electronics,On Campus,385770,2,Placed
+20222,Male,24,Master,6.3,0,2023,Opted,5,Yes,Computer Science,Off Campus,557168,1,Placed
+20223,Female,23,Bachelor,5.8,0,2018,Opted,5,Yes,Electronics,Off Campus,0,3,Not Placed
+20224,Female,24,Master,5.8,2,2019,Not Opted,4,Yes,Information Technology,Off Campus,702857,2,Placed
+20225,Female,25,Bachelor,5.35,2,2018,Not Opted,3,No,Computer Science,Off Campus,969483,2,Placed
+20226,Female,23,Bachelor,5.93,0,2018,Not Opted,2,No,Electronics,Off Campus,0,4,Not Placed
+20227,Male,26,Bachelor,8.32,3,2022,Not Opted,1,Yes,Electronics,On Campus,0,4,Not Placed
+20228,Female,24,Master,9.41,1,2023,Opted,1,No,Computer Science,Off Campus,244220,2,Placed
+20229,Male,23,Bachelor,9.07,2,2018,Not Opted,0,No,Mechanical,Off Campus,0,4,Not Placed
+20230,Male,25,Master,8.43,1,2020,Not Opted,1,No,Electronics,Off Campus,312878,1,Placed
+20231,Female,21,Bachelor,5.55,4,2020,Not Opted,1,No,Mechanical,On Campus,316583,1,Placed
+20232,Female,24,Master,6.45,0,2023,Opted,2,Yes,Information Technology,Off Campus,0,4,Not Placed
+20233,Female,30,Master,6.55,3,2020,Not Opted,2,No,Mechanical,On Campus,431876,0,Placed
+20234,Female,29,Master,6.25,4,2022,Not Opted,3,No,Information Technology,Off Campus,739006,2,Placed
+20235,Female,27,Bachelor,7.58,4,2019,Opted,0,No,Computer Science,On Campus,628813,1,Placed
+20236,Female,21,Bachelor,7.68,4,2021,Opted,1,Yes,Electronics,Off Campus,0,4,Not Placed
+20237,Female,28,Master,6.78,0,2018,Not Opted,3,No,Electronics,Off Campus,0,4,Not Placed
+20238,Female,24,Master,6.77,2,2021,Not Opted,0,Yes,Electrical,On Campus,882192,1,Placed
+20239,Male,28,Master,9.14,0,2019,Opted,5,Yes,Information Technology,Off Campus,952758,1,Placed
+20240,Female,25,Bachelor,8.95,2,2019,Not Opted,1,Yes,Computer Science,On Campus,606080,0,Placed
+20241,Female,21,Bachelor,,4,2022,Opted,1,Yes,Electrical,Off Campus,0,4,Not Placed
+20242,Male,27,Bachelor,9.57,4,2020,Not Opted,2,No,Information Technology,Off Campus,0,4,Not Placed
+20243,Female,25,Bachelor,9.76,3,2020,Not Opted,4,Yes,Electrical,On Campus,0,3,Not Placed
+20244,Male,26,Master,6.63,2,2019,Not Opted,0,Yes,Information Technology,Off Campus,584462,0,Placed
+20245,Male,26,Master,6.77,4,2022,Not Opted,1,Yes,Civil,On Campus,961595,1,Placed
+20246,Female,27,Bachelor,,1,2022,Not Opted,0,Yes,Electrical,On Campus,649426,1,Placed
+20247,Male,27,Bachelor,9.71,3,2023,Opted,3,Yes,Electronics,Off Campus,645170,2,Placed
+20248,Male,24,Master,9.38,0,2018,Opted,3,No,Mechanical,Off Campus,835433,1,Placed
+20249,Male,27,Bachelor,5.51,3,2020,Not Opted,4,Yes,Electrical,Off Campus,0,4,Not Placed
+20250,Male,27,Bachelor,6.96,1,2019,Not Opted,1,No,Computer Science,On Campus,737706,1,Placed
+20251,Female,27,Bachelor,7.77,2,2023,Not Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20252,Male,27,Bachelor,7.52,0,2021,Opted,1,Yes,Electronics,Off Campus,0,4,Not Placed
+20253,Female,27,Bachelor,5.97,0,2020,Opted,0,No,Computer Science,On Campus,703122,0,Placed
+20254,Male,27,Bachelor,9.29,2,2018,Opted,5,No,Electrical,On Campus,527371,1,Placed
+20255,Male,24,Master,8.38,3,2022,Opted,3,No,Computer Science,On Campus,606051,0,Placed
+20256,Male,27,Bachelor,9.19,4,2019,Opted,0,Yes,Computer Science,On Campus,0,4,Not Placed
+20257,Male,27,Bachelor,9.29,3,2020,Opted,4,Yes,Electrical,Off Campus,707966,1,Placed
+20258,Female,25,Master,8.74,1,2021,Opted,3,Yes,Civil,Off Campus,688267,1,Placed
+20259,Female,26,Master,7.2,4,2018,Opted,2,Yes,Electrical,Off Campus,569648,0,Placed
+20260,Male,30,Master,8.05,3,2018,Not Opted,3,Yes,Mechanical,On Campus,418930,0,Placed
+20261,Male,27,Bachelor,5.8,2,2023,Opted,5,Yes,Civil,On Campus,0,4,Not Placed
+20262,Female,25,Master,8.37,1,2020,Opted,1,Yes,Computer Science,On Campus,0,4,Not Placed
+20263,Male,27,Bachelor,5.9,1,2021,Opted,5,No,Information Technology,On Campus,734561,1,Placed
+20264,Male,27,Bachelor,8.47,1,2018,Opted,5,No,Electronics,Off Campus,757807,1,Placed
+20265,Male,23,Bachelor,6.15,4,2019,Not Opted,1,Yes,Mechanical,On Campus,0,3,Not Placed
+20266,Female,28,Master,5.59,0,2018,Opted,3,No,Electrical,On Campus,0,3,Not Placed
+20267,Female,24,Master,5.83,4,2021,Not Opted,4,Yes,Civil,Off Campus,708604,2,Placed
+20268,Female,27,Master,5.01,3,2022,Not Opted,1,Yes,Computer Science,Off Campus,0,4,Not Placed
+20269,Male,24,Master,8.59,0,2022,Not Opted,1,Yes,Computer Science,Off Campus,380060,2,Placed
+20270,Male,24,Master,8.66,3,2023,Opted,2,No,Electrical,On Campus,603564,2,Placed
+20271,Female,27,Bachelor,7.57,0,2020,Opted,3,Yes,Information Technology,On Campus,807748,0,Placed
+20272,Female,23,Bachelor,5.81,4,2021,Opted,1,Yes,Computer Science,On Campus,448792,0,Placed
+20273,Female,22,Bachelor,5.42,1,2023,Not Opted,4,Yes,Information Technology,On Campus,0,3,Not Placed
+20274,Female,27,Bachelor,5.1,2,2018,Not Opted,0,Yes,Computer Science,On Campus,828956,2,Placed
+20275,Male,27,Master,5.83,1,2018,Not Opted,3,No,Electrical,On Campus,0,3,Not Placed
+20276,Female,24,Master,9.45,4,2022,Not Opted,2,Yes,Mechanical,Off Campus,0,4,Not Placed
+20277,Male,27,Bachelor,6.21,0,2023,Opted,5,No,Mechanical,On Campus,997705,1,Placed
+20278,Female,24,Master,6.77,1,2022,Opted,1,No,Electronics,Off Campus,320484,0,Placed
+20279,Male,24,Master,5.53,4,2019,Opted,4,Yes,Information Technology,Off Campus,0,4,Not Placed
+20280,Female,23,Bachelor,6.11,3,2022,Not Opted,3,Yes,Electrical,Off Campus,0,4,Not Placed
+20281,Female,25,Bachelor,7.6,2,2019,Not Opted,4,No,Computer Science,On Campus,338966,0,Placed
+20282,Female,28,Master,8.04,1,2018,Opted,4,No,Information Technology,On Campus,246073,0,Placed
+20283,Female,30,Master,6.23,0,2023,Opted,5,No,Computer Science,Off Campus,769981,2,Placed
+20284,Male,27,Bachelor,5.29,3,2019,Not Opted,2,No,Electronics,On Campus,0,3,Not Placed
+20285,Female,27,Bachelor,6.96,4,2023,Opted,3,Yes,Mechanical,On Campus,0,4,Not Placed
+20286,Male,27,Bachelor,6.17,2,2023,Opted,1,No,Electrical,Off Campus,362246,2,Placed
+20287,Male,28,Master,6.1,0,2019,Not Opted,2,No,Electronics,On Campus,322388,2,Placed
+20288,Male,21,Bachelor,9.8,4,2020,Not Opted,1,No,Computer Science,On Campus,0,4,Not Placed
+20289,Male,24,Bachelor,8.08,4,2022,Not Opted,0,No,Electrical,On Campus,0,4,Not Placed
+20290,Female,26,Master,7.78,1,2019,Opted,4,Yes,Electronics,On Campus,314441,1,Placed
+20291,Male,29,Master,7.08,1,2018,Not Opted,0,Yes,Information Technology,Off Campus,0,3,Not Placed
+20292,Male,24,Master,7.14,0,2023,Opted,4,Yes,Computer Science,Off Campus,0,4,Not Placed
+20293,Male,24,Master,7.7,4,2021,Opted,5,No,Mechanical,On Campus,439343,0,Placed
+20294,Female,30,Master,8.48,1,2019,Not Opted,2,No,Electronics,On Campus,636142,1,Placed
+20295,Female,22,Bachelor,8.51,2,2022,Opted,1,Yes,Mechanical,On Campus,0,3,Not Placed
+20296,Female,27,Bachelor,5.86,2,2023,Not Opted,5,Yes,Electronics,Off Campus,832551,0,Placed
+20297,Female,24,Master,7.5,4,2020,Not Opted,1,No,Civil,On Campus,637991,0,Placed
+20298,Male,30,Master,,1,2018,Opted,2,Yes,Computer Science,On Campus,0,3,Not Placed
+20299,Male,24,Master,9.35,0,2020,Opted,3,No,Computer Science,Off Campus,489669,1,Placed
+20300,Female,27,Master,8.16,0,2021,Not Opted,0,No,Information Technology,On Campus,589860,0,Placed
+20301,Male,24,Master,7.66,0,2019,Not Opted,0,No,Computer Science,Off Campus,566657,2,Placed
+20302,Male,23,Bachelor,5.58,2,2023,Not Opted,1,No,Electrical,On Campus,0,3,Not Placed
+20303,Male,27,Bachelor,8.03,1,2019,Not Opted,1,No,Electrical,Off Campus,0,3,Not Placed
+20304,Female,24,Bachelor,5.59,1,2022,Not Opted,1,No,Electrical,On Campus,0,4,Not Placed
+20305,Female,21,Bachelor,6.69,2,2019,Not Opted,2,Yes,Computer Science,On Campus,671820,1,Placed
+20306,Male,25,Master,,0,2018,Opted,3,Yes,Mechanical,Off Campus,349712,2,Placed
+20307,Female,27,Bachelor,,0,2021,Opted,0,Yes,Computer Science,Off Campus,559838,2,Placed
+20308,Female,28,Master,6.03,4,2020,Opted,5,No,Information Technology,Off Campus,0,4,Not Placed
+20309,Female,29,Master,6.96,3,2021,Opted,4,Yes,Electronics,Off Campus,760424,0,Placed
+20310,Female,30,Master,9.48,1,2023,Not Opted,2,No,Electronics,Off Campus,256539,0,Placed
+20311,Female,27,Bachelor,6.02,1,2019,Opted,0,No,Information Technology,On Campus,412736,2,Placed
+20312,Male,27,Master,,1,2023,Opted,3,No,Computer Science,Off Campus,618158,1,Placed
+20313,Female,24,Bachelor,7.1,3,2020,Not Opted,2,No,Electrical,Off Campus,268363,0,Placed
+20314,Male,25,Bachelor,5.09,4,2023,Opted,5,Yes,Computer Science,Off Campus,0,3,Not Placed
+20315,Male,24,Master,8.96,3,2022,Not Opted,0,Yes,Computer Science,Off Campus,0,4,Not Placed
+20316,Female,24,Master,5.35,0,2021,Not Opted,2,Yes,Electrical,On Campus,497399,1,Placed
+20317,Male,24,Master,7.37,0,2020,Not Opted,0,No,Information Technology,On Campus,393201,0,Placed
+20318,Male,27,Bachelor,7.8,1,2020,Not Opted,0,Yes,Information Technology,On Campus,678739,2,Placed
+20319,Male,24,Master,8.14,2,2020,Not Opted,3,Yes,Information Technology,On Campus,0,4,Not Placed
+20320,Female,24,Bachelor,8.44,1,2018,Opted,4,Yes,Civil,On Campus,442723,0,Placed
+20321,Female,24,Master,6.27,2,2021,Opted,3,No,Civil,Off Campus,810725,2,Placed
+20322,Male,25,Master,5.05,3,2023,Opted,0,Yes,Information Technology,On Campus,347349,0,Placed
+20323,Female,27,Bachelor,8.62,0,2020,Not Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20324,Female,21,Bachelor,7.68,2,2021,Opted,5,Yes,Information Technology,Off Campus,0,3,Not Placed
+20325,Female,25,Bachelor,9.18,3,2020,Opted,3,No,Computer Science,Off Campus,0,3,Not Placed
+20326,Female,27,Bachelor,9.11,0,2022,Opted,4,Yes,Electrical,On Campus,253629,2,Placed
+20327,Male,21,Bachelor,9.22,2,2022,Opted,0,Yes,Electrical,On Campus,0,3,Not Placed
+20328,Male,27,Bachelor,7.43,1,2022,Not Opted,5,Yes,Information Technology,Off Campus,0,4,Not Placed
+20329,Female,28,Master,6.67,1,2019,Opted,3,No,Information Technology,On Campus,970109,2,Placed
+20330,Female,24,Master,8.96,1,2020,Not Opted,3,Yes,Computer Science,Off Campus,471601,0,Placed
+20331,Male,27,Bachelor,7.26,3,2019,Not Opted,3,Yes,Information Technology,Off Campus,390701,1,Placed
+20332,Male,25,Master,5.92,1,2021,Opted,3,No,Information Technology,On Campus,496066,0,Placed
+20333,Female,25,Bachelor,9.27,4,2019,Not Opted,5,No,Electrical,On Campus,0,4,Not Placed
+20334,Male,26,Master,9.41,0,2021,Not Opted,2,No,Electrical,On Campus,625966,2,Placed
+20335,Female,27,Master,7.33,3,2021,Not Opted,4,No,Electrical,Off Campus,570266,0,Placed
+20336,Female,27,Bachelor,5.38,1,2021,Not Opted,4,Yes,Information Technology,Off Campus,302020,2,Placed
+20337,Male,27,Bachelor,6.94,0,2023,Not Opted,0,Yes,Electrical,On Campus,0,3,Not Placed
+20338,Male,22,Bachelor,9.02,2,2019,Not Opted,1,No,Computer Science,On Campus,713463,1,Placed
+20339,Female,29,Master,9.51,1,2023,Not Opted,2,Yes,Computer Science,On Campus,0,4,Not Placed
+20340,Female,27,Bachelor,6.02,0,2020,Opted,0,No,Electrical,Off Campus,365493,0,Placed
+20341,Male,24,Master,5.33,4,2019,Opted,0,Yes,Computer Science,Off Campus,973317,1,Placed
+20342,Female,24,Bachelor,9.39,2,2020,Not Opted,3,No,Electrical,Off Campus,0,4,Not Placed
+20343,Male,28,Master,6.95,4,2020,Not Opted,1,Yes,Electronics,On Campus,0,4,Not Placed
+20344,Female,24,Master,,0,2021,Opted,1,No,Mechanical,Off Campus,0,3,Not Placed
+20345,Male,26,Bachelor,9.84,4,2019,Opted,2,No,Civil,Off Campus,410694,2,Placed
+20346,Male,25,Master,5.33,0,2020,Opted,1,Yes,Computer Science,On Campus,462051,2,Placed
+20347,Male,24,Master,8.24,0,2022,Opted,0,Yes,Civil,Off Campus,629387,1,Placed
+20348,Female,27,Bachelor,5.37,4,2020,Not Opted,1,Yes,Electronics,On Campus,0,3,Not Placed
+20349,Female,24,Master,6.88,0,2022,Not Opted,1,No,Electrical,Off Campus,0,4,Not Placed
+20350,Male,27,Bachelor,9.02,1,2019,Opted,4,Yes,Computer Science,On Campus,0,3,Not Placed
+20351,Female,27,Bachelor,7.17,0,2023,Opted,0,No,Mechanical,On Campus,0,3,Not Placed
+20352,Male,27,Bachelor,,3,2019,Opted,5,Yes,Computer Science,Off Campus,361466,1,Placed
+20353,Male,21,Bachelor,7.8,0,2023,Opted,1,Yes,Electronics,On Campus,345468,2,Placed
+20354,Female,30,Master,6.61,3,2023,Not Opted,1,No,Computer Science,Off Campus,0,3,Not Placed
+20355,Female,24,Master,6.1,0,2019,Opted,3,No,Electrical,On Campus,0,3,Not Placed
+20356,Male,28,Master,6.75,0,2020,Opted,1,Yes,Information Technology,On Campus,0,3,Not Placed
+20357,Female,26,Bachelor,6.86,4,2018,Opted,1,No,Computer Science,On Campus,707026,0,Placed
+20358,Female,25,Master,5.34,1,2020,Not Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+20359,Male,25,Master,6.85,1,2020,Not Opted,0,Yes,Information Technology,On Campus,0,3,Not Placed
+20360,Male,26,Bachelor,7.32,2,2021,Not Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20361,Female,27,Bachelor,8.61,4,2021,Opted,0,Yes,Information Technology,Off Campus,858554,0,Placed
+20362,Male,24,Master,8.28,4,2020,Opted,3,Yes,Electrical,On Campus,0,3,Not Placed
+20363,Male,27,Bachelor,8.54,1,2022,Opted,0,No,Electronics,On Campus,0,3,Not Placed
+20364,Female,23,Bachelor,5.04,4,2023,Not Opted,1,Yes,Electrical,On Campus,678911,1,Placed
+20365,Male,24,Bachelor,6.09,1,2021,Not Opted,3,No,Computer Science,On Campus,527111,1,Placed
+20366,Male,27,Bachelor,8.31,4,2020,Opted,0,Yes,Information Technology,Off Campus,964302,0,Placed
+20367,Female,24,Master,7.42,0,2018,Opted,3,No,Computer Science,On Campus,0,4,Not Placed
+20368,Female,27,Bachelor,5.03,1,2022,Not Opted,2,No,Mechanical,On Campus,461041,0,Placed
+20369,Male,23,Bachelor,9.02,1,2019,Opted,0,No,Mechanical,Off Campus,401958,0,Placed
+20370,Male,22,Bachelor,8.86,3,2020,Opted,5,No,Information Technology,On Campus,560981,1,Placed
+20371,Female,22,Bachelor,7.74,4,2020,Opted,1,No,Computer Science,On Campus,356049,1,Placed
+20372,Female,21,Bachelor,5.33,4,2023,Not Opted,3,Yes,Mechanical,Off Campus,0,4,Not Placed
+20373,Female,27,Bachelor,8.83,1,2022,Opted,5,Yes,Mechanical,Off Campus,0,3,Not Placed
+20374,Female,23,Bachelor,7.92,0,2021,Opted,5,No,Mechanical,Off Campus,0,4,Not Placed
+20375,Male,23,Bachelor,8.91,0,2021,Opted,4,Yes,Electronics,Off Campus,0,3,Not Placed
+20376,Female,26,Master,8.76,0,2021,Opted,3,No,Information Technology,On Campus,448719,2,Placed
+20377,Female,27,Bachelor,9.02,4,2019,Not Opted,5,No,Computer Science,Off Campus,641719,1,Placed
+20378,Male,29,Master,7.59,3,2022,Not Opted,4,Yes,Information Technology,On Campus,358621,2,Placed
+20379,Female,27,Bachelor,5.7,1,2022,Not Opted,5,Yes,Information Technology,Off Campus,736630,2,Placed
+20380,Male,24,Bachelor,8.36,2,2021,Opted,1,No,Information Technology,On Campus,931874,1,Placed
+20381,Female,25,Bachelor,8.1,3,2021,Not Opted,2,No,Electrical,Off Campus,907609,2,Placed
+20382,Female,22,Bachelor,8.71,2,2023,Opted,4,No,Computer Science,Off Campus,963076,0,Placed
+20383,Female,29,Master,5.85,3,2018,Not Opted,2,No,Information Technology,On Campus,0,3,Not Placed
+20384,Male,27,Bachelor,5.97,0,2018,Opted,3,No,Information Technology,Off Campus,0,4,Not Placed
+20385,Male,23,Bachelor,9.45,4,2020,Not Opted,1,No,Computer Science,Off Campus,430099,1,Placed
+20386,Female,29,Master,,2,2020,Not Opted,4,Yes,Information Technology,Off Campus,725587,0,Placed
+20387,Male,24,Master,9.54,3,2022,Not Opted,3,No,Electronics,On Campus,0,4,Not Placed
+20388,Male,27,Bachelor,8.79,4,2022,Opted,5,No,Electronics,Off Campus,0,4,Not Placed
+20389,Male,24,Master,7.99,2,2019,Opted,0,Yes,Information Technology,Off Campus,0,4,Not Placed
+20390,Male,30,Master,8.27,1,2019,Opted,3,No,Electrical,On Campus,648052,2,Placed
+20391,Male,29,Master,9.45,3,2018,Not Opted,2,No,Computer Science,On Campus,373453,2,Placed
+20392,Male,27,Bachelor,7.89,1,2020,Opted,1,Yes,Electrical,Off Campus,705275,2,Placed
+20393,Female,27,Bachelor,8.16,0,2018,Opted,1,No,Information Technology,On Campus,576430,2,Placed
+20394,Female,25,Bachelor,5.78,1,2018,Opted,3,Yes,Information Technology,On Campus,518442,0,Placed
+20395,Male,24,Master,7.37,1,2020,Opted,5,No,Mechanical,On Campus,981798,2,Placed
+20396,Female,27,Bachelor,8.58,3,2019,Opted,0,Yes,Information Technology,Off Campus,845323,1,Placed
+20397,Female,26,Master,6.35,0,2023,Opted,2,Yes,Computer Science,Off Campus,0,4,Not Placed
+20398,Female,27,Bachelor,6.01,1,2023,Not Opted,3,Yes,Computer Science,On Campus,644740,0,Placed
+20399,Female,25,Bachelor,6.57,4,2023,Not Opted,3,No,Information Technology,Off Campus,716030,2,Placed
+20400,Male,30,Master,6.21,2,2020,Opted,1,No,Information Technology,On Campus,0,4,Not Placed
+20401,Female,22,Bachelor,6.07,1,2021,Not Opted,2,Yes,Mechanical,Off Campus,315637,0,Placed
+20402,Female,26,Master,7.12,0,2021,Not Opted,0,Yes,Electrical,On Campus,0,4,Not Placed
+20403,Male,25,Master,9.54,1,2021,Opted,1,No,Electronics,Off Campus,722222,0,Placed
+20404,Male,25,Bachelor,7.54,2,2022,Opted,3,No,Information Technology,On Campus,0,3,Not Placed
+20405,Female,24,Master,5.94,0,2019,Not Opted,1,No,Information Technology,Off Campus,308197,0,Placed
+20406,Female,22,Bachelor,5.38,3,2019,Opted,1,No,Information Technology,Off Campus,330860,2,Placed
+20407,Female,27,Bachelor,8.48,0,2022,Not Opted,4,No,Information Technology,On Campus,0,4,Not Placed
+20408,Female,24,Master,6.91,3,2018,Not Opted,1,Yes,Electrical,Off Campus,0,4,Not Placed
+20409,Female,27,Bachelor,9.11,0,2023,Not Opted,5,No,Computer Science,Off Campus,0,4,Not Placed
+20410,Female,24,Master,8.3,2,2021,Opted,1,Yes,Mechanical,Off Campus,446130,1,Placed
+20411,Male,27,Bachelor,8.98,2,2023,Not Opted,5,No,Information Technology,Off Campus,469981,1,Placed
+20412,Female,27,Bachelor,6.36,0,2021,Opted,2,Yes,Computer Science,Off Campus,932068,2,Placed
+20413,Female,22,Bachelor,8.46,1,2023,Opted,1,Yes,Computer Science,Off Campus,0,3,Not Placed
+20414,Male,27,Bachelor,6.32,2,2018,Opted,0,No,Computer Science,Off Campus,458750,1,Placed
+20415,Male,21,Bachelor,9.7,3,2023,Opted,5,Yes,Information Technology,Off Campus,715046,0,Placed
+20416,Male,26,Master,8.18,3,2023,Opted,5,Yes,Computer Science,On Campus,492490,2,Placed
+20417,Male,28,Master,6.62,4,2020,Not Opted,3,Yes,Computer Science,Off Campus,0,3,Not Placed
+20418,Female,24,Master,6.35,3,2023,Opted,2,Yes,Electrical,On Campus,485556,0,Placed
+20419,Female,28,Master,5.95,4,2020,Opted,1,No,Electrical,Off Campus,0,4,Not Placed
+20420,Female,24,Master,8.47,0,2019,Opted,0,Yes,Computer Science,On Campus,318833,1,Placed
+20421,Female,29,Master,6.09,0,2022,Opted,3,No,Information Technology,Off Campus,624020,0,Placed
+20422,Female,27,Bachelor,7.98,0,2023,Opted,2,Yes,Electronics,On Campus,0,3,Not Placed
+20423,Female,25,Bachelor,6.32,1,2019,Not Opted,5,No,Civil,On Campus,210934,2,Placed
+20424,Male,30,Master,8.31,1,2020,Opted,0,No,Electrical,Off Campus,492867,0,Placed
+20425,Female,24,Master,9.07,4,2023,Opted,1,No,Computer Science,On Campus,613621,2,Placed
+20426,Male,26,Bachelor,8.89,3,2023,Not Opted,4,Yes,Electronics,Off Campus,0,4,Not Placed
+20427,Male,27,Bachelor,8.8,3,2018,Opted,4,No,Electrical,Off Campus,0,3,Not Placed
+20428,Female,25,Bachelor,5.94,0,2019,Not Opted,2,No,Computer Science,On Campus,0,3,Not Placed
+20429,Male,30,Master,5.44,2,2021,Not Opted,0,Yes,Mechanical,Off Campus,681891,1,Placed
+20430,Female,29,Master,8.49,1,2021,Not Opted,3,No,Information Technology,On Campus,0,3,Not Placed
+20431,Male,24,Master,6.84,1,2018,Not Opted,0,Yes,Civil,On Campus,698577,0,Placed
+20432,Female,27,Bachelor,7.16,0,2020,Opted,5,Yes,Electronics,Off Campus,760811,0,Placed
+20433,Male,27,Bachelor,,1,2021,Opted,4,No,Electrical,Off Campus,583094,0,Placed
+20434,Female,30,Master,6.3,0,2021,Not Opted,2,Yes,Electronics,Off Campus,0,4,Not Placed
+20435,Female,25,Master,5.17,4,2022,Not Opted,1,Yes,Information Technology,Off Campus,0,3,Not Placed
+20436,Female,27,Bachelor,9.4,3,2019,Opted,0,Yes,Electrical,Off Campus,0,3,Not Placed
+20437,Female,22,Bachelor,6.22,2,2020,Not Opted,4,No,Mechanical,On Campus,424310,0,Placed
+20438,Female,24,Bachelor,7.79,3,2023,Not Opted,3,Yes,Electronics,On Campus,442024,1,Placed
+20439,Male,22,Bachelor,5.19,3,2019,Not Opted,2,Yes,Mechanical,Off Campus,457476,1,Placed
+20440,Male,27,Master,8.33,4,2020,Opted,1,Yes,Mechanical,Off Campus,0,3,Not Placed
+20441,Male,22,Bachelor,6.62,1,2021,Not Opted,0,No,Civil,Off Campus,0,3,Not Placed
+20442,Female,21,Bachelor,9.49,2,2022,Opted,3,Yes,Electronics,On Campus,943631,2,Placed
+20443,Male,27,Bachelor,9.44,1,2019,Opted,1,No,Electrical,On Campus,0,3,Not Placed
+20444,Female,24,Master,6.63,3,2021,Opted,5,Yes,Computer Science,On Campus,276620,0,Placed
+20445,Female,28,Master,,0,2020,Not Opted,4,No,Electronics,Off Campus,0,4,Not Placed
+20446,Male,22,Bachelor,9.98,3,2019,Not Opted,5,No,Computer Science,Off Campus,0,3,Not Placed
+20447,Male,27,Bachelor,9.13,1,2023,Opted,4,No,Computer Science,On Campus,0,3,Not Placed
+20448,Female,23,Bachelor,,3,2019,Opted,3,Yes,Computer Science,Off Campus,367596,0,Placed
+20449,Male,26,Master,6.25,0,2021,Opted,5,Yes,Mechanical,Off Campus,647822,2,Placed
+20450,Female,24,Master,7.88,4,2019,Not Opted,4,Yes,Mechanical,On Campus,0,3,Not Placed
+20451,Female,27,Master,5.34,1,2023,Not Opted,2,No,Electrical,On Campus,794515,1,Placed
+20452,Female,27,Bachelor,5.47,3,2022,Opted,3,Yes,Information Technology,Off Campus,485356,1,Placed
+20453,Female,29,Master,9.99,1,2022,Opted,4,Yes,Electrical,On Campus,502262,1,Placed
+20454,Female,22,Bachelor,6.63,4,2021,Not Opted,0,No,Electrical,Off Campus,0,4,Not Placed
+20455,Male,25,Bachelor,,3,2020,Opted,4,Yes,Information Technology,On Campus,0,4,Not Placed
+20456,Male,26,Bachelor,9.03,3,2021,Not Opted,5,Yes,Information Technology,On Campus,0,3,Not Placed
+20457,Female,24,Master,9.29,1,2022,Not Opted,2,No,Information Technology,Off Campus,0,3,Not Placed
+20458,Female,24,Bachelor,9.99,1,2018,Opted,1,No,Electrical,Off Campus,0,3,Not Placed
+20459,Male,24,Master,6.21,0,2018,Opted,1,Yes,Electrical,On Campus,0,4,Not Placed
+20460,Male,24,Master,5.2,4,2019,Not Opted,4,No,Information Technology,Off Campus,0,3,Not Placed
+20461,Female,24,Bachelor,7.06,0,2023,Not Opted,1,Yes,Civil,On Campus,452196,0,Placed
+20462,Male,21,Bachelor,5.65,3,2019,Not Opted,4,Yes,Computer Science,Off Campus,636060,2,Placed
+20463,Female,26,Master,5.11,1,2018,Not Opted,2,Yes,Information Technology,On Campus,996184,1,Placed
+20464,Male,21,Bachelor,6.8,3,2022,Not Opted,1,Yes,Information Technology,On Campus,412620,1,Placed
+20465,Female,30,Master,8.92,3,2019,Opted,5,Yes,Computer Science,On Campus,667927,0,Placed
+20466,Male,26,Bachelor,7.83,2,2021,Not Opted,5,No,Information Technology,Off Campus,0,3,Not Placed
+20467,Female,24,Master,6.56,2,2023,Not Opted,0,No,Computer Science,On Campus,0,4,Not Placed
+20468,Male,26,Master,8.27,3,2021,Not Opted,4,Yes,Electrical,On Campus,0,3,Not Placed
+20469,Male,30,Master,6.16,1,2023,Opted,1,No,Information Technology,On Campus,0,3,Not Placed
+20470,Female,28,Master,5.07,3,2022,Opted,5,No,Electronics,On Campus,971784,1,Placed
+20471,Male,22,Bachelor,8.82,2,2019,Not Opted,2,Yes,Electrical,Off Campus,623026,1,Placed
+20472,Female,22,Bachelor,8.12,1,2023,Not Opted,2,No,Computer Science,Off Campus,0,4,Not Placed
+20473,Male,24,Master,8.81,3,2021,Opted,0,No,Electronics,On Campus,264467,1,Placed
+20474,Female,24,Master,5.19,4,2019,Opted,2,Yes,Computer Science,On Campus,0,3,Not Placed
+20475,Male,24,Bachelor,,4,2019,Opted,2,Yes,Electronics,Off Campus,642762,0,Placed
+20476,Female,27,Bachelor,8.1,3,2021,Opted,1,Yes,Mechanical,On Campus,0,4,Not Placed
+20477,Male,21,Bachelor,7.82,1,2018,Not Opted,4,Yes,Information Technology,Off Campus,989480,0,Placed
+20478,Female,26,Bachelor,8.12,3,2023,Opted,3,Yes,Mechanical,On Campus,0,3,Not Placed
+20479,Male,23,Bachelor,9.32,3,2021,Not Opted,2,Yes,Electronics,Off Campus,0,4,Not Placed
+20480,Female,27,Bachelor,7.93,2,2022,Not Opted,2,Yes,Mechanical,On Campus,538781,0,Placed
+20481,Female,27,Master,7.9,4,2020,Opted,3,No,Electrical,Off Campus,0,4,Not Placed
+20482,Female,27,Bachelor,9.95,2,2021,Opted,2,Yes,Computer Science,Off Campus,0,3,Not Placed
+20483,Male,22,Bachelor,8.78,2,2019,Opted,1,No,Mechanical,Off Campus,0,4,Not Placed
+20484,Female,24,Master,7.21,3,2019,Opted,1,No,Computer Science,On Campus,0,3,Not Placed
+20485,Male,24,Bachelor,8.54,2,2021,Not Opted,3,Yes,Computer Science,Off Campus,0,4,Not Placed
+20486,Female,21,Bachelor,6.95,4,2020,Not Opted,5,No,Computer Science,Off Campus,0,4,Not Placed
+20487,Male,23,Bachelor,6.14,2,2021,Not Opted,2,No,Information Technology,On Campus,605890,1,Placed
+20488,Female,27,Bachelor,7.98,4,2020,Opted,5,No,Electrical,On Campus,0,3,Not Placed
+20489,Male,27,Bachelor,9.64,2,2020,Not Opted,2,Yes,Electronics,On Campus,709325,2,Placed
+20490,Male,27,Master,9.65,4,2022,Opted,4,No,Mechanical,On Campus,0,4,Not Placed
+20491,Female,24,Bachelor,6.71,2,2023,Not Opted,2,No,Computer Science,Off Campus,972793,0,Placed
+20492,Male,24,Master,7.64,2,2019,Opted,1,Yes,Civil,On Campus,211957,1,Placed
+20493,Male,24,Master,6.06,1,2019,Not Opted,0,No,Mechanical,On Campus,217829,1,Placed
+20494,Female,26,Bachelor,9.98,4,2020,Not Opted,0,No,Computer Science,On Campus,0,4,Not Placed
+20495,Male,24,Master,9.91,4,2019,Opted,0,No,Information Technology,On Campus,657357,2,Placed
+20496,Male,21,Bachelor,8.25,4,2018,Not Opted,0,No,Electronics,On Campus,346104,1,Placed
+20497,Male,28,Master,9.02,0,2020,Not Opted,5,No,Electrical,On Campus,0,3,Not Placed
+20498,Female,25,Master,8.58,2,2019,Opted,5,Yes,Electronics,On Campus,0,4,Not Placed
+20499,Male,25,Bachelor,7.97,4,2018,Opted,2,No,Electronics,Off Campus,0,4,Not Placed
+20500,Female,24,Bachelor,5.27,0,2022,Opted,5,Yes,Information Technology,Off Campus,649535,2,Placed
+20501,Male,26,Bachelor,7.27,1,2019,Opted,2,No,Computer Science,Off Campus,0,3,Not Placed
+20502,Male,23,Bachelor,8.37,4,2018,Opted,4,Yes,Electrical,Off Campus,0,3,Not Placed
+20503,Male,27,Bachelor,8.39,4,2021,Not Opted,2,Yes,Computer Science,Off Campus,503391,2,Placed
+20504,Female,25,Master,6.87,0,2023,Opted,0,Yes,Electrical,On Campus,853980,0,Placed
+20505,Male,24,Master,9.71,2,2021,Not Opted,3,No,Electronics,On Campus,0,3,Not Placed
+20506,Male,24,Master,5.84,1,2018,Not Opted,3,No,Electrical,On Campus,974474,0,Placed
+20507,Female,30,Master,7.5,4,2020,Opted,1,No,Civil,On Campus,406604,0,Placed
+20508,Male,26,Master,,2,2020,Not Opted,1,No,Information Technology,Off Campus,0,4,Not Placed
+20509,Female,24,Master,8.49,1,2019,Not Opted,2,No,Electronics,Off Campus,0,4,Not Placed
+20510,Female,24,Master,8.24,3,2021,Opted,3,Yes,Electrical,On Campus,843346,1,Placed
+20511,Male,21,Bachelor,6.38,3,2020,Not Opted,0,Yes,Civil,On Campus,0,4,Not Placed
+20512,Female,27,Bachelor,5.78,1,2020,Opted,5,Yes,Electronics,Off Campus,0,3,Not Placed
+20513,Male,28,Master,8.18,0,2021,Opted,0,No,Computer Science,Off Campus,0,3,Not Placed
+20514,Female,24,Master,8.0,1,2022,Opted,0,No,Civil,Off Campus,275503,0,Placed
+20515,Female,27,Bachelor,5.9,1,2020,Not Opted,2,Yes,Electrical,On Campus,0,3,Not Placed
+20516,Male,27,Bachelor,8.53,0,2023,Not Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20517,Female,21,Bachelor,7.28,0,2018,Not Opted,4,No,Electrical,Off Campus,0,4,Not Placed
+20518,Female,25,Bachelor,8.34,2,2019,Not Opted,0,Yes,Mechanical,Off Campus,0,4,Not Placed
+20519,Female,28,Master,9.19,2,2020,Opted,0,Yes,Electrical,On Campus,879093,2,Placed
+20520,Female,22,Bachelor,5.85,0,2023,Not Opted,2,No,Information Technology,On Campus,0,3,Not Placed
+20521,Female,24,Master,5.1,3,2023,Opted,2,No,Electronics,On Campus,681522,1,Placed
+20522,Male,27,Master,8.9,3,2020,Not Opted,4,Yes,Electronics,On Campus,0,3,Not Placed
+20523,Female,24,Master,8.05,1,2022,Not Opted,4,No,Electrical,Off Campus,0,3,Not Placed
+20524,Male,25,Bachelor,8.5,4,2018,Not Opted,1,Yes,Computer Science,Off Campus,335047,2,Placed
+20525,Female,27,Bachelor,9.19,1,2019,Not Opted,3,Yes,Computer Science,Off Campus,0,3,Not Placed
+20526,Male,30,Master,9.01,1,2020,Not Opted,0,Yes,Electronics,On Campus,933815,0,Placed
+20527,Male,24,Master,9.8,4,2019,Opted,0,No,Electronics,On Campus,0,4,Not Placed
+20528,Female,24,Master,7.68,0,2021,Not Opted,4,Yes,Computer Science,On Campus,0,4,Not Placed
+20529,Female,27,Bachelor,7.44,3,2023,Not Opted,4,Yes,Information Technology,Off Campus,373226,2,Placed
+20530,Female,27,Master,7.01,1,2023,Not Opted,1,No,Computer Science,Off Campus,0,4,Not Placed
+20531,Male,21,Bachelor,5.77,4,2020,Not Opted,3,Yes,Electronics,Off Campus,711559,0,Placed
+20532,Female,24,Master,7.86,2,2020,Opted,1,No,Computer Science,On Campus,810994,2,Placed
+20533,Male,24,Master,6.39,1,2021,Not Opted,3,No,Computer Science,On Campus,316905,1,Placed
+20534,Male,29,Master,9.61,3,2022,Opted,5,No,Computer Science,Off Campus,0,4,Not Placed
+20535,Male,26,Bachelor,7.92,0,2020,Not Opted,0,Yes,Electrical,On Campus,0,3,Not Placed
+20536,Female,27,Bachelor,,1,2023,Opted,1,Yes,Information Technology,Off Campus,492753,0,Placed
+20537,Female,26,Master,6.77,1,2019,Opted,4,No,Computer Science,Off Campus,741689,0,Placed
+20538,Male,26,Bachelor,5.26,4,2018,Opted,1,No,Mechanical,Off Campus,0,4,Not Placed
+20539,Male,25,Master,5.16,2,2019,Opted,5,No,Computer Science,Off Campus,318278,1,Placed
+20540,Female,25,Bachelor,7.12,2,2022,Opted,1,Yes,Information Technology,On Campus,0,3,Not Placed
+20541,Male,22,Bachelor,5.42,0,2018,Not Opted,0,No,Mechanical,On Campus,425253,1,Placed
+20542,Female,27,Bachelor,8.03,3,2019,Opted,5,No,Information Technology,On Campus,850831,1,Placed
+20543,Male,28,Master,9.4,0,2019,Not Opted,4,No,Electrical,On Campus,0,4,Not Placed
+20544,Female,21,Bachelor,9.41,1,2021,Opted,4,Yes,Computer Science,On Campus,0,3,Not Placed
+20545,Male,27,Bachelor,8.3,1,2022,Opted,2,No,Electronics,On Campus,0,4,Not Placed
+20546,Female,25,Master,6.06,2,2023,Not Opted,5,Yes,Information Technology,Off Campus,0,4,Not Placed
+20547,Male,24,Master,,3,2021,Opted,2,Yes,Electronics,On Campus,468159,0,Placed
+20548,Female,24,Master,9.43,4,2018,Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20549,Female,26,Master,5.98,3,2023,Opted,0,No,Information Technology,On Campus,445221,2,Placed
+20550,Male,27,Bachelor,8.69,1,2021,Opted,1,No,Electronics,Off Campus,0,3,Not Placed
+20551,Male,21,Bachelor,6.43,4,2022,Not Opted,4,Yes,Civil,On Campus,592963,0,Placed
+20552,Female,26,Bachelor,9.01,3,2020,Opted,4,Yes,Computer Science,Off Campus,0,3,Not Placed
+20553,Male,27,Bachelor,9.99,3,2020,Opted,1,Yes,Electronics,On Campus,726344,0,Placed
+20554,Female,27,Bachelor,5.15,4,2018,Not Opted,4,No,Information Technology,On Campus,454770,2,Placed
+20555,Male,26,Master,9.49,1,2020,Not Opted,1,Yes,Electrical,On Campus,0,4,Not Placed
+20556,Female,23,Bachelor,8.11,3,2021,Opted,5,No,Computer Science,Off Campus,252832,0,Placed
+20557,Female,27,Bachelor,9.87,4,2018,Opted,0,No,Electrical,Off Campus,242771,0,Placed
+20558,Female,27,Bachelor,7.33,1,2023,Not Opted,0,No,Information Technology,On Campus,297421,0,Placed
+20559,Female,24,Master,9.24,4,2022,Opted,0,Yes,Information Technology,On Campus,377587,2,Placed
+20560,Female,29,Master,5.31,4,2018,Not Opted,1,Yes,Computer Science,On Campus,0,3,Not Placed
+20561,Female,26,Bachelor,6.68,3,2023,Opted,1,Yes,Computer Science,Off Campus,672194,2,Placed
+20562,Male,26,Master,5.34,1,2018,Not Opted,3,No,Mechanical,Off Campus,502295,0,Placed
+20563,Male,24,Master,9.88,3,2019,Not Opted,4,Yes,Civil,On Campus,856989,0,Placed
+20564,Male,24,Master,9.08,0,2019,Not Opted,4,Yes,Electronics,Off Campus,0,4,Not Placed
+20565,Female,30,Master,9.26,0,2018,Opted,3,No,Computer Science,Off Campus,821141,2,Placed
+20566,Female,28,Master,9.69,1,2020,Opted,3,No,Information Technology,Off Campus,813720,2,Placed
+20567,Female,24,Master,,4,2019,Opted,0,Yes,Electronics,Off Campus,490299,1,Placed
+20568,Female,24,Master,6.93,3,2022,Opted,3,No,Civil,On Campus,0,3,Not Placed
+20569,Male,22,Bachelor,5.36,3,2023,Not Opted,1,Yes,Information Technology,On Campus,349360,1,Placed
+20570,Male,21,Bachelor,6.05,1,2021,Not Opted,2,No,Electronics,Off Campus,512732,1,Placed
+20571,Female,24,Master,6.15,1,2019,Not Opted,1,No,Civil,Off Campus,0,3,Not Placed
+20572,Male,27,Bachelor,7.35,0,2018,Opted,3,Yes,Mechanical,Off Campus,0,4,Not Placed
+20573,Male,21,Bachelor,6.34,2,2020,Opted,4,No,Computer Science,On Campus,0,4,Not Placed
+20574,Female,24,Master,5.5,1,2021,Opted,1,No,Computer Science,On Campus,0,3,Not Placed
+20575,Male,27,Bachelor,5.84,2,2023,Not Opted,4,No,Information Technology,Off Campus,0,3,Not Placed
+20576,Female,26,Master,5.74,1,2023,Opted,1,Yes,Electrical,Off Campus,471767,2,Placed
+20577,Male,27,Master,9.87,4,2019,Opted,4,No,Computer Science,Off Campus,417544,2,Placed
+20578,Female,24,Master,8.8,4,2023,Not Opted,5,No,Computer Science,Off Campus,516859,2,Placed
+20579,Female,26,Bachelor,9.84,0,2023,Not Opted,1,Yes,Electronics,On Campus,468267,2,Placed
+20580,Female,27,Bachelor,7.2,0,2020,Opted,4,Yes,Information Technology,On Campus,465205,0,Placed
+20581,Female,27,Bachelor,6.39,2,2020,Not Opted,2,No,Information Technology,On Campus,306393,0,Placed
+20582,Male,27,Bachelor,8.99,1,2020,Opted,0,No,Electrical,On Campus,0,4,Not Placed
+20583,Female,24,Master,6.63,3,2018,Not Opted,1,No,Electrical,On Campus,501239,0,Placed
+20584,Female,24,Master,6.5,0,2023,Not Opted,2,Yes,Electronics,On Campus,390690,0,Placed
+20585,Female,27,Bachelor,6.16,3,2023,Not Opted,0,No,Computer Science,Off Campus,805731,2,Placed
+20586,Male,27,Master,,3,2023,Opted,1,Yes,Electronics,Off Campus,580149,2,Placed
+20587,Female,24,Master,6.28,1,2022,Opted,2,Yes,Electrical,On Campus,0,3,Not Placed
+20588,Male,27,Bachelor,6.78,2,2020,Opted,2,No,Computer Science,On Campus,285141,2,Placed
+20589,Female,24,Master,8.37,1,2021,Not Opted,5,No,Electronics,On Campus,0,3,Not Placed
+20590,Male,26,Bachelor,5.31,0,2019,Not Opted,2,Yes,Information Technology,Off Campus,0,3,Not Placed
+20591,Male,29,Master,6.05,3,2021,Not Opted,5,No,Information Technology,Off Campus,893192,0,Placed
+20592,Female,26,Bachelor,9.05,1,2018,Not Opted,3,No,Information Technology,Off Campus,864805,2,Placed
+20593,Male,29,Master,5.73,1,2018,Opted,4,Yes,Information Technology,Off Campus,364562,0,Placed
+20594,Female,27,Master,6.71,1,2023,Opted,0,No,Information Technology,On Campus,754055,2,Placed
+20595,Female,27,Bachelor,9.32,0,2021,Opted,4,Yes,Electronics,Off Campus,246057,0,Placed
+20596,Female,22,Bachelor,5.77,2,2023,Not Opted,4,No,Computer Science,On Campus,411818,0,Placed
+20597,Male,27,Bachelor,5.41,1,2022,Not Opted,5,Yes,Civil,Off Campus,420767,0,Placed
+20598,Male,27,Bachelor,7.42,0,2018,Opted,4,Yes,Electrical,Off Campus,0,4,Not Placed
+20599,Female,24,Master,6.51,3,2018,Not Opted,2,No,Computer Science,Off Campus,548899,0,Placed
+20600,Female,24,Master,7.82,4,2021,Opted,5,Yes,Computer Science,Off Campus,367659,1,Placed
+20601,Male,27,Bachelor,9.02,0,2018,Not Opted,4,Yes,Electrical,On Campus,465508,1,Placed
+20602,Female,24,Master,5.69,4,2022,Not Opted,5,No,Electrical,On Campus,713993,1,Placed
+20603,Female,24,Bachelor,7.9,1,2022,Opted,3,No,Computer Science,On Campus,0,3,Not Placed
+20604,Female,26,Bachelor,7.53,1,2022,Opted,5,No,Computer Science,On Campus,710684,0,Placed
+20605,Male,30,Master,5.72,0,2019,Not Opted,1,Yes,Electronics,On Campus,801303,1,Placed
+20606,Male,26,Master,8.12,4,2022,Opted,2,Yes,Computer Science,On Campus,0,3,Not Placed
+20607,Male,27,Bachelor,,1,2022,Opted,0,Yes,Mechanical,On Campus,595668,1,Placed
+20608,Female,23,Bachelor,7.44,3,2019,Not Opted,1,No,Electrical,Off Campus,549352,2,Placed
+20609,Female,27,Bachelor,5.41,2,2023,Not Opted,1,Yes,Information Technology,On Campus,0,4,Not Placed
+20610,Female,30,Master,,2,2020,Not Opted,1,Yes,Information Technology,Off Campus,705027,0,Placed
+20611,Male,24,Master,6.53,1,2018,Opted,4,No,Computer Science,On Campus,0,4,Not Placed
+20612,Female,26,Master,9.11,4,2022,Not Opted,5,Yes,Electronics,Off Campus,0,4,Not Placed
+20613,Female,27,Master,5.28,1,2018,Not Opted,5,No,Computer Science,On Campus,354125,2,Placed
+20614,Female,27,Bachelor,7.09,4,2021,Not Opted,4,No,Information Technology,Off Campus,980912,2,Placed
+20615,Female,23,Bachelor,7.29,3,2018,Not Opted,2,No,Electrical,On Campus,853310,2,Placed
+20616,Male,27,Bachelor,8.63,4,2023,Not Opted,4,Yes,Computer Science,On Campus,0,3,Not Placed
+20617,Male,23,Bachelor,7.87,1,2019,Opted,4,Yes,Information Technology,On Campus,428273,1,Placed
+20618,Female,27,Bachelor,8.34,3,2018,Not Opted,4,Yes,Electronics,On Campus,513260,0,Placed
+20619,Male,24,Bachelor,8.89,0,2018,Not Opted,2,No,Information Technology,Off Campus,353023,2,Placed
+20620,Male,28,Master,9.31,2,2018,Opted,2,No,Mechanical,On Campus,559743,0,Placed
+20621,Female,27,Master,6.57,1,2020,Not Opted,3,No,Electronics,On Campus,429351,0,Placed
+20622,Female,25,Bachelor,7.69,1,2020,Not Opted,3,Yes,Information Technology,Off Campus,516575,0,Placed
+20623,Male,27,Bachelor,9.2,1,2021,Opted,3,Yes,Information Technology,On Campus,997163,2,Placed
+20624,Female,24,Master,9.95,3,2019,Not Opted,3,Yes,Information Technology,Off Campus,874104,2,Placed
+20625,Male,24,Master,9.45,0,2018,Opted,5,Yes,Electrical,Off Campus,525238,1,Placed
+20626,Female,26,Master,6.86,4,2018,Not Opted,1,Yes,Computer Science,On Campus,576756,2,Placed
+20627,Male,24,Master,5.98,0,2018,Opted,1,No,Civil,On Campus,728222,2,Placed
+20628,Female,23,Bachelor,7.45,3,2018,Opted,3,Yes,Electrical,Off Campus,276945,0,Placed
+20629,Male,26,Bachelor,8.71,1,2020,Not Opted,3,No,Information Technology,On Campus,975842,1,Placed
+20630,Male,25,Bachelor,7.46,2,2023,Opted,0,No,Electrical,Off Campus,0,4,Not Placed
+20631,Male,27,Bachelor,7.42,1,2023,Opted,1,Yes,Information Technology,On Campus,820632,2,Placed
+20632,Female,27,Bachelor,9.19,4,2021,Not Opted,0,No,Electronics,On Campus,339244,2,Placed
+20633,Male,24,Master,6.81,2,2022,Not Opted,0,Yes,Electrical,Off Campus,0,4,Not Placed
+20634,Male,27,Bachelor,9.3,1,2019,Opted,4,Yes,Computer Science,On Campus,921673,0,Placed
+20635,Female,24,Master,7.03,2,2023,Not Opted,5,No,Computer Science,On Campus,329774,1,Placed
+20636,Female,23,Bachelor,6.64,0,2018,Opted,2,Yes,Mechanical,On Campus,481907,0,Placed
+20637,Male,26,Bachelor,7.27,3,2023,Opted,1,Yes,Electrical,Off Campus,0,3,Not Placed
+20638,Male,21,Bachelor,8.81,1,2021,Not Opted,3,No,Civil,On Campus,689922,2,Placed
+20639,Female,27,Bachelor,5.63,4,2022,Not Opted,3,No,Computer Science,Off Campus,0,3,Not Placed
+20640,Female,21,Bachelor,5.98,0,2023,Opted,2,No,Computer Science,On Campus,441830,2,Placed
+20641,Female,25,Master,9.76,1,2021,Not Opted,1,No,Computer Science,Off Campus,0,3,Not Placed
+20642,Female,30,Master,5.88,0,2020,Not Opted,3,No,Electrical,On Campus,0,4,Not Placed
+20643,Female,28,Master,7.84,4,2022,Opted,3,No,Information Technology,On Campus,811477,2,Placed
+20644,Male,24,Bachelor,,1,2021,Opted,4,Yes,Computer Science,Off Campus,811795,2,Placed
+20645,Female,25,Bachelor,7.45,4,2023,Opted,0,Yes,Electrical,On Campus,0,3,Not Placed
+20646,Male,24,Master,8.22,2,2020,Opted,3,Yes,Electrical,Off Campus,823536,1,Placed
+20647,Male,24,Bachelor,6.15,4,2021,Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+20648,Male,27,Bachelor,7.76,2,2021,Opted,1,Yes,Information Technology,Off Campus,893278,2,Placed
+20649,Female,24,Master,6.86,1,2023,Not Opted,5,No,Electronics,On Campus,329716,2,Placed
+20650,Male,21,Bachelor,8.31,2,2022,Opted,2,Yes,Computer Science,Off Campus,906209,1,Placed
+20651,Male,24,Master,5.71,1,2020,Not Opted,4,No,Computer Science,On Campus,361919,0,Placed
+20652,Female,27,Bachelor,7.85,1,2018,Not Opted,1,Yes,Information Technology,Off Campus,653925,1,Placed
+20653,Male,24,Master,5.93,3,2019,Opted,4,No,Electronics,Off Campus,734968,0,Placed
+20654,Male,27,Bachelor,6.39,1,2022,Not Opted,0,No,Electronics,On Campus,837796,2,Placed
+20655,Female,25,Bachelor,6.09,2,2020,Opted,3,No,Information Technology,Off Campus,0,4,Not Placed
+20656,Male,24,Master,5.91,3,2021,Not Opted,1,No,Computer Science,Off Campus,0,4,Not Placed
+20657,Male,24,Bachelor,9.13,3,2020,Opted,2,Yes,Mechanical,On Campus,0,3,Not Placed
+20658,Male,22,Bachelor,6.43,1,2019,Opted,0,Yes,Civil,On Campus,311115,1,Placed
+20659,Female,24,Master,9.64,4,2023,Opted,0,No,Electrical,On Campus,258914,1,Placed
+20660,Female,24,Bachelor,9.85,4,2019,Opted,4,No,Civil,On Campus,0,4,Not Placed
+20661,Female,26,Master,7.86,3,2018,Not Opted,0,No,Electrical,On Campus,307255,0,Placed
+20662,Male,27,Bachelor,5.72,1,2018,Not Opted,1,Yes,Electronics,On Campus,734637,1,Placed
+20663,Male,27,Bachelor,6.87,4,2019,Not Opted,4,No,Information Technology,Off Campus,668295,0,Placed
+20664,Female,23,Bachelor,8.99,1,2022,Not Opted,0,No,Information Technology,Off Campus,654036,0,Placed
+20665,Male,23,Bachelor,6.84,1,2022,Not Opted,2,Yes,Computer Science,Off Campus,406068,0,Placed
+20666,Male,30,Master,5.44,3,2021,Opted,5,No,Electronics,On Campus,752813,0,Placed
+20667,Female,26,Bachelor,7.78,3,2018,Opted,1,No,Mechanical,On Campus,0,3,Not Placed
+20668,Female,24,Master,9.23,0,2021,Opted,2,Yes,Electrical,Off Campus,0,3,Not Placed
+20669,Male,22,Bachelor,8.98,4,2018,Opted,2,No,Information Technology,Off Campus,0,4,Not Placed
+20670,Male,27,Bachelor,5.88,4,2019,Opted,4,No,Computer Science,On Campus,0,3,Not Placed
+20671,Male,25,Bachelor,8.36,4,2022,Not Opted,3,Yes,Computer Science,Off Campus,226245,1,Placed
+20672,Female,21,Bachelor,6.1,2,2022,Opted,4,No,Computer Science,On Campus,0,3,Not Placed
+20673,Female,24,Master,6.09,1,2019,Opted,1,Yes,Electrical,On Campus,246659,1,Placed
+20674,Female,30,Master,9.37,3,2021,Not Opted,1,No,Mechanical,Off Campus,711765,1,Placed
+20675,Female,28,Master,,4,2021,Not Opted,4,No,Computer Science,On Campus,799162,0,Placed
+20676,Male,24,Master,6.32,0,2020,Opted,3,No,Computer Science,On Campus,0,4,Not Placed
+20677,Female,27,Bachelor,5.0,4,2018,Opted,4,No,Electrical,On Campus,850906,0,Placed
+20678,Female,30,Master,9.35,1,2021,Not Opted,1,No,Computer Science,On Campus,800173,0,Placed
+20679,Female,24,Master,8.96,1,2019,Opted,3,Yes,Mechanical,Off Campus,0,3,Not Placed
+20680,Female,27,Bachelor,,3,2021,Opted,1,No,Information Technology,On Campus,0,3,Not Placed
+20681,Female,25,Bachelor,8.75,2,2022,Opted,3,No,Computer Science,On Campus,507157,1,Placed
+20682,Male,25,Bachelor,5.76,3,2018,Not Opted,3,Yes,Computer Science,Off Campus,0,3,Not Placed
+20683,Male,26,Bachelor,7.29,4,2023,Opted,4,Yes,Computer Science,On Campus,0,3,Not Placed
+20684,Female,29,Master,6.76,0,2020,Opted,4,No,Electrical,On Campus,435237,2,Placed
+20685,Male,26,Master,5.47,3,2018,Not Opted,4,Yes,Computer Science,Off Campus,507963,1,Placed
+20686,Female,27,Bachelor,7.43,2,2022,Not Opted,3,No,Information Technology,Off Campus,282168,1,Placed
+20687,Female,27,Bachelor,9.6,3,2022,Not Opted,3,Yes,Information Technology,On Campus,554824,2,Placed
+20688,Male,27,Bachelor,5.2,1,2022,Opted,1,Yes,Computer Science,On Campus,556936,1,Placed
+20689,Male,24,Master,6.46,4,2022,Not Opted,2,No,Computer Science,Off Campus,0,4,Not Placed
+20690,Female,24,Master,6.04,4,2019,Opted,4,Yes,Electrical,On Campus,0,4,Not Placed
+20691,Female,27,Bachelor,6.19,4,2020,Not Opted,5,No,Electronics,On Campus,596076,2,Placed
+20692,Female,26,Bachelor,9.54,4,2023,Opted,1,Yes,Mechanical,On Campus,0,3,Not Placed
+20693,Male,24,Master,7.34,4,2022,Not Opted,1,Yes,Computer Science,Off Campus,0,4,Not Placed
+20694,Female,27,Bachelor,7.33,4,2022,Opted,0,Yes,Computer Science,On Campus,692089,2,Placed
+20695,Female,27,Bachelor,,0,2021,Opted,4,No,Computer Science,Off Campus,0,4,Not Placed
+20696,Female,24,Master,5.77,2,2020,Not Opted,1,No,Information Technology,Off Campus,251986,0,Placed
+20697,Male,23,Bachelor,7.44,4,2018,Not Opted,0,Yes,Electrical,Off Campus,485199,2,Placed
+20698,Female,25,Master,7.15,2,2020,Opted,5,No,Electronics,Off Campus,628106,1,Placed
+20699,Female,25,Bachelor,7.98,4,2020,Not Opted,5,No,Electronics,On Campus,0,4,Not Placed
+20700,Male,21,Bachelor,10.0,3,2023,Opted,4,No,Computer Science,Off Campus,753095,1,Placed
+20701,Female,28,Master,,4,2020,Not Opted,3,Yes,Information Technology,On Campus,416992,2,Placed
+20702,Female,28,Master,6.99,1,2023,Not Opted,0,No,Mechanical,Off Campus,0,4,Not Placed
+20703,Male,24,Bachelor,9.14,0,2022,Opted,3,Yes,Information Technology,Off Campus,268625,1,Placed
+20704,Female,27,Master,5.85,3,2022,Not Opted,5,Yes,Information Technology,On Campus,0,3,Not Placed
+20705,Male,27,Bachelor,5.15,3,2019,Not Opted,5,Yes,Civil,Off Campus,0,3,Not Placed
+20706,Male,23,Bachelor,6.02,1,2023,Opted,2,Yes,Electronics,Off Campus,478577,0,Placed
+20707,Female,26,Master,6.7,4,2023,Opted,2,Yes,Electronics,On Campus,233282,2,Placed
+20708,Female,27,Bachelor,7.55,0,2018,Not Opted,2,No,Computer Science,Off Campus,800807,1,Placed
+20709,Female,27,Bachelor,8.08,3,2021,Opted,2,No,Information Technology,Off Campus,964634,0,Placed
+20710,Female,29,Master,9.55,0,2020,Not Opted,1,Yes,Computer Science,Off Campus,330843,2,Placed
+20711,Male,24,Master,7.55,3,2018,Not Opted,2,No,Electrical,On Campus,0,3,Not Placed
+20712,Female,25,Bachelor,7.51,4,2023,Opted,1,No,Computer Science,Off Campus,355205,1,Placed
+20713,Male,24,Master,5.25,3,2018,Opted,1,No,Electronics,On Campus,0,4,Not Placed
+20714,Female,28,Master,,3,2019,Opted,4,No,Electronics,On Campus,0,3,Not Placed
+20715,Female,24,Master,7.76,2,2021,Opted,1,No,Electrical,On Campus,0,4,Not Placed
+20716,Female,29,Master,7.19,4,2023,Opted,1,No,Computer Science,Off Campus,0,4,Not Placed
+20717,Male,26,Bachelor,9.2,1,2023,Opted,2,No,Computer Science,Off Campus,591374,1,Placed
+20718,Female,24,Bachelor,5.8,1,2020,Not Opted,1,Yes,Electronics,Off Campus,790238,1,Placed
+20719,Female,27,Bachelor,5.12,4,2021,Not Opted,3,Yes,Electrical,Off Campus,0,4,Not Placed
+20720,Female,25,Master,7.25,1,2019,Opted,2,Yes,Electronics,On Campus,264873,0,Placed
+20721,Female,25,Master,6.19,4,2022,Not Opted,0,No,Information Technology,On Campus,0,4,Not Placed
+20722,Male,25,Master,5.25,1,2018,Not Opted,2,No,Electrical,Off Campus,0,4,Not Placed
+20723,Female,24,Master,8.62,2,2020,Not Opted,1,Yes,Electronics,Off Campus,942138,1,Placed
+20724,Male,24,Master,,1,2023,Not Opted,3,No,Information Technology,On Campus,393074,2,Placed
+20725,Male,28,Master,8.04,3,2022,Opted,2,No,Electrical,Off Campus,0,3,Not Placed
+20726,Male,28,Master,6.41,4,2019,Not Opted,3,Yes,Electronics,Off Campus,893739,1,Placed
+20727,Male,26,Bachelor,5.87,0,2021,Not Opted,0,Yes,Computer Science,Off Campus,739519,0,Placed
+20728,Male,24,Bachelor,6.9,0,2018,Opted,5,Yes,Computer Science,Off Campus,0,3,Not Placed
+20729,Male,24,Master,9.01,4,2020,Opted,0,No,Electrical,Off Campus,765451,1,Placed
+20730,Female,24,Master,6.96,2,2023,Opted,5,No,Computer Science,Off Campus,568708,1,Placed
+20731,Male,29,Master,8.75,1,2023,Opted,4,No,Electronics,On Campus,978755,2,Placed
+20732,Male,25,Bachelor,5.63,2,2022,Not Opted,5,Yes,Electronics,On Campus,779823,0,Placed
+20733,Male,24,Bachelor,8.86,0,2022,Opted,4,Yes,Mechanical,On Campus,573096,0,Placed
+20734,Female,30,Master,6.18,4,2018,Not Opted,2,No,Electrical,On Campus,377182,1,Placed
+20735,Female,24,Master,8.39,4,2021,Not Opted,4,Yes,Computer Science,Off Campus,902338,2,Placed
+20736,Male,27,Bachelor,7.83,2,2019,Opted,3,Yes,Computer Science,Off Campus,946178,1,Placed
+20737,Female,23,Bachelor,9.65,2,2021,Opted,4,No,Electronics,On Campus,0,4,Not Placed
+20738,Male,26,Bachelor,6.94,1,2021,Opted,3,Yes,Computer Science,On Campus,0,4,Not Placed
+20739,Male,25,Bachelor,5.33,3,2021,Opted,5,Yes,Electronics,On Campus,748795,2,Placed
+20740,Female,25,Master,5.1,3,2018,Opted,5,Yes,Electronics,On Campus,678921,1,Placed
+20741,Male,25,Bachelor,9.13,1,2018,Opted,5,No,Information Technology,On Campus,848513,2,Placed
+20742,Female,21,Bachelor,7.62,3,2019,Not Opted,4,No,Information Technology,Off Campus,454295,1,Placed
+20743,Female,24,Master,8.88,0,2021,Not Opted,5,Yes,Electrical,Off Campus,310282,1,Placed
+20744,Male,23,Bachelor,6.17,3,2018,Not Opted,4,No,Mechanical,On Campus,0,4,Not Placed
+20745,Male,27,Bachelor,6.73,1,2019,Not Opted,4,No,Computer Science,On Campus,0,3,Not Placed
+20746,Female,24,Bachelor,5.15,3,2023,Opted,1,No,Mechanical,Off Campus,532703,0,Placed
+20747,Male,25,Master,9.81,4,2019,Opted,1,Yes,Electrical,Off Campus,725270,0,Placed
+20748,Male,22,Bachelor,8.34,2,2021,Not Opted,4,No,Civil,Off Campus,410913,2,Placed
+20749,Male,28,Master,,0,2020,Not Opted,3,Yes,Computer Science,On Campus,853416,0,Placed
+20750,Female,24,Master,6.33,4,2021,Not Opted,2,Yes,Computer Science,Off Campus,0,4,Not Placed
+20751,Female,27,Bachelor,8.06,4,2020,Opted,0,No,Electronics,On Campus,0,3,Not Placed
+20752,Male,22,Bachelor,8.39,1,2019,Opted,1,Yes,Mechanical,On Campus,385915,1,Placed
+20753,Female,27,Bachelor,6.59,2,2023,Opted,4,No,Information Technology,Off Campus,451762,1,Placed
+20754,Female,27,Bachelor,9.24,2,2023,Not Opted,0,No,Electronics,Off Campus,0,4,Not Placed
+20755,Female,28,Master,9.74,0,2018,Not Opted,1,Yes,Mechanical,Off Campus,282446,0,Placed
+20756,Female,22,Bachelor,9.42,1,2023,Opted,2,Yes,Computer Science,On Campus,288567,1,Placed
+20757,Female,27,Bachelor,8.7,0,2022,Opted,3,No,Electrical,Off Campus,544994,0,Placed
+20758,Male,26,Bachelor,6.39,3,2019,Not Opted,4,No,Mechanical,Off Campus,0,4,Not Placed
+20759,Male,24,Master,6.41,4,2018,Not Opted,2,No,Information Technology,On Campus,283866,1,Placed
+20760,Male,27,Bachelor,9.82,0,2023,Opted,1,No,Information Technology,Off Campus,916631,2,Placed
+20761,Female,24,Bachelor,5.05,4,2019,Not Opted,4,Yes,Electronics,Off Campus,0,3,Not Placed
+20762,Female,24,Master,8.58,1,2021,Opted,0,Yes,Information Technology,On Campus,702253,0,Placed
+20763,Male,30,Master,8.53,3,2023,Opted,5,Yes,Computer Science,On Campus,865468,0,Placed
+20764,Female,27,Bachelor,8.11,1,2020,Not Opted,3,No,Civil,On Campus,793184,0,Placed
+20765,Male,27,Bachelor,9.95,3,2019,Not Opted,1,Yes,Electrical,On Campus,373625,0,Placed
+20766,Male,22,Bachelor,6.56,3,2018,Not Opted,3,Yes,Electronics,On Campus,0,4,Not Placed
+20767,Male,25,Bachelor,6.7,4,2021,Opted,4,Yes,Electronics,Off Campus,0,4,Not Placed
+20768,Female,21,Bachelor,5.39,1,2022,Not Opted,5,Yes,Computer Science,Off Campus,0,4,Not Placed
+20769,Female,27,Master,7.21,1,2021,Not Opted,2,No,Computer Science,On Campus,0,4,Not Placed
+20770,Male,28,Master,6.31,0,2023,Opted,3,Yes,Information Technology,Off Campus,238237,1,Placed
+20771,Male,26,Bachelor,6.72,1,2020,Opted,0,Yes,Information Technology,Off Campus,0,4,Not Placed
+20772,Male,25,Bachelor,9.17,0,2021,Not Opted,1,Yes,Electrical,On Campus,390375,1,Placed
+20773,Male,26,Master,9.68,2,2022,Opted,0,Yes,Electrical,On Campus,265197,2,Placed
+20774,Female,22,Bachelor,,2,2018,Opted,3,No,Information Technology,On Campus,0,4,Not Placed
+20775,Female,21,Bachelor,6.86,2,2019,Opted,5,No,Computer Science,Off Campus,536837,2,Placed
+20776,Male,27,Bachelor,9.64,1,2020,Not Opted,2,Yes,Information Technology,On Campus,0,4,Not Placed
+20777,Male,27,Bachelor,5.31,1,2022,Not Opted,2,No,Electrical,Off Campus,499904,2,Placed
+20778,Female,27,Bachelor,5.46,0,2023,Opted,0,No,Information Technology,Off Campus,0,3,Not Placed
+20779,Female,30,Master,5.81,3,2023,Opted,4,No,Computer Science,Off Campus,589336,2,Placed
+20780,Male,22,Bachelor,7.98,0,2023,Opted,4,No,Electrical,Off Campus,651182,1,Placed
+20781,Male,22,Bachelor,5.75,2,2020,Not Opted,5,Yes,Computer Science,On Campus,491168,0,Placed
+20782,Male,21,Bachelor,9.84,0,2021,Opted,2,No,Information Technology,Off Campus,663539,2,Placed
+20783,Female,30,Master,7.23,3,2020,Opted,0,No,Electronics,On Campus,251524,0,Placed
+20784,Female,28,Master,7.51,1,2023,Not Opted,0,Yes,Computer Science,Off Campus,0,3,Not Placed
+20785,Female,28,Master,6.23,0,2022,Opted,0,Yes,Electrical,On Campus,0,3,Not Placed
+20786,Male,24,Master,7.35,2,2019,Not Opted,3,Yes,Information Technology,On Campus,602576,1,Placed
+20787,Male,27,Bachelor,8.31,2,2019,Not Opted,5,Yes,Computer Science,On Campus,560372,1,Placed
+20788,Female,29,Master,8.76,1,2020,Not Opted,4,No,Computer Science,Off Campus,304755,2,Placed
+20789,Female,24,Bachelor,8.77,0,2023,Opted,4,Yes,Mechanical,Off Campus,0,4,Not Placed
+20790,Male,21,Bachelor,7.89,3,2018,Opted,3,No,Electrical,Off Campus,0,3,Not Placed
+20791,Female,24,Master,9.52,1,2020,Not Opted,1,No,Civil,On Campus,738908,0,Placed
+20792,Female,24,Master,9.09,0,2023,Opted,3,Yes,Electrical,Off Campus,0,4,Not Placed
+20793,Male,25,Master,8.79,4,2021,Not Opted,5,Yes,Electrical,Off Campus,0,3,Not Placed
+20794,Female,25,Master,5.28,2,2019,Opted,0,No,Information Technology,Off Campus,639068,2,Placed
+20795,Male,29,Master,5.03,3,2019,Not Opted,3,No,Information Technology,On Campus,0,3,Not Placed
+20796,Male,27,Bachelor,6.06,3,2019,Not Opted,0,Yes,Computer Science,Off Campus,962436,1,Placed
+20797,Male,24,Master,,3,2018,Opted,5,Yes,Information Technology,Off Campus,209012,0,Placed
+20798,Male,24,Master,7.06,2,2023,Opted,5,Yes,Information Technology,On Campus,225823,0,Placed
+20799,Male,26,Master,7.01,0,2023,Opted,2,No,Computer Science,On Campus,247027,1,Placed
+20800,Male,27,Bachelor,9.42,1,2023,Opted,0,No,Computer Science,On Campus,0,4,Not Placed
+20801,Male,24,Master,9.48,0,2023,Not Opted,4,Yes,Computer Science,On Campus,545938,1,Placed
+20802,Female,27,Bachelor,9.55,1,2018,Not Opted,3,No,Information Technology,On Campus,342049,0,Placed
+20803,Male,29,Master,6.57,3,2022,Opted,5,Yes,Electrical,On Campus,947590,2,Placed
+20804,Male,29,Master,8.46,0,2020,Opted,0,No,Mechanical,Off Campus,0,4,Not Placed
+20805,Female,25,Bachelor,6.36,3,2020,Not Opted,1,No,Computer Science,Off Campus,0,3,Not Placed
+20806,Female,29,Master,5.95,4,2023,Opted,2,Yes,Computer Science,On Campus,483932,2,Placed
+20807,Female,24,Bachelor,5.92,3,2021,Opted,1,Yes,Information Technology,Off Campus,0,4,Not Placed
+20808,Male,22,Bachelor,6.71,3,2019,Opted,5,Yes,Mechanical,On Campus,933349,0,Placed
+20809,Female,26,Bachelor,7.15,1,2018,Opted,1,No,Computer Science,Off Campus,828021,0,Placed
+20810,Male,24,Master,9.15,4,2021,Not Opted,1,No,Electrical,On Campus,477354,2,Placed
+20811,Male,26,Master,5.6,3,2021,Not Opted,2,Yes,Information Technology,On Campus,0,4,Not Placed
+20812,Male,24,Master,8.67,3,2023,Opted,2,No,Computer Science,Off Campus,0,3,Not Placed
+20813,Male,26,Bachelor,7.66,4,2018,Not Opted,2,Yes,Information Technology,Off Campus,0,3,Not Placed
+20814,Female,24,Master,6.44,4,2020,Opted,2,No,Computer Science,Off Campus,688260,1,Placed
+20815,Female,22,Bachelor,7.46,0,2019,Opted,1,Yes,Mechanical,Off Campus,635869,2,Placed
+20816,Male,29,Master,6.5,1,2020,Opted,4,No,Information Technology,Off Campus,0,4,Not Placed
+20817,Male,27,Bachelor,7.98,4,2021,Not Opted,4,No,Electrical,Off Campus,372022,2,Placed
+20818,Male,23,Bachelor,7.17,4,2019,Not Opted,2,No,Electrical,Off Campus,0,3,Not Placed
+20819,Female,21,Bachelor,5.82,2,2022,Not Opted,3,No,Electrical,Off Campus,0,4,Not Placed
+20820,Male,28,Master,5.58,4,2021,Not Opted,0,Yes,Information Technology,On Campus,755737,0,Placed
+20821,Male,26,Bachelor,,1,2020,Not Opted,5,No,Computer Science,Off Campus,551477,0,Placed
+20822,Female,27,Bachelor,9.51,3,2020,Opted,3,Yes,Information Technology,Off Campus,0,4,Not Placed
+20823,Female,27,Bachelor,6.72,3,2023,Opted,5,Yes,Computer Science,On Campus,685780,2,Placed
+20824,Male,25,Bachelor,8.67,3,2020,Not Opted,3,Yes,Electronics,On Campus,709590,2,Placed
+20825,Female,21,Bachelor,8.29,3,2018,Not Opted,3,Yes,Computer Science,On Campus,753667,0,Placed
+20826,Female,27,Bachelor,9.66,2,2021,Not Opted,4,No,Electrical,On Campus,237780,0,Placed
+20827,Male,27,Master,9.1,4,2019,Opted,0,Yes,Computer Science,Off Campus,0,3,Not Placed
+20828,Female,25,Master,7.83,3,2020,Not Opted,3,No,Mechanical,Off Campus,0,4,Not Placed
+20829,Male,23,Bachelor,8.29,0,2023,Opted,2,No,Information Technology,On Campus,724338,2,Placed
+20830,Female,29,Master,9.49,3,2023,Opted,5,No,Information Technology,On Campus,0,3,Not Placed
+20831,Male,24,Master,7.0,4,2020,Not Opted,4,No,Mechanical,Off Campus,511890,2,Placed
+20832,Male,21,Bachelor,6.63,3,2018,Opted,5,Yes,Information Technology,Off Campus,868465,0,Placed
+20833,Male,21,Bachelor,5.05,2,2023,Opted,2,No,Civil,Off Campus,0,4,Not Placed
+20834,Female,23,Bachelor,9.13,1,2019,Not Opted,2,Yes,Computer Science,Off Campus,629857,1,Placed
+20835,Male,26,Master,9.0,1,2021,Opted,3,No,Information Technology,On Campus,0,4,Not Placed
+20836,Female,27,Bachelor,5.52,4,2022,Not Opted,2,No,Electrical,Off Campus,373104,1,Placed
+20837,Male,24,Master,7.88,1,2018,Opted,0,Yes,Mechanical,On Campus,0,3,Not Placed
+20838,Male,27,Bachelor,,1,2023,Not Opted,2,No,Computer Science,On Campus,500660,1,Placed
+20839,Female,30,Master,5.59,0,2021,Not Opted,3,No,Mechanical,On Campus,549301,1,Placed
+20840,Male,22,Bachelor,9.9,4,2022,Opted,5,No,Electrical,Off Campus,0,3,Not Placed
+20841,Male,27,Bachelor,6.07,4,2020,Not Opted,2,No,Electronics,On Campus,0,4,Not Placed
+20842,Female,24,Master,5.34,1,2020,Opted,4,No,Information Technology,Off Campus,0,3,Not Placed
+20843,Male,25,Master,7.97,1,2019,Opted,4,Yes,Computer Science,On Campus,760076,0,Placed
+20844,Male,30,Master,8.69,1,2022,Not Opted,4,No,Mechanical,Off Campus,320754,0,Placed
+20845,Male,28,Master,5.16,2,2020,Opted,5,No,Mechanical,On Campus,488384,1,Placed
+20846,Male,24,Master,8.29,3,2020,Not Opted,1,Yes,Information Technology,On Campus,0,3,Not Placed
+20847,Female,26,Master,7.66,2,2023,Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+20848,Female,25,Bachelor,5.52,4,2019,Opted,4,Yes,Computer Science,Off Campus,0,3,Not Placed
+20849,Male,30,Master,5.86,0,2021,Not Opted,1,No,Electrical,On Campus,0,4,Not Placed
+20850,Female,27,Bachelor,7.84,3,2020,Opted,5,No,Computer Science,On Campus,928962,2,Placed
+20851,Male,25,Bachelor,6.48,0,2018,Opted,4,Yes,Information Technology,Off Campus,474233,2,Placed
+20852,Female,24,Master,9.69,4,2018,Opted,3,No,Information Technology,On Campus,756888,2,Placed
+20853,Male,25,Bachelor,9.09,4,2021,Opted,5,No,Electronics,Off Campus,0,4,Not Placed
+20854,Male,24,Master,9.92,0,2022,Opted,4,Yes,Computer Science,Off Campus,0,3,Not Placed
+20855,Male,27,Master,6.3,0,2019,Opted,4,Yes,Information Technology,On Campus,548109,2,Placed
+20856,Male,26,Bachelor,9.85,0,2023,Opted,1,No,Electrical,Off Campus,0,3,Not Placed
+20857,Male,22,Bachelor,7.16,4,2018,Opted,3,Yes,Electrical,On Campus,955897,1,Placed
+20858,Male,25,Master,6.74,1,2018,Not Opted,5,No,Information Technology,Off Campus,666869,2,Placed
+20859,Female,27,Master,5.25,0,2021,Opted,2,Yes,Information Technology,Off Campus,271895,1,Placed
+20860,Male,27,Bachelor,5.26,3,2022,Opted,0,No,Electronics,On Campus,0,4,Not Placed
+20861,Female,25,Bachelor,8.46,4,2022,Not Opted,3,Yes,Electronics,Off Campus,818618,0,Placed
+20862,Male,27,Bachelor,7.29,2,2021,Not Opted,2,Yes,Electronics,On Campus,0,4,Not Placed
+20863,Female,24,Bachelor,6.13,2,2018,Not Opted,3,Yes,Mechanical,Off Campus,0,4,Not Placed
+20864,Female,24,Master,8.07,3,2019,Opted,2,Yes,Electronics,Off Campus,0,4,Not Placed
+20865,Female,24,Master,6.26,1,2018,Not Opted,2,Yes,Electronics,Off Campus,200615,2,Placed
+20866,Male,25,Master,7.89,0,2022,Not Opted,3,Yes,Computer Science,Off Campus,900972,1,Placed
+20867,Male,26,Master,6.8,4,2023,Opted,1,Yes,Information Technology,On Campus,971614,2,Placed
+20868,Female,23,Bachelor,9.12,0,2018,Opted,3,Yes,Information Technology,Off Campus,722915,0,Placed
+20869,Male,22,Bachelor,9.1,4,2019,Not Opted,3,Yes,Computer Science,Off Campus,0,4,Not Placed
+20870,Female,24,Master,7.39,2,2020,Not Opted,2,No,Electrical,Off Campus,0,3,Not Placed
+20871,Male,25,Master,6.75,0,2018,Opted,0,Yes,Computer Science,On Campus,569956,0,Placed
+20872,Female,24,Master,6.81,3,2021,Opted,2,No,Electronics,On Campus,530019,1,Placed
+20873,Female,24,Master,9.03,1,2020,Opted,4,Yes,Information Technology,On Campus,806070,0,Placed
+20874,Male,28,Master,6.64,3,2021,Opted,3,No,Information Technology,On Campus,261700,2,Placed
+20875,Female,30,Master,6.05,1,2021,Opted,5,No,Civil,Off Campus,0,3,Not Placed
+20876,Male,24,Master,5.42,0,2021,Not Opted,3,Yes,Information Technology,Off Campus,223758,2,Placed
+20877,Female,24,Master,7.33,0,2018,Opted,1,Yes,Information Technology,Off Campus,0,4,Not Placed
+20878,Female,24,Master,7.41,1,2022,Opted,5,No,Information Technology,On Campus,0,4,Not Placed
+20879,Male,21,Bachelor,9.2,2,2020,Opted,2,No,Mechanical,On Campus,400073,0,Placed
+20880,Male,24,Master,6.11,4,2019,Opted,1,Yes,Information Technology,Off Campus,0,4,Not Placed
+20881,Male,27,Bachelor,6.9,3,2022,Opted,3,Yes,Electrical,Off Campus,0,4,Not Placed
+20882,Female,27,Bachelor,,3,2018,Not Opted,2,Yes,Computer Science,Off Campus,708911,1,Placed
+20883,Male,27,Master,9.12,3,2021,Opted,2,No,Electrical,On Campus,731088,1,Placed
+20884,Female,30,Master,6.92,0,2019,Not Opted,4,Yes,Computer Science,Off Campus,970157,2,Placed
+20885,Female,27,Bachelor,7.3,3,2020,Opted,4,Yes,Electronics,Off Campus,759827,2,Placed
+20886,Male,27,Bachelor,6.52,4,2022,Not Opted,0,Yes,Electronics,On Campus,433259,1,Placed
+20887,Male,28,Master,9.66,4,2023,Not Opted,4,Yes,Electronics,On Campus,857960,0,Placed
+20888,Female,21,Bachelor,5.59,1,2022,Opted,5,Yes,Electronics,Off Campus,809451,1,Placed
+20889,Female,30,Master,9.67,0,2019,Opted,2,No,Electrical,On Campus,446765,2,Placed
+20890,Male,30,Master,8.42,4,2018,Opted,4,No,Electronics,Off Campus,0,3,Not Placed
+20891,Male,28,Master,7.66,2,2020,Opted,0,Yes,Information Technology,Off Campus,0,4,Not Placed
+20892,Male,24,Bachelor,5.16,0,2019,Opted,3,Yes,Electrical,Off Campus,0,3,Not Placed
+20893,Male,24,Bachelor,7.38,0,2021,Not Opted,5,No,Computer Science,Off Campus,0,3,Not Placed
+20894,Male,24,Master,7.04,4,2020,Opted,4,Yes,Computer Science,On Campus,0,4,Not Placed
+20895,Female,26,Bachelor,5.81,2,2022,Opted,2,No,Information Technology,On Campus,856318,1,Placed
+20896,Female,27,Bachelor,8.28,1,2019,Not Opted,3,Yes,Information Technology,On Campus,454905,0,Placed
+20897,Female,26,Bachelor,9.86,4,2022,Opted,2,No,Computer Science,Off Campus,0,3,Not Placed
+20898,Female,21,Bachelor,7.81,2,2022,Not Opted,3,No,Electronics,Off Campus,924434,0,Placed
+20899,Male,27,Bachelor,8.57,0,2022,Opted,5,Yes,Computer Science,Off Campus,260021,2,Placed
+20900,Male,27,Bachelor,5.34,2,2018,Not Opted,2,No,Computer Science,On Campus,0,3,Not Placed
+20901,Male,27,Bachelor,7.09,0,2022,Opted,4,Yes,Electronics,On Campus,381854,2,Placed
+20902,Female,26,Master,5.58,4,2021,Not Opted,4,No,Information Technology,Off Campus,668735,1,Placed
+20903,Female,26,Bachelor,8.06,4,2021,Not Opted,0,Yes,Electronics,On Campus,0,3,Not Placed
+20904,Male,25,Bachelor,9.69,3,2020,Opted,3,Yes,Electrical,On Campus,748930,2,Placed
+20905,Male,26,Bachelor,8.31,3,2023,Opted,0,Yes,Civil,On Campus,541147,2,Placed
+20906,Female,27,Bachelor,5.38,3,2022,Opted,1,No,Electrical,On Campus,848002,1,Placed
+20907,Female,27,Bachelor,6.77,4,2022,Not Opted,4,Yes,Computer Science,Off Campus,724493,0,Placed
+20908,Male,27,Bachelor,7.75,1,2019,Not Opted,3,Yes,Information Technology,On Campus,212442,0,Placed
+20909,Male,27,Bachelor,7.02,4,2018,Not Opted,5,Yes,Computer Science,Off Campus,0,3,Not Placed
+20910,Female,27,Bachelor,9.17,2,2023,Opted,0,No,Mechanical,On Campus,238909,1,Placed
+20911,Male,30,Master,9.07,4,2020,Opted,5,Yes,Computer Science,Off Campus,0,3,Not Placed
+20912,Male,27,Bachelor,8.06,4,2023,Not Opted,5,No,Information Technology,Off Campus,657486,0,Placed
+20913,Male,27,Bachelor,6.87,0,2022,Opted,5,No,Computer Science,On Campus,295698,1,Placed
+20914,Female,27,Bachelor,6.28,0,2019,Not Opted,0,No,Electronics,Off Campus,0,4,Not Placed
+20915,Female,27,Bachelor,5.53,0,2018,Opted,1,Yes,Information Technology,Off Campus,904690,1,Placed
+20916,Female,24,Master,6.77,4,2020,Opted,0,Yes,Civil,On Campus,287087,1,Placed
+20917,Female,30,Master,7.07,1,2023,Not Opted,2,No,Computer Science,Off Campus,0,4,Not Placed
+20918,Female,25,Master,8.38,2,2020,Opted,4,Yes,Computer Science,On Campus,937392,2,Placed
+20919,Female,24,Master,8.29,2,2022,Opted,0,Yes,Computer Science,Off Campus,241716,2,Placed
+20920,Female,24,Master,5.35,1,2020,Opted,0,No,Electronics,On Campus,405696,2,Placed
+20921,Male,28,Master,6.98,1,2019,Opted,1,No,Mechanical,On Campus,378054,0,Placed
+20922,Male,24,Master,5.91,2,2020,Opted,2,Yes,Computer Science,On Campus,358516,1,Placed
+20923,Male,24,Master,,3,2021,Not Opted,0,No,Computer Science,On Campus,0,4,Not Placed
+20924,Male,27,Master,9.14,0,2019,Opted,4,Yes,Electronics,On Campus,234571,0,Placed
+20925,Male,30,Master,5.21,0,2023,Not Opted,4,No,Computer Science,Off Campus,0,4,Not Placed
+20926,Male,29,Master,7.1,2,2018,Opted,0,Yes,Computer Science,Off Campus,939578,0,Placed
+20927,Male,24,Master,,1,2018,Opted,5,Yes,Computer Science,On Campus,769326,0,Placed
+20928,Female,24,Master,9.4,3,2022,Not Opted,5,No,Computer Science,Off Campus,797083,0,Placed
+20929,Female,24,Master,7.79,2,2022,Not Opted,2,Yes,Computer Science,Off Campus,0,4,Not Placed
+20930,Male,30,Master,6.16,0,2021,Opted,4,Yes,Computer Science,Off Campus,0,3,Not Placed
+20931,Male,24,Master,7.51,4,2023,Opted,5,No,Information Technology,On Campus,735518,0,Placed
+20932,Female,27,Bachelor,8.66,1,2018,Not Opted,4,Yes,Electronics,On Campus,336974,2,Placed
+20933,Male,24,Master,9.79,4,2018,Not Opted,2,Yes,Information Technology,Off Campus,227050,1,Placed
+20934,Male,25,Bachelor,6.1,2,2018,Not Opted,2,Yes,Electronics,On Campus,0,3,Not Placed
+20935,Female,24,Master,9.43,0,2018,Not Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+20936,Male,24,Master,9.67,3,2020,Opted,0,No,Electrical,Off Campus,0,4,Not Placed
+20937,Female,22,Bachelor,9.58,4,2023,Opted,3,No,Information Technology,On Campus,0,3,Not Placed
+20938,Male,24,Master,8.18,3,2019,Opted,1,No,Electronics,On Campus,0,4,Not Placed
+20939,Female,27,Bachelor,8.15,0,2019,Opted,3,No,Computer Science,On Campus,0,4,Not Placed
+20940,Female,25,Bachelor,7.02,4,2021,Opted,3,Yes,Mechanical,On Campus,502388,2,Placed
+20941,Female,21,Bachelor,8.76,3,2020,Not Opted,4,Yes,Computer Science,On Campus,676697,0,Placed
+20942,Male,26,Master,7.66,3,2018,Not Opted,2,Yes,Information Technology,Off Campus,0,3,Not Placed
+20943,Female,25,Master,8.39,4,2018,Not Opted,4,No,Civil,On Campus,431898,0,Placed
+20944,Male,24,Master,7.14,0,2022,Opted,5,Yes,Electrical,On Campus,980839,0,Placed
+20945,Male,27,Bachelor,8.66,3,2022,Not Opted,1,No,Information Technology,Off Campus,562839,0,Placed
+20946,Male,27,Bachelor,9.12,2,2021,Opted,5,Yes,Mechanical,Off Campus,0,4,Not Placed
+20947,Male,29,Master,5.73,4,2018,Opted,0,No,Information Technology,On Campus,447943,0,Placed
+20948,Female,29,Master,9.16,1,2021,Opted,1,Yes,Computer Science,Off Campus,0,3,Not Placed
+20949,Female,29,Master,7.7,1,2020,Not Opted,4,Yes,Civil,On Campus,0,4,Not Placed
+20950,Male,24,Master,9.22,0,2019,Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+20951,Male,24,Master,7.16,2,2018,Opted,5,Yes,Mechanical,On Campus,0,4,Not Placed
+20952,Female,27,Bachelor,6.9,3,2023,Not Opted,4,Yes,Computer Science,Off Campus,507181,1,Placed
+20953,Male,25,Bachelor,9.58,1,2020,Opted,4,No,Electronics,On Campus,312666,1,Placed
+20954,Female,22,Bachelor,6.26,0,2018,Not Opted,3,Yes,Electrical,Off Campus,851336,1,Placed
+20955,Male,24,Master,9.22,2,2023,Opted,0,Yes,Civil,On Campus,986360,1,Placed
+20956,Male,27,Bachelor,7.42,2,2022,Not Opted,3,No,Electrical,On Campus,0,4,Not Placed
+20957,Female,26,Bachelor,7.57,0,2021,Opted,4,No,Computer Science,On Campus,835552,0,Placed
+20958,Male,27,Bachelor,6.54,0,2022,Opted,2,No,Electrical,Off Campus,885401,2,Placed
+20959,Female,27,Bachelor,7.87,3,2019,Not Opted,3,No,Computer Science,Off Campus,997147,2,Placed
+20960,Male,21,Bachelor,6.63,0,2022,Opted,4,No,Electronics,On Campus,615019,1,Placed
+20961,Male,27,Master,5.2,3,2018,Not Opted,4,Yes,Mechanical,On Campus,662122,0,Placed
+20962,Male,27,Bachelor,6.36,3,2023,Opted,0,No,Information Technology,On Campus,0,3,Not Placed
+20963,Female,24,Master,5.03,4,2022,Not Opted,5,No,Electronics,On Campus,368147,0,Placed
+20964,Male,24,Master,9.89,2,2018,Opted,1,Yes,Computer Science,Off Campus,0,3,Not Placed
+20965,Male,30,Master,9.83,2,2019,Opted,3,Yes,Information Technology,Off Campus,515792,2,Placed
+20966,Male,26,Master,6.98,2,2023,Opted,3,Yes,Information Technology,Off Campus,745422,0,Placed
+20967,Male,30,Master,8.64,4,2022,Not Opted,3,Yes,Electrical,On Campus,970545,0,Placed
+20968,Female,27,Bachelor,6.73,3,2021,Not Opted,4,Yes,Computer Science,On Campus,269123,2,Placed
+20969,Female,24,Bachelor,8.36,3,2021,Not Opted,0,No,Electronics,Off Campus,688775,0,Placed
+20970,Male,28,Master,9.03,0,2023,Not Opted,4,Yes,Computer Science,Off Campus,0,3,Not Placed
+20971,Female,25,Master,9.73,4,2021,Not Opted,4,No,Electrical,Off Campus,857773,0,Placed
+20972,Male,24,Master,7.0,0,2022,Opted,5,Yes,Computer Science,Off Campus,0,3,Not Placed
+20973,Male,24,Bachelor,8.92,4,2022,Opted,2,No,Electronics,On Campus,353627,1,Placed
+20974,Male,24,Master,6.33,0,2023,Opted,0,Yes,Computer Science,On Campus,604168,0,Placed
+20975,Female,27,Bachelor,9.95,1,2022,Opted,3,No,Electrical,On Campus,0,3,Not Placed
+20976,Female,28,Master,5.13,2,2018,Opted,1,No,Computer Science,Off Campus,667216,2,Placed
+20977,Female,21,Bachelor,8.02,2,2019,Not Opted,3,No,Electronics,On Campus,266686,1,Placed
+20978,Female,26,Master,8.3,3,2021,Opted,4,No,Information Technology,Off Campus,756552,0,Placed
+20979,Female,27,Bachelor,8.44,1,2018,Not Opted,0,No,Electronics,Off Campus,0,3,Not Placed
+20980,Female,27,Master,5.6,2,2023,Opted,0,No,Computer Science,Off Campus,640769,0,Placed
+20981,Female,24,Bachelor,9.69,3,2021,Not Opted,0,No,Electronics,Off Campus,0,3,Not Placed
+20982,Female,21,Bachelor,5.91,1,2018,Not Opted,2,No,Computer Science,Off Campus,953682,0,Placed
+20983,Female,22,Bachelor,8.11,2,2022,Not Opted,3,No,Computer Science,On Campus,340880,1,Placed
+20984,Male,25,Bachelor,6.11,0,2023,Opted,2,No,Information Technology,On Campus,252330,1,Placed
+20985,Female,25,Bachelor,6.54,4,2023,Opted,5,Yes,Computer Science,On Campus,838960,0,Placed
+20986,Female,27,Bachelor,7.73,1,2021,Opted,1,No,Computer Science,Off Campus,500489,0,Placed
+20987,Female,26,Bachelor,7.09,3,2022,Opted,5,No,Mechanical,On Campus,0,4,Not Placed
+20988,Female,28,Master,5.8,1,2021,Not Opted,4,Yes,Civil,Off Campus,763510,0,Placed
+20989,Female,24,Master,5.85,3,2020,Not Opted,2,No,Electronics,On Campus,257755,0,Placed
+20990,Female,24,Master,7.09,1,2018,Not Opted,2,No,Computer Science,Off Campus,995365,1,Placed
+20991,Female,26,Master,8.79,3,2020,Not Opted,5,Yes,Computer Science,Off Campus,374811,0,Placed
+20992,Female,30,Master,9.49,2,2018,Opted,4,Yes,Electrical,On Campus,378810,2,Placed
+20993,Female,23,Bachelor,5.42,0,2019,Not Opted,0,No,Computer Science,Off Campus,829425,0,Placed
+20994,Female,26,Bachelor,6.97,2,2023,Opted,4,Yes,Mechanical,On Campus,0,4,Not Placed
+20995,Female,26,Bachelor,5.5,0,2021,Not Opted,3,No,Computer Science,On Campus,0,3,Not Placed
+20996,Male,22,Bachelor,5.08,2,2019,Not Opted,5,No,Civil,On Campus,823539,1,Placed
+20997,Male,27,Bachelor,8.31,2,2019,Not Opted,4,No,Information Technology,Off Campus,870740,2,Placed
+20998,Female,24,Master,8.01,1,2023,Opted,0,Yes,Electronics,Off Campus,0,3,Not Placed
+20999,Female,26,Master,5.82,4,2023,Opted,4,No,Computer Science,Off Campus,490318,2,Placed
+21000,Male,24,Master,6.17,3,2018,Not Opted,2,No,Mechanical,Off Campus,600077,1,Placed
+21001,Female,24,Master,5.12,3,2020,Not Opted,1,Yes,Computer Science,On Campus,0,4,Not Placed
+21002,Male,22,Bachelor,9.17,3,2022,Not Opted,2,No,Electrical,Off Campus,828937,1,Placed
+21003,Male,27,Bachelor,9.87,0,2018,Opted,1,No,Electronics,On Campus,775607,2,Placed
+21004,Male,24,Bachelor,5.68,3,2022,Opted,4,No,Computer Science,On Campus,902088,2,Placed
+21005,Male,28,Master,6.16,3,2019,Opted,3,No,Information Technology,Off Campus,617579,1,Placed
+21006,Male,26,Bachelor,9.34,1,2022,Not Opted,4,No,Information Technology,Off Campus,287846,0,Placed
+21007,Female,30,Master,9.63,2,2020,Opted,0,No,Information Technology,On Campus,370372,1,Placed
+21008,Male,24,Bachelor,7.1,3,2018,Not Opted,4,Yes,Information Technology,Off Campus,0,4,Not Placed
+21009,Female,25,Bachelor,5.25,4,2023,Opted,1,No,Information Technology,On Campus,411177,1,Placed
+21010,Female,29,Master,5.2,3,2020,Not Opted,2,No,Information Technology,Off Campus,0,3,Not Placed
+21011,Male,27,Bachelor,7.87,0,2020,Not Opted,3,Yes,Electrical,Off Campus,959103,0,Placed
+21012,Male,27,Bachelor,6.96,0,2018,Opted,4,No,Electrical,On Campus,0,3,Not Placed
+21013,Female,29,Master,5.14,0,2023,Not Opted,4,No,Computer Science,On Campus,889331,1,Placed
+21014,Male,27,Bachelor,7.92,3,2020,Not Opted,2,Yes,Mechanical,On Campus,256152,0,Placed
+21015,Male,24,Master,5.06,1,2023,Not Opted,3,Yes,Mechanical,Off Campus,0,3,Not Placed
+21016,Female,27,Bachelor,8.94,4,2021,Opted,5,Yes,Electrical,Off Campus,0,3,Not Placed
+21017,Female,24,Bachelor,6.53,3,2021,Not Opted,4,Yes,Information Technology,Off Campus,915400,0,Placed
+21018,Male,23,Bachelor,5.2,1,2021,Opted,4,Yes,Information Technology,On Campus,427977,0,Placed
+21019,Female,27,Bachelor,7.94,1,2022,Opted,5,Yes,Electronics,On Campus,943919,2,Placed
+21020,Male,23,Bachelor,6.99,3,2020,Not Opted,1,Yes,Electrical,Off Campus,584521,0,Placed
+21021,Male,27,Bachelor,9.87,3,2018,Opted,1,No,Computer Science,On Campus,260616,1,Placed
+21022,Male,26,Bachelor,7.72,1,2018,Not Opted,0,No,Electrical,Off Campus,0,4,Not Placed
+21023,Female,25,Bachelor,6.38,1,2022,Opted,2,No,Computer Science,On Campus,354969,2,Placed
+21024,Female,24,Master,8.55,1,2018,Not Opted,3,Yes,Computer Science,Off Campus,485154,0,Placed
+21025,Female,28,Master,6.36,3,2021,Opted,4,No,Electronics,Off Campus,0,4,Not Placed
+21026,Female,27,Bachelor,9.52,1,2020,Not Opted,4,Yes,Electrical,Off Campus,846110,2,Placed
+21027,Female,21,Bachelor,6.87,0,2018,Not Opted,0,No,Information Technology,On Campus,351186,1,Placed
+21028,Male,29,Master,7.75,3,2018,Not Opted,4,No,Electrical,On Campus,0,4,Not Placed
+21029,Male,25,Bachelor,5.25,0,2019,Not Opted,2,No,Mechanical,Off Campus,483269,0,Placed
+21030,Male,24,Bachelor,7.13,2,2019,Opted,0,No,Electrical,Off Campus,687310,0,Placed
+21031,Male,26,Master,9.16,3,2019,Opted,2,Yes,Electrical,Off Campus,643612,1,Placed
+21032,Female,26,Bachelor,9.03,2,2020,Not Opted,0,Yes,Computer Science,Off Campus,375918,2,Placed
+21033,Male,22,Bachelor,6.12,1,2021,Opted,4,No,Computer Science,Off Campus,0,4,Not Placed
+21034,Female,28,Master,6.13,1,2023,Not Opted,0,Yes,Information Technology,Off Campus,554805,1,Placed
+21035,Male,27,Bachelor,9.09,4,2021,Not Opted,1,Yes,Electrical,On Campus,981444,2,Placed
+21036,Female,21,Bachelor,9.65,1,2021,Opted,3,No,Electronics,On Campus,0,3,Not Placed
+21037,Female,25,Master,5.48,2,2020,Opted,4,Yes,Information Technology,On Campus,0,3,Not Placed
+21038,Male,26,Bachelor,,1,2020,Not Opted,5,Yes,Information Technology,On Campus,319233,2,Placed
+21039,Male,24,Master,6.69,3,2019,Opted,3,Yes,Computer Science,Off Campus,616790,0,Placed
+21040,Male,22,Bachelor,9.35,1,2018,Not Opted,4,Yes,Computer Science,Off Campus,213869,0,Placed
+21041,Male,24,Bachelor,5.42,4,2022,Opted,3,No,Mechanical,Off Campus,0,3,Not Placed
+21042,Female,24,Master,6.06,1,2022,Opted,1,No,Electrical,On Campus,786455,0,Placed
+21043,Male,27,Master,8.76,2,2023,Opted,3,Yes,Computer Science,On Campus,911507,0,Placed
+21044,Male,22,Bachelor,5.26,2,2018,Opted,0,No,Electronics,Off Campus,443758,2,Placed
+21045,Female,24,Master,7.46,1,2023,Opted,3,No,Electronics,On Campus,867482,2,Placed
+21046,Male,29,Master,,2,2019,Not Opted,4,No,Electrical,On Campus,374899,0,Placed
+21047,Male,25,Bachelor,6.67,2,2023,Opted,5,Yes,Computer Science,Off Campus,868695,2,Placed
+21048,Male,22,Bachelor,6.97,4,2018,Opted,5,Yes,Information Technology,Off Campus,0,4,Not Placed
+21049,Male,27,Bachelor,7.65,3,2018,Not Opted,2,No,Computer Science,Off Campus,0,3,Not Placed
+21050,Male,29,Master,,4,2022,Not Opted,3,No,Electronics,On Campus,0,4,Not Placed
+21051,Female,24,Master,7.86,0,2019,Not Opted,5,Yes,Electrical,Off Campus,0,4,Not Placed
+21052,Male,24,Master,9.03,4,2020,Opted,3,No,Electrical,Off Campus,325662,0,Placed
+21053,Male,24,Master,,1,2023,Opted,5,Yes,Information Technology,Off Campus,676827,0,Placed
+21054,Male,27,Bachelor,,3,2022,Not Opted,3,No,Computer Science,On Campus,0,4,Not Placed
+21055,Male,30,Master,5.75,1,2023,Not Opted,4,Yes,Computer Science,On Campus,0,4,Not Placed
+21056,Male,24,Bachelor,6.34,0,2023,Not Opted,3,Yes,Civil,Off Campus,275675,1,Placed
+21057,Female,24,Master,6.81,3,2020,Not Opted,4,Yes,Computer Science,Off Campus,240503,1,Placed
+21058,Male,27,Bachelor,7.04,2,2019,Opted,4,Yes,Computer Science,On Campus,0,3,Not Placed
+21059,Female,26,Bachelor,8.4,4,2018,Opted,2,No,Civil,On Campus,0,4,Not Placed
+21060,Female,23,Bachelor,5.28,1,2021,Opted,5,Yes,Electrical,Off Campus,807612,2,Placed
+21061,Male,26,Master,,0,2023,Opted,0,No,Electronics,On Campus,618277,1,Placed
+21062,Male,26,Bachelor,6.96,2,2021,Opted,4,Yes,Computer Science,Off Campus,865307,0,Placed
+21063,Male,25,Bachelor,8.49,4,2019,Not Opted,5,Yes,Electrical,Off Campus,0,4,Not Placed
+21064,Male,24,Master,5.97,2,2021,Opted,1,No,Information Technology,On Campus,547694,2,Placed
+21065,Female,27,Bachelor,8.21,4,2023,Not Opted,3,No,Electronics,Off Campus,363704,2,Placed
+21066,Male,24,Master,6.3,3,2020,Not Opted,1,No,Computer Science,Off Campus,350424,2,Placed
+21067,Male,30,Master,9.43,2,2021,Not Opted,3,Yes,Information Technology,On Campus,485797,0,Placed
+21068,Male,26,Bachelor,9.48,2,2019,Opted,2,Yes,Electronics,Off Campus,398187,1,Placed
+21069,Male,22,Bachelor,6.49,2,2019,Not Opted,4,No,Electrical,On Campus,768043,2,Placed
+21070,Male,24,Master,6.15,3,2020,Opted,0,Yes,Electrical,Off Campus,822642,1,Placed
+21071,Male,27,Bachelor,7.06,0,2021,Not Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+21072,Female,30,Master,6.2,4,2021,Opted,3,Yes,Computer Science,On Campus,652219,0,Placed
+21073,Female,26,Master,8.36,2,2018,Not Opted,0,Yes,Electrical,On Campus,674092,1,Placed
+21074,Male,24,Master,9.13,3,2022,Opted,4,Yes,Electrical,On Campus,517319,1,Placed
+21075,Male,27,Bachelor,8.37,0,2019,Not Opted,0,No,Civil,On Campus,903098,2,Placed
+21076,Male,24,Master,9.12,4,2018,Not Opted,3,Yes,Electronics,On Campus,515596,2,Placed
+21077,Female,27,Bachelor,6.98,3,2019,Not Opted,2,No,Information Technology,On Campus,399395,0,Placed
+21078,Male,25,Bachelor,,4,2018,Not Opted,2,No,Mechanical,Off Campus,508293,1,Placed
+21079,Female,23,Bachelor,8.69,2,2022,Opted,4,Yes,Computer Science,On Campus,0,4,Not Placed
+21080,Male,22,Bachelor,6.8,0,2018,Opted,1,No,Information Technology,Off Campus,720724,2,Placed
+21081,Male,24,Master,8.36,3,2019,Opted,3,No,Computer Science,On Campus,726443,2,Placed
+21082,Male,23,Bachelor,6.35,0,2021,Not Opted,4,Yes,Computer Science,Off Campus,0,3,Not Placed
+21083,Male,24,Master,5.41,2,2019,Not Opted,4,No,Electronics,Off Campus,778800,0,Placed
+21084,Female,24,Master,9.96,0,2023,Not Opted,2,No,Electrical,On Campus,654906,1,Placed
+21085,Female,22,Bachelor,5.78,0,2020,Not Opted,0,Yes,Electrical,Off Campus,850329,1,Placed
+21086,Male,30,Master,9.94,1,2020,Not Opted,3,Yes,Information Technology,Off Campus,488334,1,Placed
+21087,Male,29,Master,9.89,0,2023,Not Opted,0,Yes,Information Technology,Off Campus,699127,2,Placed
+21088,Female,22,Bachelor,8.97,4,2020,Opted,5,No,Computer Science,On Campus,473072,0,Placed
+21089,Female,29,Master,8.3,3,2020,Opted,5,No,Electrical,On Campus,510569,1,Placed
+21090,Female,26,Master,7.89,1,2022,Opted,3,Yes,Information Technology,Off Campus,0,4,Not Placed
+21091,Female,24,Master,9.33,3,2021,Opted,1,No,Electronics,On Campus,0,3,Not Placed
+21092,Male,24,Master,6.45,3,2021,Opted,5,Yes,Computer Science,On Campus,0,3,Not Placed
+21093,Female,21,Bachelor,7.34,2,2019,Opted,2,Yes,Computer Science,Off Campus,848552,1,Placed
+21094,Male,26,Master,,2,2023,Opted,1,Yes,Electrical,Off Campus,380046,2,Placed
+21095,Female,24,Master,7.06,1,2018,Opted,4,No,Electronics,On Campus,0,3,Not Placed
+21096,Female,24,Master,7.14,2,2019,Not Opted,5,No,Information Technology,On Campus,0,3,Not Placed
+21097,Female,24,Master,6.65,2,2019,Not Opted,2,Yes,Electronics,On Campus,0,3,Not Placed
+21098,Female,27,Bachelor,7.82,2,2019,Not Opted,4,Yes,Civil,Off Campus,0,3,Not Placed
+21099,Female,26,Master,9.25,3,2019,Not Opted,1,No,Civil,On Campus,780609,1,Placed
+21100,Male,27,Bachelor,6.01,1,2021,Not Opted,3,Yes,Electronics,On Campus,575926,0,Placed
+21101,Male,25,Master,9.67,3,2018,Not Opted,4,No,Electronics,On Campus,309398,0,Placed
+21102,Female,22,Bachelor,8.45,4,2019,Not Opted,0,Yes,Computer Science,Off Campus,521117,2,Placed
+21103,Female,27,Bachelor,9.12,3,2021,Opted,3,Yes,Electronics,Off Campus,0,4,Not Placed
+21104,Male,25,Bachelor,7.78,4,2019,Opted,3,No,Information Technology,Off Campus,618818,0,Placed
+21105,Female,22,Bachelor,8.9,0,2020,Not Opted,1,No,Civil,On Campus,0,4,Not Placed
+21106,Female,24,Bachelor,5.08,0,2019,Opted,1,No,Computer Science,On Campus,491836,0,Placed
+21107,Male,29,Master,9.09,4,2023,Opted,2,No,Information Technology,Off Campus,568102,0,Placed
+21108,Female,24,Master,5.2,4,2023,Opted,2,No,Electrical,On Campus,510894,2,Placed
+21109,Female,24,Master,9.45,3,2019,Opted,0,Yes,Information Technology,On Campus,0,3,Not Placed
+21110,Male,22,Bachelor,9.96,4,2022,Opted,3,Yes,Computer Science,On Campus,530600,2,Placed
+21111,Male,26,Master,6.47,1,2020,Not Opted,0,No,Electrical,Off Campus,485069,0,Placed
+21112,Male,22,Bachelor,6.05,0,2018,Opted,0,No,Electronics,On Campus,0,3,Not Placed
+21113,Female,27,Bachelor,8.83,0,2019,Not Opted,1,Yes,Electrical,On Campus,0,3,Not Placed
+21114,Male,24,Master,6.27,4,2018,Not Opted,0,Yes,Computer Science,Off Campus,0,3,Not Placed
+21115,Male,24,Master,9.33,2,2020,Not Opted,0,No,Electronics,On Campus,0,4,Not Placed
+21116,Male,25,Bachelor,5.51,2,2019,Opted,4,No,Computer Science,Off Campus,733893,0,Placed
+21117,Male,23,Bachelor,5.63,4,2022,Not Opted,2,Yes,Computer Science,On Campus,590932,1,Placed
+21118,Male,24,Master,9.9,1,2021,Not Opted,2,No,Electronics,Off Campus,219192,2,Placed
+21119,Male,30,Master,8.37,2,2022,Not Opted,3,Yes,Electronics,Off Campus,0,4,Not Placed
+21120,Female,29,Master,9.23,4,2022,Not Opted,2,Yes,Information Technology,On Campus,512093,2,Placed
+21121,Female,24,Master,6.62,1,2021,Opted,5,No,Electrical,On Campus,268382,1,Placed
+21122,Male,22,Bachelor,8.38,1,2021,Not Opted,3,Yes,Information Technology,Off Campus,0,3,Not Placed
+21123,Male,28,Master,7.97,3,2023,Not Opted,4,Yes,Information Technology,On Campus,630802,1,Placed
+21124,Male,29,Master,8.02,1,2021,Not Opted,2,Yes,Computer Science,Off Campus,252243,2,Placed
+21125,Female,27,Master,8.41,2,2019,Not Opted,4,No,Civil,On Campus,562710,1,Placed
+21126,Female,23,Bachelor,7.88,2,2018,Opted,2,Yes,Electronics,On Campus,520762,0,Placed
+21127,Female,27,Bachelor,7.15,4,2023,Not Opted,2,No,Electrical,On Campus,338621,1,Placed
+21128,Female,23,Bachelor,6.38,4,2023,Not Opted,4,Yes,Electrical,On Campus,252494,0,Placed
+21129,Female,25,Bachelor,8.84,1,2018,Not Opted,0,Yes,Electronics,Off Campus,943333,1,Placed
+21130,Female,29,Master,6.13,0,2023,Not Opted,0,Yes,Information Technology,Off Campus,486102,0,Placed
+21131,Female,23,Bachelor,8.46,3,2021,Not Opted,0,Yes,Computer Science,On Campus,420851,0,Placed
+21132,Female,27,Master,6.17,0,2022,Not Opted,5,Yes,Computer Science,On Campus,700929,1,Placed
+21133,Female,24,Master,8.13,1,2020,Opted,0,No,Electrical,On Campus,0,4,Not Placed
+21134,Male,24,Master,8.74,1,2021,Not Opted,2,No,Mechanical,On Campus,0,3,Not Placed
+21135,Male,24,Master,6.09,0,2022,Opted,1,Yes,Computer Science,On Campus,0,3,Not Placed
+21136,Male,27,Bachelor,5.3,3,2022,Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+21137,Male,27,Bachelor,5.65,0,2023,Not Opted,1,No,Information Technology,Off Campus,205833,0,Placed
+21138,Female,21,Bachelor,8.03,4,2019,Opted,5,Yes,Electronics,On Campus,0,3,Not Placed
+21139,Female,25,Master,9.25,2,2019,Not Opted,1,No,Computer Science,Off Campus,448053,0,Placed
+21140,Male,27,Master,5.22,4,2023,Opted,3,No,Computer Science,Off Campus,0,4,Not Placed
+21141,Female,24,Master,8.67,2,2023,Not Opted,0,No,Electrical,On Campus,927138,1,Placed
+21142,Male,24,Master,6.71,1,2018,Opted,5,No,Electrical,Off Campus,818528,1,Placed
+21143,Female,24,Master,,3,2018,Opted,2,Yes,Computer Science,Off Campus,618048,0,Placed
+21144,Male,26,Bachelor,9.64,0,2020,Not Opted,0,No,Computer Science,Off Campus,408929,0,Placed
+21145,Female,27,Master,6.66,3,2020,Opted,0,Yes,Electrical,Off Campus,0,4,Not Placed
+21146,Female,22,Bachelor,7.33,0,2020,Opted,1,Yes,Information Technology,On Campus,0,3,Not Placed
+21147,Male,25,Master,5.07,4,2020,Opted,3,No,Civil,Off Campus,0,4,Not Placed
+21148,Female,24,Master,5.41,4,2022,Opted,0,Yes,Electrical,Off Campus,609251,1,Placed
+21149,Male,23,Bachelor,6.29,0,2022,Opted,4,No,Computer Science,Off Campus,206732,1,Placed
+21150,Male,27,Bachelor,5.14,3,2018,Not Opted,4,Yes,Information Technology,On Campus,0,3,Not Placed
+21151,Male,26,Master,8.16,0,2019,Opted,0,No,Information Technology,Off Campus,203487,1,Placed
+21152,Male,27,Master,7.13,1,2023,Opted,1,No,Computer Science,Off Campus,431560,0,Placed
+21153,Female,25,Master,7.74,4,2019,Not Opted,1,Yes,Mechanical,Off Campus,982031,1,Placed
+21154,Female,26,Master,5.87,1,2021,Not Opted,2,No,Electronics,On Campus,557105,2,Placed
+21155,Female,25,Bachelor,6.48,4,2022,Not Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+21156,Male,27,Master,8.32,4,2020,Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+21157,Female,22,Bachelor,9.83,2,2020,Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+21158,Male,25,Master,5.25,1,2021,Opted,3,Yes,Computer Science,On Campus,533175,2,Placed
+21159,Female,26,Bachelor,9.45,1,2019,Opted,1,Yes,Electrical,Off Campus,0,4,Not Placed
+21160,Female,26,Bachelor,7.88,2,2020,Not Opted,2,Yes,Information Technology,On Campus,476925,0,Placed
+21161,Female,25,Master,7.82,3,2019,Not Opted,4,No,Civil,Off Campus,0,3,Not Placed
+21162,Male,27,Bachelor,7.5,1,2023,Opted,5,Yes,Computer Science,On Campus,507311,1,Placed
+21163,Female,27,Master,5.35,0,2021,Opted,4,No,Electrical,On Campus,980226,0,Placed
+21164,Female,27,Bachelor,5.45,2,2019,Opted,4,No,Mechanical,On Campus,412810,1,Placed
+21165,Male,28,Master,8.0,1,2023,Opted,0,No,Information Technology,Off Campus,407593,0,Placed
+21166,Female,27,Bachelor,6.7,3,2019,Not Opted,3,Yes,Computer Science,Off Campus,501743,0,Placed
+21167,Male,25,Master,9.59,1,2019,Not Opted,2,Yes,Computer Science,Off Campus,609991,1,Placed
+21168,Female,24,Master,7.03,4,2020,Opted,3,Yes,Information Technology,On Campus,528648,1,Placed
+21169,Male,25,Bachelor,5.72,0,2018,Not Opted,0,Yes,Civil,On Campus,669134,0,Placed
+21170,Male,27,Bachelor,8.57,2,2022,Opted,2,No,Mechanical,On Campus,0,3,Not Placed
+21171,Female,22,Bachelor,6.47,4,2019,Opted,2,Yes,Mechanical,On Campus,620020,1,Placed
+21172,Male,25,Bachelor,7.63,3,2019,Not Opted,1,Yes,Electronics,On Campus,887619,2,Placed
+21173,Male,25,Master,8.49,4,2019,Opted,3,Yes,Information Technology,On Campus,981085,2,Placed
+21174,Male,22,Bachelor,9.5,4,2018,Not Opted,3,Yes,Mechanical,Off Campus,810572,0,Placed
+21175,Male,25,Master,8.96,3,2023,Opted,1,No,Civil,Off Campus,0,4,Not Placed
+21176,Male,24,Bachelor,8.38,4,2021,Not Opted,4,Yes,Information Technology,On Campus,297556,0,Placed
+21177,Male,24,Master,8.4,2,2020,Opted,0,Yes,Computer Science,Off Campus,767848,0,Placed
+21178,Female,24,Master,9.73,1,2018,Not Opted,3,Yes,Electrical,Off Campus,0,3,Not Placed
+21179,Male,24,Master,6.48,4,2023,Opted,1,No,Computer Science,Off Campus,0,3,Not Placed
+21180,Male,25,Master,5.01,2,2019,Opted,2,Yes,Computer Science,On Campus,0,4,Not Placed
+21181,Female,24,Bachelor,6.36,1,2023,Not Opted,5,Yes,Mechanical,On Campus,0,4,Not Placed
+21182,Female,27,Bachelor,6.09,1,2018,Opted,1,Yes,Mechanical,On Campus,0,4,Not Placed
+21183,Female,25,Master,8.31,4,2018,Not Opted,5,No,Computer Science,On Campus,0,4,Not Placed
+21184,Female,27,Bachelor,8.17,2,2018,Not Opted,4,No,Information Technology,Off Campus,0,4,Not Placed
+21185,Female,24,Bachelor,7.97,4,2021,Opted,0,Yes,Electronics,On Campus,767487,0,Placed
+21186,Female,24,Master,5.08,3,2022,Opted,5,Yes,Electrical,On Campus,801380,0,Placed
+21187,Female,24,Bachelor,8.64,1,2020,Opted,4,No,Information Technology,On Campus,587069,2,Placed
+21188,Male,22,Bachelor,6.62,4,2021,Opted,5,No,Electronics,Off Campus,889182,2,Placed
+21189,Male,27,Bachelor,,1,2021,Not Opted,2,No,Mechanical,Off Campus,948873,1,Placed
+21190,Female,24,Master,7.78,2,2022,Opted,2,No,Mechanical,Off Campus,918954,0,Placed
+21191,Male,27,Bachelor,6.71,0,2021,Opted,2,No,Information Technology,Off Campus,0,4,Not Placed
+21192,Male,24,Master,5.67,4,2018,Opted,2,Yes,Computer Science,Off Campus,464813,1,Placed
+21193,Male,26,Bachelor,5.47,4,2018,Not Opted,1,Yes,Mechanical,On Campus,0,3,Not Placed
+21194,Female,27,Bachelor,9.16,1,2023,Opted,2,Yes,Computer Science,Off Campus,674833,0,Placed
+21195,Female,25,Bachelor,9.59,2,2019,Not Opted,2,Yes,Electronics,Off Campus,868298,2,Placed
+21196,Male,30,Master,8.25,3,2021,Opted,1,No,Computer Science,On Campus,598933,0,Placed
+21197,Female,24,Master,5.52,2,2019,Not Opted,2,No,Information Technology,On Campus,919935,0,Placed
+21198,Male,27,Bachelor,7.01,4,2020,Opted,4,No,Information Technology,On Campus,804025,0,Placed
+21199,Male,24,Master,8.64,3,2018,Opted,4,No,Computer Science,Off Campus,224406,0,Placed
+21200,Male,27,Bachelor,8.9,2,2023,Not Opted,3,No,Mechanical,On Campus,0,3,Not Placed
+21201,Male,29,Master,5.59,0,2020,Opted,4,Yes,Computer Science,Off Campus,427894,2,Placed
+21202,Female,29,Master,5.0,1,2023,Opted,0,Yes,Mechanical,On Campus,212873,0,Placed
+21203,Female,21,Bachelor,8.56,2,2022,Opted,0,Yes,Mechanical,Off Campus,0,3,Not Placed
+21204,Female,22,Bachelor,6.78,2,2018,Not Opted,0,Yes,Information Technology,Off Campus,747749,1,Placed
+21205,Male,21,Bachelor,6.27,0,2020,Opted,1,Yes,Electronics,Off Campus,613926,0,Placed
+21206,Female,27,Bachelor,5.06,4,2022,Not Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+21207,Male,24,Master,,1,2020,Not Opted,0,No,Electronics,On Campus,0,4,Not Placed
+21208,Female,30,Master,9.26,2,2023,Not Opted,3,No,Electrical,On Campus,797446,1,Placed
+21209,Male,28,Master,9.79,3,2022,Opted,1,No,Information Technology,Off Campus,699600,2,Placed
+21210,Male,25,Bachelor,7.83,2,2022,Not Opted,3,No,Information Technology,On Campus,661154,0,Placed
+21211,Male,27,Bachelor,7.57,1,2018,Not Opted,4,Yes,Electronics,Off Campus,425075,0,Placed
+21212,Female,24,Master,5.43,2,2019,Opted,2,Yes,Mechanical,On Campus,0,3,Not Placed
+21213,Female,27,Bachelor,7.74,0,2023,Not Opted,3,Yes,Computer Science,On Campus,898367,2,Placed
+21214,Female,26,Master,6.9,2,2023,Not Opted,2,No,Electrical,Off Campus,0,4,Not Placed
+21215,Female,28,Master,8.04,2,2022,Opted,1,No,Computer Science,Off Campus,383328,1,Placed
+21216,Male,24,Master,6.94,3,2022,Opted,3,No,Electronics,On Campus,745027,2,Placed
+21217,Female,24,Master,6.2,0,2018,Not Opted,3,No,Computer Science,Off Campus,520330,0,Placed
+21218,Female,27,Master,5.47,0,2019,Opted,5,Yes,Electronics,On Campus,0,3,Not Placed
+21219,Male,27,Bachelor,6.57,2,2023,Opted,1,No,Computer Science,On Campus,0,4,Not Placed
+21220,Male,23,Bachelor,5.48,3,2021,Opted,1,Yes,Electrical,On Campus,0,3,Not Placed
+21221,Male,25,Bachelor,5.88,2,2021,Not Opted,0,No,Electronics,Off Campus,306887,1,Placed
+21222,Female,24,Master,9.94,2,2019,Not Opted,4,Yes,Electronics,Off Campus,906791,2,Placed
+21223,Male,27,Master,7.22,1,2020,Opted,3,No,Electronics,On Campus,0,3,Not Placed
+21224,Male,25,Master,7.66,1,2018,Not Opted,3,No,Electrical,Off Campus,0,3,Not Placed
+21225,Male,28,Master,9.37,3,2019,Opted,1,Yes,Mechanical,Off Campus,348608,0,Placed
+21226,Female,27,Bachelor,9.98,4,2021,Opted,1,Yes,Electrical,On Campus,0,3,Not Placed
+21227,Male,27,Bachelor,7.91,1,2022,Opted,4,No,Mechanical,Off Campus,0,4,Not Placed
+21228,Female,27,Master,9.06,4,2021,Opted,1,Yes,Electrical,Off Campus,745961,2,Placed
+21229,Female,24,Master,,0,2022,Opted,2,No,Electrical,On Campus,341439,1,Placed
+21230,Male,24,Master,6.53,1,2018,Not Opted,2,No,Computer Science,Off Campus,0,3,Not Placed
+21231,Male,27,Bachelor,7.01,1,2022,Not Opted,5,Yes,Electrical,On Campus,0,4,Not Placed
+21232,Female,23,Bachelor,,3,2019,Not Opted,2,No,Computer Science,Off Campus,835929,1,Placed
+21233,Male,27,Bachelor,8.41,4,2022,Not Opted,2,No,Mechanical,Off Campus,0,4,Not Placed
+21234,Male,24,Master,6.58,1,2020,Opted,4,Yes,Electrical,On Campus,0,3,Not Placed
+21235,Female,25,Master,5.67,1,2019,Opted,3,No,Civil,On Campus,0,3,Not Placed
+21236,Female,24,Bachelor,8.16,3,2018,Not Opted,2,No,Computer Science,Off Campus,939906,2,Placed
+21237,Male,25,Master,5.64,3,2019,Not Opted,5,No,Computer Science,On Campus,708853,0,Placed
+21238,Female,27,Bachelor,7.89,4,2020,Opted,1,No,Mechanical,On Campus,0,4,Not Placed
+21239,Male,30,Master,8.47,0,2018,Opted,2,Yes,Information Technology,Off Campus,340313,0,Placed
+21240,Male,24,Bachelor,8.5,0,2021,Opted,5,Yes,Information Technology,On Campus,622994,0,Placed
+21241,Male,24,Master,8.77,2,2020,Not Opted,4,Yes,Mechanical,Off Campus,564523,1,Placed
+21242,Female,23,Bachelor,9.36,1,2018,Opted,1,No,Electrical,Off Campus,999083,1,Placed
+21243,Male,27,Bachelor,7.5,4,2022,Opted,5,Yes,Computer Science,On Campus,0,4,Not Placed
+21244,Male,23,Bachelor,8.65,1,2019,Not Opted,2,Yes,Mechanical,Off Campus,995707,0,Placed
+21245,Male,23,Bachelor,8.1,4,2018,Not Opted,3,Yes,Computer Science,On Campus,245606,2,Placed
+21246,Female,27,Bachelor,5.93,4,2019,Not Opted,1,No,Mechanical,Off Campus,201658,0,Placed
+21247,Female,25,Bachelor,5.13,4,2022,Opted,1,Yes,Computer Science,On Campus,425571,1,Placed
+21248,Female,25,Master,6.42,1,2018,Opted,3,Yes,Electrical,On Campus,272468,0,Placed
+21249,Female,26,Master,7.22,3,2021,Not Opted,1,No,Computer Science,Off Campus,0,3,Not Placed
+21250,Female,28,Master,8.09,1,2020,Opted,2,No,Electronics,On Campus,0,3,Not Placed
+21251,Male,27,Bachelor,9.25,4,2018,Opted,1,No,Computer Science,On Campus,895087,2,Placed
+21252,Female,26,Bachelor,5.98,2,2022,Opted,2,No,Electronics,On Campus,0,4,Not Placed
+21253,Female,24,Master,5.63,0,2018,Not Opted,3,No,Information Technology,Off Campus,765438,0,Placed
+21254,Female,27,Bachelor,9.82,4,2019,Not Opted,0,No,Computer Science,Off Campus,0,3,Not Placed
+21255,Male,27,Bachelor,5.54,2,2023,Opted,3,Yes,Electronics,On Campus,0,4,Not Placed
+21256,Female,27,Bachelor,7.39,3,2018,Opted,2,Yes,Information Technology,On Campus,0,3,Not Placed
+21257,Female,27,Bachelor,7.93,4,2021,Opted,4,No,Computer Science,Off Campus,0,4,Not Placed
+21258,Male,22,Bachelor,7.71,2,2018,Opted,3,No,Computer Science,Off Campus,0,4,Not Placed
+21259,Female,24,Master,5.43,4,2020,Not Opted,4,Yes,Information Technology,Off Campus,0,3,Not Placed
+21260,Male,24,Master,,1,2018,Not Opted,4,No,Computer Science,On Campus,707726,1,Placed
+21261,Male,24,Master,5.53,2,2023,Opted,2,No,Computer Science,Off Campus,0,4,Not Placed
+21262,Male,24,Master,7.93,1,2019,Opted,2,Yes,Computer Science,On Campus,822619,0,Placed
+21263,Male,24,Master,7.72,1,2018,Not Opted,0,No,Electrical,Off Campus,0,3,Not Placed
+21264,Male,27,Bachelor,6.17,2,2021,Opted,5,No,Electrical,On Campus,735452,1,Placed
+21265,Female,27,Bachelor,8.19,0,2022,Not Opted,1,Yes,Computer Science,Off Campus,0,3,Not Placed
+21266,Male,27,Bachelor,9.1,2,2018,Opted,3,Yes,Civil,On Campus,360631,2,Placed
+21267,Male,27,Bachelor,5.21,0,2018,Not Opted,2,Yes,Mechanical,Off Campus,525112,0,Placed
+21268,Female,27,Master,7.49,4,2020,Opted,3,Yes,Computer Science,Off Campus,397872,2,Placed
+21269,Male,24,Master,8.45,4,2021,Opted,5,Yes,Computer Science,On Campus,0,4,Not Placed
+21270,Female,30,Master,6.26,2,2023,Not Opted,5,No,Mechanical,Off Campus,0,4,Not Placed
+21271,Female,25,Bachelor,6.54,4,2022,Not Opted,4,No,Information Technology,Off Campus,403195,2,Placed
+21272,Female,24,Master,8.07,3,2019,Opted,1,No,Information Technology,Off Campus,676387,2,Placed
+21273,Male,27,Bachelor,9.49,1,2018,Opted,0,No,Information Technology,Off Campus,0,4,Not Placed
+21274,Male,24,Master,9.05,1,2023,Not Opted,3,No,Electronics,On Campus,859230,1,Placed
+21275,Male,26,Master,7.92,0,2022,Not Opted,1,Yes,Computer Science,On Campus,758382,0,Placed
+21276,Female,25,Bachelor,8.65,4,2019,Opted,0,No,Electronics,Off Campus,0,3,Not Placed
+21277,Male,22,Bachelor,6.82,0,2023,Opted,3,No,Electronics,On Campus,864577,2,Placed
+21278,Male,30,Master,8.2,1,2021,Not Opted,1,No,Electrical,On Campus,545282,0,Placed
+21279,Male,24,Master,7.33,1,2021,Not Opted,2,No,Mechanical,On Campus,0,3,Not Placed
+21280,Female,27,Bachelor,,4,2022,Not Opted,3,No,Computer Science,On Campus,0,3,Not Placed
+21281,Female,24,Master,8.51,3,2019,Not Opted,1,Yes,Electrical,On Campus,852595,2,Placed
+21282,Male,27,Master,7.78,3,2021,Not Opted,5,No,Information Technology,Off Campus,906182,1,Placed
+21283,Male,27,Bachelor,6.79,4,2022,Opted,0,No,Information Technology,On Campus,702009,1,Placed
+21284,Male,29,Master,9.56,4,2021,Opted,1,No,Computer Science,Off Campus,625305,0,Placed
+21285,Male,27,Bachelor,5.1,0,2021,Not Opted,2,No,Information Technology,On Campus,646811,0,Placed
+21286,Female,30,Master,6.58,4,2023,Opted,3,No,Computer Science,Off Campus,0,4,Not Placed
+21287,Female,27,Bachelor,5.28,3,2023,Opted,3,No,Computer Science,Off Campus,361101,1,Placed
+21288,Female,24,Master,8.83,4,2021,Not Opted,3,Yes,Computer Science,Off Campus,803311,0,Placed
+21289,Female,26,Bachelor,8.51,0,2020,Opted,2,No,Electronics,On Campus,0,4,Not Placed
+21290,Male,24,Master,6.66,0,2023,Opted,0,Yes,Computer Science,On Campus,0,3,Not Placed
+21291,Male,24,Bachelor,8.38,0,2019,Opted,3,Yes,Electrical,Off Campus,894402,0,Placed
+21292,Male,25,Master,6.98,0,2022,Not Opted,0,No,Computer Science,Off Campus,0,4,Not Placed
+21293,Female,24,Master,8.78,2,2022,Not Opted,1,No,Computer Science,On Campus,669596,1,Placed
+21294,Male,24,Master,7.27,4,2019,Opted,5,No,Information Technology,On Campus,0,3,Not Placed
+21295,Female,28,Master,7.06,1,2019,Opted,5,Yes,Computer Science,Off Campus,815221,0,Placed
+21296,Female,25,Master,9.67,4,2019,Opted,0,No,Electrical,On Campus,245957,1,Placed
+21297,Male,24,Master,6.25,2,2019,Opted,0,No,Information Technology,On Campus,0,3,Not Placed
+21298,Male,30,Master,5.6,0,2018,Opted,5,No,Civil,On Campus,769677,2,Placed
+21299,Male,27,Master,,2,2022,Opted,3,Yes,Civil,On Campus,360787,1,Placed
+21300,Female,27,Master,,3,2018,Not Opted,4,Yes,Information Technology,On Campus,894476,2,Placed
+21301,Male,21,Bachelor,6.89,3,2021,Opted,4,No,Electronics,On Campus,649467,0,Placed
+21302,Female,27,Bachelor,5.31,4,2021,Opted,2,Yes,Computer Science,Off Campus,0,4,Not Placed
+21303,Male,24,Master,6.7,4,2022,Not Opted,5,No,Electrical,Off Campus,578044,0,Placed
+21304,Female,25,Bachelor,7.53,1,2021,Opted,5,Yes,Electronics,Off Campus,594039,1,Placed
+21305,Female,25,Master,5.81,1,2019,Opted,2,No,Computer Science,Off Campus,459073,2,Placed
+21306,Male,28,Master,8.29,3,2018,Opted,4,Yes,Computer Science,Off Campus,423080,2,Placed
+21307,Female,27,Bachelor,9.99,0,2019,Opted,1,No,Computer Science,Off Campus,0,3,Not Placed
+21308,Female,27,Master,7.26,2,2021,Not Opted,3,No,Information Technology,On Campus,540135,0,Placed
+21309,Male,27,Master,6.77,1,2023,Opted,3,Yes,Electrical,On Campus,603823,0,Placed
+21310,Female,26,Bachelor,7.0,1,2018,Not Opted,1,Yes,Information Technology,Off Campus,806743,1,Placed
+21311,Male,26,Bachelor,5.58,0,2019,Opted,1,Yes,Information Technology,Off Campus,574684,2,Placed
+21312,Female,29,Master,9.42,0,2022,Opted,4,Yes,Information Technology,Off Campus,576684,1,Placed
+21313,Male,26,Bachelor,7.07,4,2019,Not Opted,2,Yes,Electronics,On Campus,977585,1,Placed
+21314,Male,22,Bachelor,6.94,2,2023,Opted,1,No,Computer Science,On Campus,867329,2,Placed
+21315,Female,24,Master,8.3,0,2021,Not Opted,2,No,Electronics,On Campus,670452,1,Placed
+21316,Female,25,Bachelor,7.21,1,2018,Not Opted,0,Yes,Electronics,On Campus,589326,2,Placed
+21317,Female,24,Bachelor,8.24,1,2022,Not Opted,3,No,Electronics,Off Campus,954207,1,Placed
+21318,Female,24,Master,5.31,3,2018,Opted,4,No,Electronics,Off Campus,0,4,Not Placed
+21319,Female,23,Bachelor,9.07,0,2022,Opted,3,Yes,Information Technology,Off Campus,998377,1,Placed
+21320,Male,27,Bachelor,9.7,4,2018,Opted,4,No,Computer Science,Off Campus,826816,1,Placed
+21321,Female,28,Master,8.24,2,2021,Opted,0,No,Electrical,On Campus,0,4,Not Placed
+21322,Male,26,Master,9.77,4,2022,Not Opted,3,Yes,Civil,On Campus,772005,0,Placed
+21323,Male,25,Master,5.76,1,2020,Opted,0,Yes,Electrical,Off Campus,652642,2,Placed
+21324,Female,21,Bachelor,7.39,4,2018,Opted,4,No,Computer Science,On Campus,0,3,Not Placed
+21325,Male,28,Master,8.01,1,2018,Not Opted,1,Yes,Computer Science,On Campus,0,4,Not Placed
+21326,Male,24,Master,7.91,1,2019,Not Opted,3,No,Civil,On Campus,709740,0,Placed
+21327,Male,26,Bachelor,7.01,1,2022,Opted,0,Yes,Computer Science,On Campus,437644,1,Placed
+21328,Male,24,Master,6.69,1,2023,Not Opted,5,Yes,Computer Science,Off Campus,552624,0,Placed
+21329,Female,27,Master,5.63,1,2020,Not Opted,3,Yes,Information Technology,On Campus,0,4,Not Placed
+21330,Male,27,Master,6.96,3,2021,Not Opted,3,Yes,Civil,Off Campus,933709,1,Placed
+21331,Female,29,Master,5.81,4,2019,Not Opted,3,No,Information Technology,On Campus,335673,0,Placed
+21332,Female,25,Bachelor,8.67,3,2020,Not Opted,2,Yes,Information Technology,On Campus,0,3,Not Placed
+21333,Male,28,Master,6.04,3,2022,Opted,0,Yes,Electrical,Off Campus,728621,2,Placed
+21334,Female,30,Master,,0,2020,Opted,0,No,Computer Science,Off Campus,926295,2,Placed
+21335,Female,27,Bachelor,7.76,0,2018,Opted,3,No,Mechanical,On Campus,0,4,Not Placed
+21336,Female,28,Master,7.98,0,2018,Opted,1,No,Electrical,On Campus,217839,1,Placed
+21337,Male,21,Bachelor,9.36,2,2019,Opted,3,No,Information Technology,Off Campus,633420,1,Placed
+21338,Female,25,Bachelor,7.88,0,2022,Opted,2,Yes,Mechanical,On Campus,220195,2,Placed
+21339,Female,23,Bachelor,6.73,4,2022,Opted,4,No,Civil,On Campus,621064,0,Placed
+21340,Female,24,Master,,3,2020,Not Opted,2,Yes,Information Technology,Off Campus,813517,1,Placed
+21341,Male,24,Bachelor,7.7,4,2019,Opted,1,No,Computer Science,On Campus,0,3,Not Placed
+21342,Female,27,Bachelor,5.4,0,2022,Opted,3,Yes,Electronics,On Campus,0,3,Not Placed
+21343,Male,23,Bachelor,,2,2023,Opted,0,No,Information Technology,On Campus,371926,1,Placed
+21344,Male,30,Master,9.54,2,2023,Not Opted,5,Yes,Mechanical,On Campus,513142,1,Placed
+21345,Male,24,Master,6.98,3,2018,Opted,3,Yes,Mechanical,On Campus,398462,2,Placed
+21346,Male,29,Master,6.48,4,2020,Opted,1,No,Computer Science,Off Campus,0,4,Not Placed
+21347,Male,30,Master,5.72,1,2021,Not Opted,0,Yes,Civil,On Campus,989417,2,Placed
+21348,Male,25,Master,5.76,4,2018,Opted,2,Yes,Information Technology,Off Campus,0,4,Not Placed
+21349,Female,27,Master,7.16,0,2019,Opted,4,Yes,Electrical,Off Campus,0,3,Not Placed
+21350,Male,24,Master,7.98,1,2022,Not Opted,4,Yes,Computer Science,On Campus,0,4,Not Placed
+21351,Female,27,Bachelor,5.4,2,2018,Opted,3,No,Mechanical,Off Campus,626542,2,Placed
+21352,Female,27,Bachelor,9.7,3,2021,Not Opted,2,Yes,Electrical,On Campus,758310,1,Placed
+21353,Male,24,Bachelor,8.78,3,2021,Opted,5,Yes,Electrical,Off Campus,0,4,Not Placed
+21354,Female,24,Bachelor,7.93,2,2023,Opted,5,No,Mechanical,Off Campus,742353,2,Placed
+21355,Female,26,Master,9.14,0,2019,Opted,1,No,Electrical,Off Campus,0,3,Not Placed
+21356,Female,27,Bachelor,5.4,2,2018,Not Opted,4,No,Information Technology,On Campus,0,4,Not Placed
+21357,Female,27,Bachelor,7.38,0,2020,Not Opted,2,Yes,Mechanical,Off Campus,0,3,Not Placed
+21358,Male,27,Bachelor,8.15,1,2018,Not Opted,3,Yes,Electronics,Off Campus,0,3,Not Placed
+21359,Female,26,Bachelor,9.14,2,2023,Opted,0,No,Mechanical,Off Campus,638292,0,Placed
+21360,Male,24,Master,8.92,0,2021,Opted,3,Yes,Mechanical,On Campus,0,4,Not Placed
+21361,Female,29,Master,6.39,1,2019,Not Opted,3,No,Information Technology,On Campus,951679,2,Placed
+21362,Female,24,Master,9.7,2,2019,Not Opted,2,Yes,Information Technology,Off Campus,0,4,Not Placed
+21363,Male,25,Bachelor,5.62,3,2020,Opted,4,No,Computer Science,Off Campus,0,4,Not Placed
+21364,Female,29,Master,9.38,2,2019,Opted,2,Yes,Electrical,Off Campus,0,3,Not Placed
+21365,Female,24,Bachelor,9.85,4,2023,Opted,0,No,Information Technology,Off Campus,0,3,Not Placed
+21366,Female,24,Master,5.89,2,2023,Opted,2,Yes,Electronics,On Campus,0,3,Not Placed
+21367,Male,27,Master,8.61,4,2023,Not Opted,1,No,Computer Science,On Campus,0,3,Not Placed
+21368,Female,26,Master,5.2,1,2019,Opted,3,Yes,Computer Science,On Campus,491040,2,Placed
+21369,Male,28,Master,7.03,2,2019,Opted,4,Yes,Computer Science,Off Campus,971829,1,Placed
+21370,Female,24,Master,7.58,1,2023,Opted,5,Yes,Computer Science,On Campus,958339,0,Placed
+21371,Male,25,Bachelor,7.9,1,2019,Opted,0,No,Electrical,Off Campus,0,3,Not Placed
+21372,Male,30,Master,9.68,0,2019,Opted,5,Yes,Computer Science,Off Campus,0,3,Not Placed
+21373,Female,24,Bachelor,8.36,1,2021,Opted,3,Yes,Computer Science,Off Campus,764204,0,Placed
+21374,Female,24,Bachelor,7.41,1,2018,Opted,2,Yes,Computer Science,On Campus,0,3,Not Placed
+21375,Male,24,Bachelor,9.05,2,2022,Not Opted,5,No,Electronics,Off Campus,993983,1,Placed
+21376,Male,27,Bachelor,9.75,2,2019,Not Opted,1,Yes,Electronics,On Campus,0,4,Not Placed
+21377,Female,27,Bachelor,5.11,3,2022,Not Opted,2,No,Computer Science,Off Campus,581767,0,Placed
+21378,Male,26,Master,9.91,0,2022,Opted,3,Yes,Electronics,On Campus,911782,2,Placed
+21379,Female,24,Master,5.43,1,2021,Not Opted,5,No,Information Technology,Off Campus,709068,0,Placed
+21380,Female,30,Master,9.07,0,2019,Opted,0,No,Computer Science,On Campus,575360,1,Placed
+21381,Female,25,Master,6.4,4,2023,Opted,5,Yes,Electrical,Off Campus,527535,2,Placed
+21382,Female,26,Bachelor,5.66,1,2022,Opted,5,No,Computer Science,On Campus,0,4,Not Placed
+21383,Male,25,Master,7.2,0,2019,Opted,4,No,Electronics,Off Campus,0,3,Not Placed
+21384,Female,26,Master,8.22,3,2020,Not Opted,5,Yes,Computer Science,Off Campus,787699,0,Placed
+21385,Male,27,Bachelor,6.9,3,2023,Opted,3,No,Civil,Off Campus,964797,2,Placed
+21386,Female,27,Bachelor,5.27,1,2020,Opted,0,No,Computer Science,On Campus,273185,0,Placed
+21387,Male,25,Master,8.0,4,2020,Not Opted,3,No,Electrical,Off Campus,0,4,Not Placed
+21388,Female,30,Master,9.51,3,2022,Not Opted,1,No,Mechanical,Off Campus,856248,0,Placed
+21389,Male,26,Bachelor,6.92,3,2020,Not Opted,2,Yes,Computer Science,Off Campus,700735,2,Placed
+21390,Male,24,Master,6.08,4,2021,Opted,5,No,Information Technology,On Campus,327574,1,Placed
+21391,Female,29,Master,7.21,0,2021,Not Opted,4,No,Information Technology,Off Campus,912495,2,Placed
+21392,Female,24,Master,5.24,3,2022,Opted,0,Yes,Electrical,Off Campus,229424,0,Placed
+21393,Female,24,Master,9.1,2,2019,Opted,4,Yes,Computer Science,On Campus,0,4,Not Placed
+21394,Female,27,Bachelor,9.13,3,2018,Not Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+21395,Male,27,Bachelor,7.94,0,2019,Not Opted,4,Yes,Electrical,On Campus,0,3,Not Placed
+21396,Female,24,Bachelor,6.77,0,2019,Not Opted,5,Yes,Information Technology,Off Campus,0,4,Not Placed
+21397,Male,24,Master,9.0,1,2019,Opted,0,Yes,Electrical,On Campus,615915,0,Placed
+21398,Male,28,Master,7.77,2,2019,Opted,0,Yes,Computer Science,On Campus,0,4,Not Placed
+21399,Female,25,Master,9.13,0,2023,Opted,4,Yes,Information Technology,On Campus,709968,0,Placed
+21400,Male,30,Master,8.16,4,2018,Opted,2,Yes,Electrical,Off Campus,472094,2,Placed
+21401,Male,27,Master,8.92,2,2023,Opted,5,Yes,Electrical,Off Campus,860773,1,Placed
+21402,Male,24,Bachelor,7.99,2,2020,Opted,5,Yes,Information Technology,On Campus,239305,0,Placed
+21403,Male,24,Master,7.07,4,2019,Not Opted,3,Yes,Computer Science,Off Campus,0,3,Not Placed
+21404,Female,28,Master,9.79,3,2021,Opted,5,No,Computer Science,Off Campus,0,3,Not Placed
+21405,Female,27,Bachelor,7.71,4,2022,Not Opted,4,No,Computer Science,On Campus,266778,1,Placed
+21406,Female,24,Master,8.03,4,2022,Not Opted,1,No,Information Technology,On Campus,564777,0,Placed
+21407,Female,22,Bachelor,6.1,3,2023,Not Opted,4,No,Computer Science,On Campus,677061,1,Placed
+21408,Male,23,Bachelor,8.13,3,2023,Not Opted,0,No,Electrical,On Campus,558451,2,Placed
+21409,Male,23,Bachelor,7.86,3,2021,Not Opted,5,Yes,Electrical,Off Campus,760451,1,Placed
+21410,Female,21,Bachelor,5.92,3,2019,Opted,5,Yes,Information Technology,Off Campus,249592,2,Placed
+21411,Female,23,Bachelor,5.3,3,2018,Opted,3,No,Information Technology,Off Campus,0,3,Not Placed
+21412,Female,26,Master,8.02,4,2020,Opted,1,No,Computer Science,Off Campus,388405,2,Placed
+21413,Male,27,Bachelor,8.82,1,2022,Opted,5,Yes,Electrical,Off Campus,579575,0,Placed
+21414,Female,27,Bachelor,7.62,1,2020,Not Opted,3,No,Mechanical,Off Campus,732327,0,Placed
+21415,Female,26,Master,6.13,0,2018,Not Opted,3,Yes,Electronics,On Campus,339270,0,Placed
+21416,Female,25,Master,8.33,1,2023,Not Opted,1,No,Electronics,Off Campus,365426,0,Placed
+21417,Male,24,Bachelor,5.4,1,2022,Opted,4,Yes,Electronics,Off Campus,0,4,Not Placed
+21418,Male,24,Master,7.21,4,2020,Opted,4,No,Information Technology,Off Campus,465968,2,Placed
+21419,Male,24,Master,5.82,3,2023,Opted,4,Yes,Computer Science,On Campus,551679,0,Placed
+21420,Male,27,Bachelor,,3,2018,Opted,2,No,Electrical,On Campus,203436,1,Placed
+21421,Male,21,Bachelor,6.01,4,2020,Not Opted,4,No,Computer Science,Off Campus,817838,1,Placed
+21422,Male,27,Master,6.93,1,2019,Not Opted,1,Yes,Electrical,On Campus,0,4,Not Placed
+21423,Male,21,Bachelor,5.26,4,2023,Opted,2,Yes,Electronics,On Campus,216057,2,Placed
+21424,Male,22,Bachelor,6.99,0,2018,Opted,4,No,Electronics,Off Campus,725598,2,Placed
+21425,Female,24,Master,7.56,3,2020,Not Opted,2,No,Information Technology,Off Campus,851201,2,Placed
+21426,Female,21,Bachelor,7.42,2,2019,Not Opted,1,Yes,Electrical,Off Campus,0,4,Not Placed
+21427,Male,27,Bachelor,6.91,0,2019,Not Opted,4,Yes,Electrical,On Campus,969129,2,Placed
+21428,Male,26,Bachelor,9.2,0,2018,Not Opted,0,Yes,Electronics,On Campus,979276,2,Placed
+21429,Female,21,Bachelor,5.73,4,2021,Opted,5,No,Electronics,Off Campus,790301,0,Placed
+21430,Male,21,Bachelor,7.53,1,2022,Not Opted,1,No,Civil,On Campus,864266,2,Placed
+21431,Male,26,Master,5.31,3,2018,Not Opted,3,Yes,Computer Science,On Campus,865228,0,Placed
+21432,Male,24,Master,5.36,2,2019,Not Opted,3,No,Information Technology,On Campus,742834,0,Placed
+21433,Female,24,Bachelor,7.87,0,2019,Not Opted,1,No,Computer Science,Off Campus,298812,2,Placed
+21434,Female,26,Master,7.83,2,2018,Opted,3,Yes,Computer Science,Off Campus,797143,1,Placed
+21435,Female,27,Bachelor,9.39,1,2021,Opted,1,No,Mechanical,Off Campus,0,3,Not Placed
+21436,Female,27,Bachelor,7.79,1,2022,Opted,0,Yes,Civil,Off Campus,575735,1,Placed
+21437,Female,27,Bachelor,9.8,2,2020,Opted,1,Yes,Computer Science,Off Campus,398453,2,Placed
+21438,Male,25,Bachelor,5.24,3,2018,Opted,4,No,Computer Science,On Campus,879044,2,Placed
+21439,Female,27,Bachelor,5.49,1,2022,Opted,4,No,Computer Science,On Campus,492002,1,Placed
+21440,Male,24,Master,5.22,2,2022,Not Opted,2,Yes,Electronics,On Campus,245330,2,Placed
+21441,Male,30,Master,5.93,0,2023,Not Opted,3,Yes,Computer Science,On Campus,979340,0,Placed
+21442,Female,22,Bachelor,7.71,2,2019,Not Opted,5,Yes,Computer Science,On Campus,0,4,Not Placed
+21443,Female,24,Master,8.23,2,2020,Not Opted,3,No,Computer Science,On Campus,554347,2,Placed
+21444,Male,21,Bachelor,5.23,4,2018,Opted,1,Yes,Information Technology,Off Campus,487437,2,Placed
+21445,Male,26,Master,9.73,1,2019,Not Opted,5,Yes,Mechanical,Off Campus,335701,1,Placed
+21446,Male,26,Bachelor,9.21,3,2023,Opted,5,Yes,Computer Science,On Campus,205704,0,Placed
+21447,Female,24,Master,,3,2023,Not Opted,3,Yes,Information Technology,Off Campus,332848,1,Placed
+21448,Female,23,Bachelor,5.39,4,2019,Not Opted,5,No,Computer Science,On Campus,388327,1,Placed
+21449,Female,25,Bachelor,5.85,3,2021,Not Opted,5,No,Information Technology,On Campus,772569,2,Placed
+21450,Female,24,Master,5.63,2,2022,Opted,4,Yes,Electronics,Off Campus,841260,0,Placed
+21451,Female,30,Master,5.62,4,2018,Not Opted,0,No,Computer Science,Off Campus,313532,2,Placed
+21452,Male,23,Bachelor,7.59,0,2018,Opted,1,No,Computer Science,On Campus,624452,2,Placed
+21453,Female,30,Master,6.23,1,2018,Opted,3,No,Electronics,Off Campus,266780,2,Placed
+21454,Male,23,Bachelor,6.79,1,2019,Not Opted,4,Yes,Computer Science,On Campus,400277,2,Placed
+21455,Male,25,Master,9.95,1,2021,Opted,2,No,Electrical,On Campus,0,4,Not Placed
+21456,Male,25,Master,8.42,2,2020,Opted,5,No,Information Technology,On Campus,0,3,Not Placed
+21457,Female,24,Bachelor,9.74,0,2023,Not Opted,5,Yes,Computer Science,On Campus,517477,0,Placed
+21458,Female,24,Master,5.71,4,2019,Not Opted,3,Yes,Electrical,On Campus,0,4,Not Placed
+21459,Female,25,Master,6.91,4,2020,Not Opted,0,No,Electronics,Off Campus,0,3,Not Placed
+21460,Male,27,Bachelor,,1,2023,Not Opted,0,No,Electrical,On Campus,0,3,Not Placed
+21461,Male,25,Master,5.38,0,2023,Not Opted,3,Yes,Computer Science,Off Campus,0,3,Not Placed
+21462,Male,24,Bachelor,5.02,0,2021,Not Opted,3,Yes,Information Technology,On Campus,0,4,Not Placed
+21463,Male,26,Bachelor,8.35,0,2022,Opted,4,Yes,Information Technology,Off Campus,438408,0,Placed
+21464,Male,27,Bachelor,8.21,3,2018,Not Opted,3,Yes,Electrical,On Campus,814181,1,Placed
+21465,Male,24,Bachelor,7.05,3,2020,Not Opted,2,No,Electrical,Off Campus,0,3,Not Placed
+21466,Female,27,Bachelor,7.45,1,2019,Opted,4,Yes,Computer Science,On Campus,230844,1,Placed
+21467,Female,27,Master,7.08,0,2020,Not Opted,5,No,Electrical,On Campus,576645,1,Placed
+21468,Female,22,Bachelor,,0,2022,Opted,5,No,Electrical,Off Campus,725080,2,Placed
+21469,Female,23,Bachelor,6.68,4,2018,Not Opted,5,No,Information Technology,Off Campus,632911,1,Placed
+21470,Male,24,Master,5.89,4,2020,Not Opted,5,Yes,Electrical,Off Campus,807475,2,Placed
+21471,Male,28,Master,5.49,1,2022,Opted,1,Yes,Computer Science,Off Campus,242510,0,Placed
+21472,Female,29,Master,9.78,0,2019,Not Opted,2,No,Information Technology,Off Campus,632353,0,Placed
+21473,Male,24,Bachelor,8.0,1,2021,Opted,4,No,Civil,Off Campus,313104,2,Placed
+21474,Female,26,Bachelor,8.64,4,2023,Not Opted,4,No,Information Technology,On Campus,928770,0,Placed
+21475,Female,27,Bachelor,6.58,4,2019,Not Opted,5,No,Information Technology,On Campus,0,3,Not Placed
+21476,Female,26,Master,6.97,3,2018,Opted,0,No,Electrical,On Campus,892150,0,Placed
+21477,Male,27,Bachelor,6.18,1,2023,Not Opted,4,Yes,Civil,Off Campus,545712,2,Placed
+21478,Female,24,Master,5.48,1,2019,Not Opted,2,Yes,Civil,Off Campus,0,3,Not Placed
+21479,Female,27,Bachelor,5.9,0,2019,Opted,3,Yes,Electrical,Off Campus,624101,1,Placed
+21480,Female,29,Master,8.99,0,2019,Not Opted,2,No,Computer Science,On Campus,265214,1,Placed
+21481,Male,24,Bachelor,8.39,3,2019,Opted,5,No,Mechanical,Off Campus,769158,1,Placed
+21482,Male,25,Bachelor,7.73,2,2023,Not Opted,5,Yes,Electrical,On Campus,983577,2,Placed
+21483,Female,27,Bachelor,7.38,2,2018,Opted,1,Yes,Information Technology,Off Campus,248110,1,Placed
+21484,Male,30,Master,9.61,2,2022,Not Opted,4,No,Electronics,Off Campus,723538,0,Placed
+21485,Male,26,Master,5.36,1,2020,Opted,4,Yes,Information Technology,Off Campus,860531,1,Placed
+21486,Male,27,Bachelor,6.4,1,2021,Opted,4,Yes,Computer Science,On Campus,0,4,Not Placed
+21487,Male,23,Bachelor,6.75,4,2020,Not Opted,5,Yes,Electronics,Off Campus,0,4,Not Placed
+21488,Male,27,Bachelor,8.91,1,2020,Not Opted,4,No,Electrical,On Campus,665462,1,Placed
+21489,Male,28,Master,9.96,1,2021,Opted,0,No,Information Technology,Off Campus,446797,1,Placed
+21490,Male,27,Bachelor,6.2,1,2023,Not Opted,0,Yes,Computer Science,Off Campus,0,4,Not Placed
+21491,Male,26,Bachelor,9.37,3,2018,Opted,3,No,Electrical,Off Campus,369299,1,Placed
+21492,Male,27,Bachelor,9.15,1,2021,Not Opted,4,Yes,Computer Science,Off Campus,0,3,Not Placed
+21493,Male,27,Bachelor,6.12,0,2018,Not Opted,1,Yes,Information Technology,On Campus,0,4,Not Placed
+21494,Female,26,Master,7.0,0,2023,Opted,3,No,Electrical,Off Campus,487832,2,Placed
+21495,Female,29,Master,7.05,4,2020,Opted,5,No,Mechanical,On Campus,0,4,Not Placed
+21496,Male,24,Bachelor,9.89,3,2018,Not Opted,4,No,Electrical,Off Campus,484712,0,Placed
+21497,Female,27,Bachelor,5.9,0,2023,Not Opted,0,Yes,Electronics,Off Campus,0,3,Not Placed
+21498,Female,24,Master,9.0,3,2023,Not Opted,1,Yes,Electronics,Off Campus,294449,2,Placed
+21499,Male,24,Master,6.67,3,2022,Not Opted,3,Yes,Electrical,On Campus,769505,1,Placed
+21500,Male,27,Bachelor,8.65,4,2021,Not Opted,1,No,Computer Science,Off Campus,379194,0,Placed
+21501,Male,29,Master,7.1,3,2022,Opted,4,Yes,Mechanical,On Campus,723048,0,Placed
+21502,Female,25,Master,7.89,1,2020,Not Opted,2,Yes,Information Technology,On Campus,0,3,Not Placed
+21503,Female,24,Bachelor,9.16,3,2021,Not Opted,1,Yes,Computer Science,Off Campus,327873,2,Placed
+21504,Male,24,Master,9.02,4,2020,Opted,1,Yes,Computer Science,On Campus,487502,0,Placed
+21505,Male,24,Master,9.33,4,2022,Opted,5,No,Electronics,Off Campus,314064,2,Placed
+21506,Male,27,Bachelor,5.3,4,2023,Opted,0,No,Computer Science,On Campus,997455,2,Placed
+21507,Female,26,Bachelor,8.46,0,2020,Not Opted,4,No,Computer Science,On Campus,819675,0,Placed
+21508,Female,24,Master,5.7,1,2021,Opted,1,Yes,Electronics,On Campus,884116,2,Placed
+21509,Female,27,Bachelor,7.08,0,2021,Opted,4,Yes,Mechanical,On Campus,0,3,Not Placed
+21510,Female,24,Master,7.74,2,2020,Opted,0,Yes,Electrical,Off Campus,286728,0,Placed
+21511,Male,27,Bachelor,7.01,1,2021,Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+21512,Male,27,Master,7.6,3,2023,Not Opted,4,No,Computer Science,Off Campus,0,3,Not Placed
+21513,Male,25,Bachelor,9.98,4,2023,Not Opted,0,No,Electrical,On Campus,305696,2,Placed
+21514,Male,30,Master,5.68,2,2021,Not Opted,0,No,Computer Science,Off Campus,473591,2,Placed
+21515,Female,30,Master,8.38,1,2020,Opted,3,No,Electrical,Off Campus,317954,0,Placed
+21516,Female,28,Master,6.98,0,2022,Opted,5,Yes,Computer Science,On Campus,286569,1,Placed
+21517,Male,27,Bachelor,5.67,4,2021,Opted,5,No,Mechanical,On Campus,437963,0,Placed
+21518,Male,25,Bachelor,5.79,0,2021,Opted,4,No,Information Technology,Off Campus,0,3,Not Placed
+21519,Female,30,Master,9.75,1,2021,Opted,2,No,Computer Science,On Campus,221637,2,Placed
+21520,Male,25,Master,9.4,1,2021,Opted,3,Yes,Mechanical,On Campus,0,3,Not Placed
+21521,Female,22,Bachelor,9.54,2,2020,Not Opted,5,No,Computer Science,On Campus,0,4,Not Placed
+21522,Male,25,Bachelor,9.96,3,2022,Not Opted,0,No,Information Technology,On Campus,0,4,Not Placed
+21523,Male,23,Bachelor,6.04,0,2022,Opted,5,No,Electronics,On Campus,0,3,Not Placed
+21524,Male,27,Bachelor,6.78,2,2018,Not Opted,2,Yes,Information Technology,On Campus,223560,1,Placed
+21525,Male,27,Bachelor,8.35,4,2021,Opted,1,Yes,Information Technology,On Campus,989466,1,Placed
+21526,Male,25,Bachelor,7.42,3,2021,Opted,1,No,Information Technology,On Campus,331241,0,Placed
+21527,Male,28,Master,7.09,2,2018,Not Opted,5,No,Computer Science,On Campus,816737,0,Placed
+21528,Male,21,Bachelor,,0,2022,Opted,5,No,Computer Science,Off Campus,727527,0,Placed
+21529,Female,24,Master,7.97,1,2019,Not Opted,3,No,Electronics,On Campus,727703,2,Placed
+21530,Female,23,Bachelor,7.88,4,2023,Opted,5,Yes,Electrical,On Campus,678704,1,Placed
+21531,Female,27,Bachelor,5.81,0,2019,Opted,2,No,Computer Science,On Campus,0,3,Not Placed
+21532,Female,25,Master,7.36,3,2022,Not Opted,5,Yes,Computer Science,On Campus,0,4,Not Placed
+21533,Female,29,Master,7.77,3,2021,Opted,4,No,Mechanical,On Campus,218225,1,Placed
+21534,Male,27,Bachelor,7.85,1,2019,Opted,2,Yes,Civil,Off Campus,280459,1,Placed
+21535,Male,24,Master,6.05,1,2020,Opted,3,Yes,Information Technology,Off Campus,714782,1,Placed
+21536,Female,24,Master,8.71,4,2020,Not Opted,4,No,Electronics,On Campus,916464,0,Placed
+21537,Male,25,Master,5.13,4,2018,Opted,4,Yes,Electronics,Off Campus,483080,2,Placed
+21538,Female,24,Master,6.77,1,2022,Opted,1,No,Computer Science,On Campus,0,3,Not Placed
+21539,Female,27,Bachelor,8.9,1,2022,Opted,2,Yes,Computer Science,On Campus,564413,0,Placed
+21540,Male,29,Master,7.82,3,2019,Not Opted,4,Yes,Computer Science,Off Campus,764240,2,Placed
+21541,Male,27,Bachelor,6.31,1,2021,Not Opted,3,No,Electronics,Off Campus,942759,1,Placed
+21542,Male,26,Bachelor,8.47,2,2022,Not Opted,1,No,Electronics,Off Campus,467524,2,Placed
+21543,Female,27,Bachelor,7.84,0,2019,Not Opted,4,Yes,Electrical,Off Campus,905658,0,Placed
+21544,Male,21,Bachelor,8.98,1,2019,Not Opted,2,Yes,Computer Science,Off Campus,805109,1,Placed
+21545,Female,24,Master,8.68,4,2023,Opted,1,No,Electrical,On Campus,620476,0,Placed
+21546,Female,28,Master,8.05,2,2023,Not Opted,2,No,Electronics,On Campus,0,3,Not Placed
+21547,Female,22,Bachelor,7.44,4,2022,Not Opted,2,No,Mechanical,On Campus,347215,1,Placed
+21548,Male,27,Bachelor,5.67,2,2019,Opted,2,Yes,Computer Science,Off Campus,928309,2,Placed
+21549,Male,27,Bachelor,6.31,1,2018,Not Opted,1,No,Electronics,On Campus,362650,0,Placed
+21550,Female,27,Bachelor,7.1,0,2018,Opted,4,No,Computer Science,Off Campus,0,4,Not Placed
+21551,Male,26,Master,8.0,4,2023,Not Opted,5,Yes,Electronics,On Campus,519475,2,Placed
+21552,Male,21,Bachelor,7.57,2,2022,Opted,0,No,Electrical,Off Campus,816839,2,Placed
+21553,Male,24,Master,6.44,3,2021,Opted,4,No,Computer Science,Off Campus,709142,1,Placed
+21554,Female,22,Bachelor,5.03,1,2018,Not Opted,1,No,Electronics,On Campus,271519,2,Placed
+21555,Female,26,Bachelor,7.48,0,2018,Not Opted,0,No,Computer Science,On Campus,350250,0,Placed
+21556,Male,26,Bachelor,6.43,1,2023,Opted,0,Yes,Electronics,On Campus,0,4,Not Placed
+21557,Female,22,Bachelor,8.67,3,2023,Opted,0,No,Computer Science,On Campus,0,3,Not Placed
+21558,Male,24,Master,5.12,0,2022,Opted,5,No,Electronics,Off Campus,0,4,Not Placed
+21559,Male,30,Master,7.92,3,2023,Opted,3,No,Mechanical,On Campus,309365,0,Placed
+21560,Male,25,Master,9.71,1,2020,Opted,1,No,Information Technology,Off Campus,721291,1,Placed
+21561,Male,25,Bachelor,5.87,2,2019,Opted,5,No,Electrical,On Campus,498510,0,Placed
+21562,Female,22,Bachelor,7.36,1,2018,Opted,5,No,Information Technology,On Campus,646171,2,Placed
+21563,Female,26,Master,5.46,1,2020,Not Opted,3,Yes,Computer Science,On Campus,299830,1,Placed
+21564,Female,29,Master,8.13,1,2021,Opted,0,Yes,Electrical,On Campus,0,3,Not Placed
+21565,Male,22,Bachelor,7.75,4,2020,Not Opted,3,Yes,Electronics,On Campus,0,3,Not Placed
+21566,Male,27,Bachelor,7.04,3,2022,Not Opted,3,No,Mechanical,Off Campus,777907,0,Placed
+21567,Male,24,Master,7.61,3,2021,Opted,5,No,Mechanical,On Campus,470445,2,Placed
+21568,Female,23,Bachelor,9.48,3,2021,Opted,1,No,Electrical,Off Campus,0,3,Not Placed
+21569,Male,27,Bachelor,,4,2023,Not Opted,2,Yes,Electronics,On Campus,0,4,Not Placed
+21570,Female,26,Master,5.11,2,2020,Opted,3,No,Electronics,Off Campus,303623,1,Placed
+21571,Female,27,Bachelor,9.31,1,2022,Opted,3,Yes,Information Technology,On Campus,0,4,Not Placed
+21572,Female,28,Master,7.89,2,2018,Not Opted,0,No,Computer Science,On Campus,0,3,Not Placed
+21573,Female,26,Bachelor,9.45,4,2023,Not Opted,0,No,Information Technology,On Campus,0,3,Not Placed
+21574,Female,30,Master,7.98,3,2020,Not Opted,5,Yes,Electronics,Off Campus,692133,0,Placed
+21575,Female,23,Bachelor,9.05,1,2018,Opted,0,Yes,Electrical,Off Campus,241770,0,Placed
+21576,Male,24,Master,7.15,0,2020,Opted,4,Yes,Electronics,On Campus,746588,1,Placed
+21577,Male,24,Master,8.75,0,2023,Not Opted,3,Yes,Computer Science,On Campus,842313,0,Placed
+21578,Female,27,Master,9.57,2,2018,Opted,0,Yes,Civil,On Campus,399307,2,Placed
+21579,Female,25,Master,7.86,3,2023,Not Opted,1,Yes,Information Technology,Off Campus,622701,1,Placed
+21580,Male,24,Bachelor,5.9,0,2020,Opted,4,No,Electrical,On Campus,240285,2,Placed
+21581,Female,27,Bachelor,6.34,2,2021,Not Opted,5,Yes,Computer Science,Off Campus,921915,0,Placed
+21582,Female,24,Master,5.99,4,2019,Opted,2,No,Computer Science,On Campus,317713,1,Placed
+21583,Male,24,Bachelor,6.23,2,2021,Not Opted,3,No,Electronics,Off Campus,0,3,Not Placed
+21584,Female,26,Bachelor,6.53,2,2023,Opted,3,No,Civil,Off Campus,0,4,Not Placed
+21585,Female,27,Bachelor,7.78,2,2023,Opted,1,No,Information Technology,Off Campus,0,3,Not Placed
+21586,Female,27,Bachelor,7.94,1,2023,Not Opted,2,No,Computer Science,On Campus,844158,2,Placed
+21587,Male,25,Bachelor,7.13,2,2018,Opted,2,Yes,Information Technology,Off Campus,0,3,Not Placed
+21588,Male,26,Master,8.08,2,2022,Opted,5,Yes,Computer Science,On Campus,0,3,Not Placed
+21589,Male,24,Master,5.41,1,2023,Not Opted,5,Yes,Computer Science,Off Campus,0,4,Not Placed
+21590,Female,29,Master,5.44,1,2021,Opted,4,No,Electronics,On Campus,0,4,Not Placed
+21591,Female,28,Master,5.86,4,2019,Opted,3,Yes,Mechanical,Off Campus,0,3,Not Placed
+21592,Male,27,Bachelor,7.59,3,2023,Opted,0,No,Computer Science,Off Campus,0,4,Not Placed
+21593,Female,27,Bachelor,6.07,0,2023,Not Opted,5,No,Electrical,On Campus,0,3,Not Placed
+21594,Female,24,Master,6.42,0,2023,Not Opted,1,No,Computer Science,On Campus,648381,1,Placed
+21595,Female,22,Bachelor,,2,2018,Not Opted,1,No,Computer Science,Off Campus,0,3,Not Placed
+21596,Female,27,Bachelor,9.06,4,2023,Not Opted,1,Yes,Computer Science,Off Campus,759013,0,Placed
+21597,Female,28,Master,5.07,2,2021,Not Opted,5,Yes,Electrical,On Campus,0,4,Not Placed
+21598,Male,23,Bachelor,8.25,0,2020,Opted,5,Yes,Computer Science,Off Campus,0,4,Not Placed
+21599,Female,28,Master,8.34,1,2022,Opted,1,Yes,Information Technology,Off Campus,284600,2,Placed
+21600,Male,24,Master,8.99,3,2023,Not Opted,5,Yes,Computer Science,On Campus,335513,2,Placed
+21601,Female,27,Bachelor,,4,2018,Opted,0,No,Computer Science,On Campus,311315,0,Placed
+21602,Male,24,Bachelor,5.1,1,2021,Opted,0,Yes,Computer Science,On Campus,0,4,Not Placed
+21603,Female,24,Master,5.77,3,2023,Opted,4,No,Mechanical,Off Campus,0,4,Not Placed
+21604,Male,26,Master,9.43,4,2018,Opted,3,No,Electronics,Off Campus,811692,2,Placed
+21605,Female,27,Bachelor,7.29,4,2020,Not Opted,0,No,Mechanical,Off Campus,635213,2,Placed
+21606,Male,24,Master,7.82,0,2019,Not Opted,4,Yes,Information Technology,On Campus,0,3,Not Placed
+21607,Female,27,Master,8.32,1,2023,Opted,2,No,Information Technology,Off Campus,0,4,Not Placed
+21608,Male,29,Master,8.4,4,2021,Opted,3,No,Information Technology,On Campus,0,4,Not Placed
+21609,Female,22,Bachelor,9.66,4,2018,Not Opted,0,Yes,Computer Science,On Campus,0,3,Not Placed
+21610,Male,24,Master,9.98,3,2018,Opted,2,No,Electronics,Off Campus,0,4,Not Placed
+21611,Male,25,Bachelor,8.6,0,2023,Opted,4,No,Information Technology,On Campus,966656,0,Placed
+21612,Female,24,Master,6.44,2,2018,Opted,0,No,Information Technology,Off Campus,332053,2,Placed
+21613,Female,27,Bachelor,9.4,0,2019,Not Opted,0,Yes,Electrical,On Campus,393953,2,Placed
+21614,Male,30,Master,5.25,2,2018,Not Opted,5,No,Information Technology,On Campus,389681,2,Placed
+21615,Female,27,Bachelor,6.16,1,2022,Opted,2,No,Civil,On Campus,680306,1,Placed
+21616,Male,27,Bachelor,9.49,1,2022,Opted,0,Yes,Information Technology,Off Campus,543810,0,Placed
+21617,Male,27,Bachelor,6.28,4,2018,Opted,1,Yes,Electrical,On Campus,685081,0,Placed
+21618,Male,24,Master,6.1,1,2023,Opted,5,No,Information Technology,Off Campus,0,3,Not Placed
+21619,Female,25,Master,5.69,4,2022,Opted,5,Yes,Civil,On Campus,711801,1,Placed
+21620,Male,25,Master,9.3,0,2021,Opted,0,Yes,Information Technology,On Campus,0,4,Not Placed
+21621,Male,27,Bachelor,7.5,1,2022,Not Opted,5,Yes,Electrical,On Campus,317616,0,Placed
+21622,Female,27,Master,8.37,0,2018,Not Opted,3,Yes,Computer Science,Off Campus,418422,1,Placed
+21623,Female,27,Bachelor,6.2,0,2023,Opted,2,Yes,Electronics,Off Campus,389007,1,Placed
+21624,Female,28,Master,,1,2020,Not Opted,3,Yes,Computer Science,Off Campus,942441,0,Placed
+21625,Female,22,Bachelor,,0,2023,Opted,4,Yes,Information Technology,Off Campus,0,3,Not Placed
+21626,Male,27,Bachelor,6.56,1,2023,Opted,3,No,Mechanical,Off Campus,350025,1,Placed
+21627,Male,24,Bachelor,7.05,1,2023,Not Opted,1,Yes,Civil,On Campus,496247,2,Placed
+21628,Male,26,Master,6.05,1,2021,Not Opted,5,Yes,Information Technology,On Campus,270949,1,Placed
+21629,Male,24,Master,9.88,2,2019,Opted,5,Yes,Electronics,Off Campus,0,4,Not Placed
+21630,Female,27,Master,8.23,0,2018,Opted,1,No,Computer Science,Off Campus,875516,0,Placed
+21631,Male,23,Bachelor,9.67,3,2019,Not Opted,5,Yes,Electronics,Off Campus,0,4,Not Placed
+21632,Male,23,Bachelor,6.52,1,2020,Not Opted,3,Yes,Electrical,Off Campus,0,3,Not Placed
+21633,Female,24,Master,8.91,0,2019,Opted,4,No,Information Technology,On Campus,898165,2,Placed
+21634,Male,28,Master,8.83,4,2018,Opted,0,Yes,Mechanical,Off Campus,988419,0,Placed
+21635,Male,26,Master,,1,2018,Opted,1,No,Electronics,Off Campus,262979,1,Placed
+21636,Male,21,Bachelor,9.83,1,2020,Not Opted,3,No,Computer Science,Off Campus,283905,2,Placed
+21637,Male,21,Bachelor,6.97,3,2018,Opted,3,Yes,Electronics,Off Campus,883228,1,Placed
+21638,Male,27,Bachelor,5.65,2,2020,Not Opted,3,No,Computer Science,On Campus,0,3,Not Placed
+21639,Male,27,Bachelor,8.36,2,2020,Opted,0,Yes,Electronics,On Campus,263805,0,Placed
+21640,Female,25,Bachelor,8.65,1,2018,Not Opted,2,Yes,Electrical,Off Campus,0,3,Not Placed
+21641,Female,25,Master,,0,2022,Not Opted,5,No,Computer Science,On Campus,0,3,Not Placed
+21642,Male,24,Bachelor,6.03,4,2020,Not Opted,5,No,Electronics,On Campus,0,3,Not Placed
+21643,Male,26,Bachelor,7.52,4,2018,Not Opted,4,Yes,Electrical,Off Campus,0,3,Not Placed
+21644,Female,26,Bachelor,6.56,0,2022,Opted,2,Yes,Electrical,Off Campus,691135,1,Placed
+21645,Male,23,Bachelor,7.14,1,2020,Not Opted,5,No,Computer Science,On Campus,0,4,Not Placed
+21646,Male,27,Bachelor,8.23,4,2022,Not Opted,4,Yes,Computer Science,On Campus,348079,1,Placed
+21647,Male,27,Master,8.73,2,2021,Not Opted,4,Yes,Electronics,On Campus,563604,2,Placed
+21648,Female,21,Bachelor,6.16,0,2023,Opted,3,Yes,Computer Science,On Campus,0,3,Not Placed
+21649,Male,27,Bachelor,7.03,3,2021,Opted,1,No,Information Technology,On Campus,932224,2,Placed
+21650,Female,25,Bachelor,6.35,1,2022,Opted,3,Yes,Electronics,Off Campus,596605,1,Placed

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Course Resources | Campus Placement</title>
+	<style>
+		body {
+			background-color:#5136ff; /* Amazing background color #F08080*/
+			color: #FFF; /* Text color */
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		.container {
+			max-width: 1200px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+
+		h1 {
+			font-size: 36px;
+			margin-top: 0;
+		}
+
+		h2 {
+			font-size: 24px;
+			margin-top: 0;
+		}
+
+		p {
+			font-size: 18px;
+			line-height: 1.5;
+			margin-bottom: 20px;
+		}
+
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+		}
+
+		li {
+			flex-basis: calc(33.33% - 10px);
+			background-color: #FFF;
+			color: #000; /* Text color */
+			padding: 20px;
+			margin-bottom: 20px;
+			border-radius: 5px;
+			box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+			transition: box-shadow 0.3s ease-in-out;
+			cursor: pointer;
+		}
+
+		li:hover {
+			box-shadow: 0px 5px 10px rgba(0,0,0,0.5);
+		}
+
+		a {
+			color: #FFF; /* Text color */
+			text-decoration: none;
+			font-weight: bold;
+			font-size: 18px;
+			display: inline-block;
+			margin-top: 20px;
+			background-color: #000; /* Amazing button color */
+			padding: 10px 20px;
+			border-radius: 5px;
+			transition: background-color 0.3s ease-in-out;
+		}
+
+		a:hover {
+			background-color: #FFF;
+			color: #000; /* Text color */
+		} 
+.grid-box {
+		background-color:#33658a;
+		padding: 20px;
+		border-radius: 10px;
+		margin: 20px;
+	}
+	
+	h2 {
+		color: #243a5e;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	
+	p {
+		color: #243a5e;
+		font-size: 18px;
+		line-height: 1.5;
+		margin-bottom: 20px;
+	}
+	
+	ul {
+		color: #243a5e;
+		font-size: 16px;
+		line-height: 1.5;
+		margin-left: 30px;
+	}
+	
+	ul li {
+		margin-bottom: 10px;
+	}
+div #c{ 
+color:white;
+}  
+#m,p,li{
+animation: fadeIn 2s;
+	}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+		}
+	to {
+		opacity: 1;
+		}
+	}
+
+
+
+a button{
+background-color:white; 
+border:none;
+}
+
+</style>
+</head>
+<body> 
+
+    <a href="{{url_for("hel")}}"> <button> Back </button> </a>
+	<div class="container">
+		<center> <h1 id="m"> COURSE RESOURCES </h1>  
+		<p>Here are some resources that you might find useful for your course</p>  </center>
+		<ul>
+			<li>
+				<h2>Online Learning Platforms</h2>
+				<p>Explore some of the best online learning platforms such as Udemy, Coursera and edX.</p>
+			</li>
+			<li>
+				<h2>Books and eBooks</h2>
+				<p>Find a variety of books and eBooks related to your course topic from Amazon or Google Books.</p>
+			</li>
+			<li>
+				<h2>Podcasts</h2>
+				<p>Listen to some insightful podcasts and interviews related to your course topic from popular platforms such as Spotify and Apple Podcasts.</p>
+			</li>
+			<li>
+				<h2>Online Communities</h2>
+				<p>Join some of the most active online communities and forums related to your course topic on Reddit, Discord, or Slack.</p>
+			</li>
+			</div>
+
+
+<style>
+  .grid-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#80adf0;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  #c {
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 24px;
+    color: #fff;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 10px 0;
+  }
+
+  .button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .button:hover {
+    background-color: #218838;
+  }
+</style>
+
+<div class="grid-box">
+  <p id="c">Access a variety of resources to enhance your learning experience:</p>
+  <ul>
+    <li>Video lectures and tutorials</li>
+    <li>Online readings and articles</li>
+    <li>Practice quizzes and assessments</li>
+    <li>Discussion forums and study groups</li>
+    <li>Live webinars and Q&A sessions</li>
+    <li>One-on-one coaching and support</li>
+    <li>And much more!</li>
+  </ul>
+  <a href="#" class="button">Learn More</a>
+</div>
+
+</body>
+</html> 
